@@ -1,0 +1,101 @@
+custom_lo_id,learning_object_title,topic,description
+LO-C1-01,Nhận dạng và giải phương trình tích,1,Phân tích vế trái thành nhân tử để đưa phương trình về dạng A(x) * B(x) = 0 và tìm nghiệm.
+LO-C1-02,Xác định điều kiện và giải phương trình chứa ẩn ở mẫu,1,"Tìm điều kiện xác định của phương trình, quy đồng mẫu thức hai vế, khử mẫu và giải phương trình nhận được."
+LO-C1-03,Giải bài toán bằng cách lập phương trình,1,"Phân tích bài toán thực tế, chọn ẩn số, lập phương trình và giải để tìm ra đáp số thỏa mãn điều kiện."
+LO-C1-04,Khái niệm phương trình bậc nhất hai ẩn và nghiệm,1,Hiểu định nghĩa phương trình dạng ax + by = c và cách kiểm tra một cặp số (x; y) có phải là nghiệm hay không.
+LO-C1-05,Biểu diễn hình học tập nghiệm của phương trình bậc nhất hai ẩn,1,Biết rằng tập nghiệm của phương trình ax + by = c là một đường thẳng và cách vẽ đường thẳng đó trên mặt phẳng tọa độ.
+LO-C1-06,Khái niệm hệ hai phương trình bậc nhất hai ẩn và nghiệm,1,Hiểu một hệ phương trình gồm hai phương trình bậc nhất hai ẩn và khái niệm nghiệm chung của hệ.
+LO-C1-07,Giải hệ phương trình bằng phương pháp thế,1,Thực hiện các bước rút một ẩn theo ẩn kia từ một phương trình và thế vào phương trình còn lại để giải.
+LO-C1-08,Giải hệ phương trình bằng phương pháp cộng đại số,1,Thực hiện các bước nhân hai vế của phương trình với số thích hợp để làm hệ số của một ẩn đối nhau rồi cộng vế theo vế.
+LO-C1-09,Xác định số nghiệm của hệ phương trình dựa vào tỉ số hệ số,1,"Dựa vào các tỉ số a/a', b/b', c/c' để xác định hệ phương trình có nghiệm duy nhất, vô số nghiệm hay vô nghiệm."
+LO-C1-10,Giải bài toán bằng cách lập hệ phương trình,1,"Phân tích bài toán thực tế, chọn hai ẩn số, lập hệ hai phương trình tương ứng và giải để tìm đáp số."
+LO-C2-01,"Liên hệ giữa thứ tự và phép cộng, phép nhân",2,"Nắm vững các tính chất: cộng cùng một số, nhân với số dương, nhân với số âm và sự thay đổi chiều của bất đẳng thức."
+LO-C2-02,Khái niệm bất phương trình bậc nhất một ẩn,2,"Nhận dạng được bất phương trình có dạng ax + b < 0 (hoặc >, ≤, ≥) với a ≠ 0."
+LO-C2-03,Giải bất phương trình bậc nhất một ẩn,2,Vận dụng hai quy tắc biến đổi tương đương (chuyển vế và nhân/chia) để tìm tập nghiệm của bất phương trình.
+LO-C2-04,Biểu diễn tập nghiệm của bất phương trình trên trục số,2,"Sử dụng các ký hiệu khoảng, đoạn và các loại ngoặc để biểu diễn chính xác tập nghiệm trên trục số."
+LO-C2-05,Giải bất phương trình đưa được về dạng bậc nhất,2,"Thực hiện các phép biến đổi như bỏ ngoặc, quy đồng để đưa các bất phương trình phức tạp hơn về dạng ax + b < 0."
+LO-C2-06,Chứng minh bất đẳng thức cơ bản,2,Sử dụng các tính chất cơ bản và biến đổi tương đương để chứng minh các bất đẳng thức đơn giản.
+LO-C2-07,Áp dụng bất đẳng thức để giải bài toán thực tế,2,Mô hình hóa các điều kiện của bài toán thực tế thành bất phương trình và giải để tìm ra giới hạn của các đại lượng.
+LO-C2-08,So sánh hai số sử dụng tính chất bất đẳng thức,2,Vận dụng các tính chất của bất đẳng thức để so sánh giá trị của hai biểu thức số hoặc biểu thức chứa biến.
+LO-C2-09,"Tìm giá trị lớn nhất, nhỏ nhất sử dụng bất đẳng thức",2,"Sử dụng các bất đẳng thức quen thuộc (như Cauchy cho 2 số) để tìm GTLN, GTNN của một biểu thức."
+LO-C2-10,Giải phương trình chứa dấu giá trị tuyệt đối,2,"Sử dụng định nghĩa giá trị tuyệt đối để phá dấu và giải phương trình, thường liên quan đến việc xét các trường hợp của bất phương trình."
+LO-C3-01,Căn bậc hai số học và so sánh các căn bậc hai,3,"Hiểu định nghĩa căn bậc hai số học và quy tắc so sánh: với a, b ≥ 0, a < b ⇔ √a < √b."
+LO-C3-02,Tìm điều kiện xác định của căn thức,3,Vận dụng quy tắc √A xác định khi A ≥ 0 để tìm điều kiện của biến.
+LO-C3-03,Vận dụng hằng đẳng thức √A² = |A|,3,Áp dụng hằng đẳng thức để khai phương và rút gọn các biểu thức chứa bình phương.
+LO-C3-04,Khai phương một tích và một thương,3,"Áp dụng các quy tắc khai phương một tích, một thương để tính toán và rút gọn biểu thức."
+LO-C3-05,Đưa thừa số ra ngoài và vào trong dấu căn,3,Thành thạo kỹ năng biến đổi √(a²b) = |a|√b và ngược lại để rút gọn và so sánh các căn thức.
+LO-C3-06,Khử mẫu của biểu thức lấy căn,3,Sử dụng phép nhân cả tử và mẫu với mẫu để làm mất dấu căn ở mẫu.
+LO-C3-07,Trục căn thức ở mẫu,3,Nhân cả tử và mẫu với biểu thức liên hợp để làm mất dấu căn ở mẫu trong các biểu thức dạng phân số.
+LO-C3-08,Rút gọn biểu thức tổng hợp chứa căn thức,3,Phối hợp tất cả các kỹ năng biến đổi đã học để rút gọn các biểu thức phức tạp chứa nhiều phép toán với căn thức.
+LO-C3-09,Giải phương trình chứa căn thức đơn giản,3,Giải các phương trình dạng √A = B bằng cách đặt điều kiện và bình phương hai vế.
+LO-C3-10,Khái niệm và tính chất Căn bậc ba,3,"Hiểu định nghĩa và các tính chất cơ bản của căn bậc ba, phân biệt với căn bậc hai."
+LO-C4-01,"Định nghĩa tỉ số lượng giác Sin, Cos, Tan, Cot",4,"Xác định đúng các cạnh đối, kề, huyền trong tam giác vuông và lập các tỉ số lượng giác của một góc nhọn."
+LO-C4-02,Tỉ số lượng giác của hai góc phụ nhau,4,"Nắm vững các mối quan hệ chéo: sin(α) = cos(90°-α), tan(α) = cot(90°-α) và ngược lại."
+LO-C4-03,Sử dụng máy tính cầm tay để tính tỉ số lượng giác và góc,4,Thành thạo việc sử dụng máy tính để tìm giá trị tỉ số lượng giác khi biết góc và ngược lại.
+LO-C4-04,Hệ thức về cạnh và đường cao trong tam giác vuông,4,"Nắm vững và áp dụng các hệ thức như b² = ab', c² = ac', h² = b'c', ah = bc, 1/h² = 1/b² + 1/c²."
+LO-C4-05,Hệ thức về cạnh và góc trong tam giác vuông,4,Vận dụng các hệ thức: cạnh góc vuông bằng cạnh huyền nhân sin góc đối hoặc cos góc kề.
+LO-C4-06,Giải tam giác vuông,4,Tìm tất cả các cạnh và góc còn lại của một tam giác vuông khi biết hai yếu tố (trong đó có ít nhất một yếu tố về cạnh).
+LO-C4-07,Ứng dụng thực tế để đo chiều cao,4,"Sử dụng giác kế và các hệ thức lượng để đo chiều cao của một vật thể (cây, cột cờ, tòa nhà) một cách gián tiếp."
+LO-C4-08,Ứng dụng thực tế để đo khoảng cách,4,Sử dụng các công cụ và hệ thức lượng để đo khoảng cách giữa hai điểm mà không thể tiếp cận trực tiếp.
+LO-C4-09,Chứng minh các đẳng thức lượng giác đơn giản,4,"Sử dụng các định nghĩa và tính chất cơ bản (sin²α + cos²α = 1, tanα = sinα/cosα) để chứng minh các đẳng thức."
+LO-C4-10,Rút gọn biểu thức lượng giác,4,Vận dụng các đẳng thức lượng giác cơ bản để rút gọn các biểu thức phức tạp hơn.
+LO-C5-01,Sự xác định và các tính chất cơ bản của đường tròn,5,"Hiểu rằng một đường tròn được xác định khi biết tâm và bán kính, và tính chất đối xứng của nó."
+LO-C5-02,Quan hệ vuông góc giữa đường kính và dây cung,5,"Nắm vững định lý: trong một đường tròn, đường kính vuông góc với một dây thì đi qua trung điểm của dây ấy và ngược lại."
+LO-C5-03,Vị trí tương đối của đường thẳng và đường tròn,5,"Dựa vào khoảng cách từ tâm đến đường thẳng để xác định vị trí tương đối (cắt nhau, tiếp xúc, không giao nhau)."
+LO-C5-04,Dấu hiệu nhận biết tiếp tuyến của đường tròn,5,Nắm vững hai dấu hiệu chính để chứng minh một đường thẳng là tiếp tuyến của một đường tròn.
+LO-C5-05,Tính chất của hai tiếp tuyến cắt nhau,5,"Vận dụng tính chất về khoảng cách, góc tạo bởi hai tiếp tuyến và tia phân giác để giải các bài toán liên quan."
+LO-C5-06,Vị trí tương đối của hai đường tròn,5,"Dựa vào hệ thức giữa khoảng cách nối tâm và các bán kính để xác định vị trí tương đối (cắt nhau, tiếp xúc, đựng nhau...)."
+LO-C5-07,Góc ở tâm và số đo cung,5,Hiểu mối quan hệ giữa số đo góc ở tâm và số đo cung bị chắn.
+LO-C5-08,Góc nội tiếp và tính chất,5,Nắm vững định lý: số đo góc nội tiếp bằng nửa số đo cung bị chắn và các hệ quả của nó.
+LO-C5-09,Góc tạo bởi tia tiếp tuyến và dây cung,5,Nắm vững định lý: số đo góc tạo bởi tia tiếp tuyến và dây cung bằng nửa số đo cung bị chắn.
+LO-C5-10,Công thức tính độ dài đường tròn và diện tích hình tròn,5,Thành thạo việc sử dụng các công thức C = 2πR và S = πR² để giải các bài toán thực tế.
+LO-C6-01,Đọc và phân tích dữ liệu từ bảng thống kê,6,"Trích xuất thông tin, so sánh và đưa ra nhận xét từ các số liệu được trình bày trong bảng thống kê."
+LO-C6-02,Vẽ biểu đồ cột và biểu đồ cột kép,6,Biểu diễn một bộ số liệu bằng biểu đồ cột đơn và biểu diễn hai bộ số liệu để so sánh bằng biểu đồ cột kép.
+LO-C6-03,Vẽ biểu đồ đoạn thẳng,6,Biểu diễn sự thay đổi của một đại lượng theo thời gian bằng biểu đồ đoạn thẳng.
+LO-C6-04,Vẽ biểu đồ hình quạt tròn,6,"Biểu diễn cơ cấu, tỉ lệ phần trăm của các thành phần trong một tổng thể bằng biểu đồ hình quạt tròn."
+LO-C6-05,Lập bảng tần số và tần số tương đối,6,Tổ chức một mẫu số liệu rời rạc vào bảng tần số và tính toán tần số tương đối (tỉ số phần trăm).
+LO-C6-06,Mẫu số liệu ghép nhóm,6,Hiểu cách chia một mẫu số liệu liên tục thành các nhóm (khoảng) và lập bảng tần số ghép nhóm.
+LO-C6-07,Không gian mẫu và biến cố,6,Mô tả không gian mẫu của một phép thử ngẫu nhiên bằng cách liệt kê hoặc sử dụng quy tắc đếm.
+LO-C6-08,Tính xác suất của biến cố bằng định nghĩa cổ điển,6,Áp dụng công thức P(A) = n(A)/n(Ω) để tính xác suất trong các trường hợp đồng khả năng.
+LO-C6-09,Phân biệt biến cố và phép thử,6,Hiểu rõ sự khác biệt giữa một hành động (phép thử) và một kết quả cụ thể của hành động đó (biến cố).
+LO-C6-10,Giải bài toán xác suất thực tế đơn giản,6,"Mô hình hóa các bài toán thực tế (chọn vật, rút thăm) thành bài toán xác suất và giải quyết."
+LO-C7-01,Tính chất và đồ thị của hàm số y = ax² (a ≠ 0),7,"Nắm vững sự biến thiên (đồng biến, nghịch biến) và các đặc điểm của đồ thị Parabol tương ứng với dấu của a."
+LO-C7-02,Vẽ đồ thị hàm số y = ax² (a ≠ 0),7,Lập bảng giá trị và vẽ chính xác đồ thị Parabol đi qua các điểm đã xác định.
+LO-C7-03,Tìm tọa độ giao điểm của Parabol và đường thẳng,7,Lập và giải phương trình hoành độ giao điểm để tìm tọa độ các điểm chung (nếu có) của (P) và (d).
+LO-C7-04,Nhận dạng và giải phương trình bậc hai một ẩn,7,"Xác định đúng các hệ số a, b, c và giải các dạng phương trình bậc hai khuyết b, khuyết c."
+LO-C7-05,Giải phương trình bậc hai bằng công thức nghiệm,7,Tính biệt thức Delta (Δ) và áp dụng công thức nghiệm để tìm nghiệm của phương trình bậc hai đầy đủ.
+LO-C7-06,Giải phương trình bậc hai bằng công thức nghiệm thu gọn,7,Sử dụng biệt thức Delta phẩy (Δ') khi hệ số b là số chẵn để giải phương trình nhanh hơn.
+LO-C7-07,Biện luận số nghiệm của phương trình bậc hai,7,"Dựa vào dấu của biệt thức Delta (Δ) để xác định phương trình có hai nghiệm phân biệt, nghiệm kép hay vô nghiệm."
+LO-C7-08,Áp dụng Hệ thức Vi-ète để tính tổng và tích các nghiệm,7,Sử dụng hệ thức Vi-ète để tính S = x₁ + x₂ và P = x₁ * x₂ mà không cần giải phương trình.
+LO-C7-09,Tìm hai số khi biết tổng và tích,7,Vận dụng định lý Vi-ète đảo: nếu hai số có tổng S và tích P thì chúng là nghiệm của phương trình X² - SX + P = 0.
+LO-C7-10,Giải bài toán thực tế bằng cách lập phương trình bậc hai,7,"Mô hình hóa các bài toán thực tế (chuyển động, năng suất, hình học) thành phương trình bậc hai và giải."
+LO-C8-01,Xác định tâm và bán kính đường tròn ngoại tiếp tam giác,8,Biết tâm đường tròn ngoại tiếp là giao điểm ba đường trung trực và cách xác định nó trong các trường hợp đặc biệt.
+LO-C8-02,Xác định tâm và bán kính đường tròn nội tiếp tam giác,8,Biết tâm đường tròn nội tiếp là giao điểm ba đường phân giác trong và cách xác định bán kính.
+LO-C8-03,Định nghĩa và tính chất của tứ giác nội tiếp,8,Hiểu rằng một tứ giác nội tiếp khi bốn đỉnh của nó cùng nằm trên một đường tròn và tính chất về tổng hai góc đối.
+LO-C8-04,Dấu hiệu nhận biết tứ giác nội tiếp,8,"Nắm vững và vận dụng các dấu hiệu để chứng minh một tứ giác là tứ giác nội tiếp (tổng hai góc đối bằng 180°, góc ngoài bằng góc trong đối diện, hai đỉnh kề cùng nhìn một cạnh dưới hai góc bằng nhau)."
+LO-C8-05,Chứng minh nhiều điểm cùng thuộc một đường tròn,8,"Sử dụng các dấu hiệu của tứ giác nội tiếp hoặc các tính chất hình học khác để chứng minh 5 điểm, 6 điểm... cùng thuộc một đường tròn."
+LO-C8-06,Áp dụng tính chất tứ giác nội tiếp để chứng minh góc bằng nhau,8,Sử dụng tính chất các góc nội tiếp cùng chắn một cung để suy ra các góc bằng nhau trong một bài toán hình học.
+LO-C8-07,Áp dụng tính chất tứ giác nội tiếp để chứng minh hệ thức hình học,8,Kết hợp tính chất tứ giác nội tiếp với các tam giác đồng dạng để chứng minh các hệ thức về cạnh.
+LO-C8-08,Định lý Ptolemy và ứng dụng (nâng cao),8,Hiểu và áp dụng định lý Ptolemy cho tứ giác nội tiếp: tổng các tích của các cặp cạnh đối bằng tích của hai đường chéo.
+LO-C8-09,Phân biệt đường tròn ngoại tiếp và nội tiếp,8,"Phân biệt rõ ràng hai khái niệm, vị trí tâm và cách xác định bán kính của hai loại đường tròn này trong một tam giác."
+LO-C8-10,Giải các bài toán tổng hợp về đường tròn và tứ giác nội tiếp,8,"Phối hợp nhiều kiến thức về đường tròn, tứ giác nội tiếp, tam giác đồng dạng để giải quyết một bài toán hình học phức tạp."
+LO-C9-01,Khái niệm đa giác lồi và đa giác đều,9,Phân biệt được đa giác lồi và đa giác không lồi. Hiểu định nghĩa đa giác đều là đa giác có tất cả các cạnh và các góc bằng nhau.
+LO-C9-02,Công thức tính tổng số đo các góc của một đa giác,9,Nắm vững và áp dụng công thức tính tổng số đo các góc trong của một đa giác n cạnh là (n-2) * 180°.
+LO-C9-03,Tính số đo mỗi góc của một đa giác đều,9,Áp dụng công thức tính số đo mỗi góc của một đa giác đều n cạnh là [(n-2) * 180°] / n.
+LO-C9-04,Vẽ các đa giác đều đơn giản,9,"Sử dụng compa và thước thẳng để vẽ các đa giác đều cơ bản như tam giác đều, hình vuông, lục giác đều."
+LO-C9-05,Khái niệm phép quay,9,Hiểu định nghĩa phép quay tâm O góc quay α biến một điểm M thành M' và các tính chất cơ bản của nó.
+LO-C9-06,Xác định ảnh của một điểm qua phép quay,9,Sử dụng thước đo góc và compa để xác định ảnh của một điểm qua một phép quay cho trước.
+LO-C9-07,Ứng dụng phép quay để nhận biết tính đối xứng,9,Nhận biết các hình có tâm đối xứng quay và xác định góc quay nhỏ nhất để hình đó biến thành chính nó.
+LO-C9-08,Mối liên hệ giữa đa giác đều và đường tròn,9,"Hiểu rằng mọi đa giác đều đều có một đường tròn ngoại tiếp và một đường tròn nội tiếp, và chúng đồng tâm."
+LO-C9-09,"Tính bán kính đường tròn ngoại tiếp, nội tiếp đa giác đều",9,Thiết lập và sử dụng các công thức tính R và r của đa giác đều theo độ dài cạnh a và số cạnh n.
+LO-C9-10,Nhận biết đa giác đều trong thực tiễn,9,"Nhận dạng các vật thể, kiến trúc, họa tiết trong tự nhiên và đời sống có hình dạng của các đa giác đều."
+LO-C10-01,Các yếu tố của hình trụ,10,"Nhận biết và gọi tên đúng các yếu tố của hình trụ: hai đáy, bán kính đáy, chiều cao, đường sinh."
+LO-C10-02,Tính diện tích xung quanh của hình trụ,10,Áp dụng công thức Sxq = 2πRh để tính diện tích xung quanh của hình trụ.
+LO-C10-03,Tính thể tích của hình trụ,10,Áp dụng công thức V = πR²h để tính thể tích của khối trụ.
+LO-C10-04,Các yếu tố của hình nón,10,"Nhận biết và gọi tên đúng các yếu tố của hình nón: đáy, đỉnh, bán kính đáy, chiều cao, đường sinh."
+LO-C10-05,Tính diện tích xung quanh của hình nón,10,Áp dụng công thức Sxq = πRl để tính diện tích xung quanh của hình nón.
+LO-C10-06,Tính thể tích của hình nón,10,Áp dụng công thức V = (1/3)πR²h để tính thể tích của khối nón.
+LO-C10-07,Các yếu tố của hình cầu,10,"Nhận biết và gọi tên đúng các yếu tố của hình cầu: tâm, bán kính, đường kính, mặt cầu."
+LO-C10-08,Tính diện tích mặt cầu,10,Áp dụng công thức S = 4πR² để tính diện tích mặt cầu.
+LO-C10-09,Tính thể tích hình cầu,10,Áp dụng công thức V = (4/3)πR³ để tính thể tích của khối cầu.
+LO-C10-10,"Giải các bài toán thực tế liên quan đến hình trụ, nón, cầu",10,"Vận dụng các công thức diện tích, thể tích để giải quyết các bài toán có bối cảnh thực tế (tính dung tích, lượng vật liệu...)."
