@@ -1,0 +1,122 @@
+[
+  {
+    "learning_object": "LO-00020",
+    "question_text": "Căn bậc hai số học của 49 là số nào?",
+    "suggested_solution": "Căn bậc hai số học của một số \\(a\\) không âm là một số \\(x\\) không âm sao cho \\(x^2 = a\\).\n\n**Lời giải:**\n- Ta cần tìm số \\(x \\ge 0\\) sao cho \\(x^2 = 49\\).\n- Ta thấy \\(7^2 = 49\\) và \\(7 \\ge 0\\).\n\nVậy căn bậc hai số học của 49 là 7.",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00020",
+    "question_text": "Số nào sau đây không có căn bậc hai số học?\nA. 16\nB. 0\nC. -9\nD. 0.25",
+    "suggested_solution": "Căn bậc hai số học chỉ được định nghĩa cho các số không âm (lớn hơn hoặc bằng 0).\n\n**Lời giải:**\n- Số 16 là số dương, có căn bậc hai số học.\n- Số 0 là số không âm, có căn bậc hai số học.\n- Số -9 là số âm, không có căn bậc hai số học trong tập số thực.\n- Số 0.25 là số dương, có căn bậc hai số học.\n\n**Đáp án đúng là C.**",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00020",
+    "question_text": "Căn bậc ba của -27 là số nào?",
+    "suggested_solution": "Căn bậc ba của một số \\(a\\) là một số \\(x\\) sao cho \\(x^3 = a\\).\n\n**Lời giải:**\n- Ta cần tìm số \\(x\\) sao cho \\(x^3 = -27\\).\n- Ta thấy \\((-3)^3 = (-3) \\cdot (-3) \\cdot (-3) = 9 \\cdot (-3) = -27\\).\n\nVậy căn bậc ba của -27 là -3.",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00020",
+    "question_text": "Điền vào chỗ trống: Với số \\(a\\) không âm, \\(\\sqrt{a}\\) được gọi là ... của \\(a\\).",
+    "suggested_solution": "Theo định nghĩa, ký hiệu \\(\\sqrt{a}\\) dùng để chỉ căn bậc hai số học của \\(a\\).\n\n**Đáp án:** căn bậc hai số học.",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00020",
+    "question_text": "Khẳng định nào sau đây là sai?\nA. Căn bậc hai số học của 25 là 5.\nB. Căn bậc hai của 25 là 5 và -5.\nC. Căn bậc ba của 8 là 2.\nD. Căn bậc ba của -8 là không tồn tại.",
+    "suggested_solution": "Ta cần phân biệt giữa \"căn bậc hai số học\" và \"căn bậc hai\". Căn bậc ba được định nghĩa cho cả số âm và số dương.\n\n**Lời giải:**\n- A. Đúng. Căn bậc hai số học là giá trị không âm.\n- B. Đúng. Một số dương có hai căn bậc hai là hai số đối nhau.\n- C. Đúng. Vì \\(2^3 = 8\\).\n- D. Sai. Vì \\((-2)^3 = -8\\), nên căn bậc ba của -8 là -2.\n\n**Đáp án đúng là D.**",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00020",
+    "question_text": "So sánh \\(3\\) và \\(\\sqrt{8}\\).",
+    "suggested_solution": "Để so sánh một số dương với một căn bậc hai, ta so sánh bình phương của chúng.\n\n**Lời giải:**\n- Ta có: \\(3^2 = 9\\).\n- Ta có: \\((\\sqrt{8})^2 = 8\\).\n- Vì \\(9 > 8\\) và hai số ban đầu đều dương, nên \\(3 > \\sqrt{8}\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00020",
+    "question_text": "Tìm \\(x\\) không âm, biết \\(\\sqrt{x} = 5\\).",
+    "suggested_solution": "Từ định nghĩa căn bậc hai số học, nếu \\(\\sqrt{x} = 5\\) thì \\(x\\) phải bằng bình phương của 5.\n\n**Lời giải:**\n- Ta có \\(\\sqrt{x} = 5\\).\n- Bình phương hai vế, ta được: \\((\\sqrt{x})^2 = 5^2\\).\n- \\(\\Leftrightarrow x = 25\\).\n- Giá trị \\(x=25\\) thỏa mãn điều kiện không âm.\n\nVậy \\(x=25\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00020",
+    "question_text": "Tìm \\(x\\), biết \\(\\sqrt[3]{x} = -4\\).",
+    "suggested_solution": "Từ định nghĩa căn bậc ba, nếu \\(\\sqrt[3]{x} = -4\\) thì \\(x\\) phải bằng lập phương của -4.\n\n**Lời giải:**\n- Ta có \\(\\sqrt[3]{x} = -4\\).\n- Lập phương hai vế, ta được: \\((\\sqrt[3]{x})^3 = (-4)^3\\).\n- \\(\\Leftrightarrow x = -64\\).\n\nVậy \\(x=-64\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00020",
+    "question_text": "Một hình vuông có diện tích là 20 cm². Độ dài cạnh của hình vuông đó là bao nhiêu?",
+    "suggested_solution": "Gọi cạnh hình vuông là \\(a\\) (\\(a>0\\)). Diện tích hình vuông là \\(S = a^2\\). Từ đó, cạnh hình vuông là căn bậc hai số học của diện tích.\n\n**Lời giải:**\n- Ta có \\(a^2 = 20\\).\n- Vì \\(a > 0\\), nên \\(a\\) là căn bậc hai số học của 20.\n- \\(a = \\sqrt{20}\\) (cm).\n- Rút gọn: \\(a = \\sqrt{4 \\cdot 5} = 2\\sqrt{5}\\) (cm).\n\nVậy độ dài cạnh của hình vuông là \\(2\\sqrt{5}\\) cm.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00020",
+    "question_text": "Một khối lập phương có thể tích là 125 cm³. Độ dài cạnh của khối lập phương đó là bao nhiêu?",
+    "suggested_solution": "Gọi cạnh khối lập phương là \\(a\\) (\\(a>0\\)). Thể tích khối lập phương là \\(V = a^3\\). Từ đó, cạnh của khối lập phương là căn bậc ba của thể tích.\n\n**Lời giải:**\n- Ta có \\(a^3 = 125\\).\n- \\(a\\) là căn bậc ba của 125.\n- \\(a = \\sqrt[3]{125} = 5\\) (cm), vì \\(5^3 = 125\\).\n\nVậy độ dài cạnh của khối lập phương là 5 cm.",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00021",
+    "question_text": "Tìm căn bậc hai số học của 144.",
+    "suggested_solution": "Căn bậc hai số học của một số \\(a\\) không âm là một số \\(x\\) không âm sao cho \\(x^2 = a\\).\n\n**Lời giải:**\n- Bước 1: Ta cần tìm số \\(x \\ge 0\\) sao cho \\(x^2 = 144\\).\n- Bước 2: Ta nhẩm thấy \\(12^2 = 144\\) và \\(12 > 0\\).\n\nVậy căn bậc hai số học của 144 là 12.",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00021",
+    "question_text": "Tìm căn bậc ba của 64.",
+    "suggested_solution": "Căn bậc ba của một số \\(a\\) là một số \\(x\\) sao cho \\(x^3 = a\\).\n\n**Lời giải:**\n- Bước 1: Ta cần tìm số \\(x\\) sao cho \\(x^3 = 64\\).\n- Bước 2: Ta nhẩm thấy \\(4^3 = 4 \\cdot 4 \\cdot 4 = 64\\).\n\nVậy căn bậc ba của 64 là 4.",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00021",
+    "question_text": "Tìm tất cả các căn bậc hai của 81.",
+    "suggested_solution": "Một số dương \\(a\\) có hai căn bậc hai là hai số đối nhau: \\(\\sqrt{a}\\) và \\(-\\sqrt{a}\\). Cần phân biệt \"căn bậc hai\" và \"căn bậc hai số học\".\n\n**Lời giải:**\n- Bước 1: Tìm căn bậc hai số học của 81. Ta có \\(\\sqrt{81} = 9\\) vì \\(9^2=81\\) và \\(9>0\\).\n- Bước 2: Căn bậc hai còn lại là số đối của 9, tức là -9.\n\nVậy các căn bậc hai của 81 là 9 và -9.",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00021",
+    "question_text": "Tìm căn bậc ba của -125.",
+    "suggested_solution": "Căn bậc ba được xác định cho cả số âm. Ta cần tìm số \\(x\\) sao cho \\(x^3 = -125\\).\n\n**Lời giải:**\n- Bước 1: Ta biết \\(5^3 = 125\\).\n- Bước 2: Suy ra \\((-5)^3 = (-5) \\cdot (-5) \\cdot (-5) = -125\\).\n\nVậy căn bậc ba của -125 là -5.",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00021",
+    "question_text": "Sử dụng máy tính cầm tay, tính \\(\\sqrt{15}\\) và làm tròn kết quả đến chữ số thập phân thứ hai.",
+    "suggested_solution": "Ta sử dụng phím căn bậc hai trên máy tính cầm tay.\n\n**Lời giải:**\n- Bước 1: Trên máy tính, bấm phím `√` sau đó nhập `15` rồi bấm phím `=`. \n- Bước 2: Màn hình hiển thị kết quả xấp xỉ \\(3.872983346...\\).\n- Bước 3: Làm tròn đến chữ số thập phân thứ hai. Ta xét chữ số thập phân thứ ba là 2. Vì \\(2 < 5\\), ta giữ nguyên chữ số thập phân thứ hai.\n\nKết quả sau khi làm tròn là 3.87.",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00021",
+    "question_text": "Tính giá trị của biểu thức \\(A = \\sqrt{121} - \\sqrt[3]{-27}\\).",
+    "suggested_solution": "Ta cần tính riêng lẻ giá trị của căn bậc hai và căn bậc ba, sau đó thực hiện phép trừ.\n\n**Lời giải:**\n- Bước 1: Tính \\(\\sqrt{121}\\).\n  Vì \\(11^2 = 121\\) và \\(11 > 0\\), nên \\(\\sqrt{121} = 11\\).\n- Bước 2: Tính \\(\\sqrt[3]{-27}\\).\n  Vì \\((-3)^3 = -27\\), nên \\(\\sqrt[3]{-27} = -3\\).\n- Bước 3: Tính giá trị của A.\n  \\(A = 11 - (-3) = 11 + 3 = 14\\).\n\nVậy \\(A = 14\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00021",
+    "question_text": "Một mảnh vườn hình vuông có diện tích 169 m². Người ta muốn rào xung quanh mảnh vườn đó. Hỏi hàng rào dài bao nhiêu mét?",
+    "suggested_solution": "Độ dài hàng rào chính là chu vi của mảnh vườn. Ta cần tìm độ dài cạnh hình vuông từ diện tích.\n\n**Lời giải:**\n- Bước 1: Gọi \\(a\\) là độ dài cạnh của mảnh vườn hình vuông (\\(a > 0\\)).\n- Bước 2: Từ công thức diện tích \\(S = a^2\\), ta có \\(a^2 = 169\\).\n- Bước 3: Tìm độ dài cạnh \\(a\\) bằng cách lấy căn bậc hai số học của diện tích.\n  \\(a = \\sqrt{169} = 13\\) (m).\n- Bước 4: Tính chu vi của mảnh vườn (độ dài hàng rào).\n  \\(P = 4a = 4 \\cdot 13 = 52\\) (m).\n\nVậy hàng rào dài 52 mét.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00021",
+    "question_text": "Tìm số tự nhiên \\(x\\), biết \\(2\\sqrt{x} = 18\\).",
+    "suggested_solution": "Ta cần biến đổi phương trình để tìm \\(\\sqrt{x}\\) trước, sau đó tìm \\(x\\).\n\n**Lời giải:**\n- Bước 1: Chia cả hai vế của phương trình cho 2.\n  \\(\\sqrt{x} = \\frac{18}{2} = 9\\).\n- Bước 2: Bình phương cả hai vế để tìm \\(x\\).\n  \\(x = 9^2 = 81\\).\n- Bước 3: Kiểm tra điều kiện.\n  Số 81 là một số tự nhiên.\n\nVậy \\(x = 81\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00021",
+    "question_text": "Tìm \\(x\\), biết \\(\\sqrt[3]{{2x - 5}} = 3\\).",
+    "suggested_solution": "Để khử căn bậc ba, ta lập phương cả hai vế của phương trình.\n\n**Lời giải:**\n- Bước 1: Lập phương cả hai vế của phương trình.\n  \\({(\\sqrt[3]{{2x - 5}})^3} = {3^3}\\)\n- Bước 2: Rút gọn và giải phương trình bậc nhất thu được.\n  \\(2x - 5 = 27\\)\n  \\(\\Leftrightarrow 2x = 32\\)\n  \\(\\Leftrightarrow x = 16\\)\n\nVậy \\(x = 16\\).",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00021",
+    "question_text": "Không dùng máy tính, hãy cho biết số \\(\\sqrt{50}\\) nằm giữa hai số nguyên liên tiếp nào.",
+    "suggested_solution": "Ta tìm hai số chính phương (bình phương của số nguyên) gần nhất với số 50.\n\n**Lời giải:**\n- Bước 1: Tìm các số chính phương xung quanh 50.\n  Ta có \\(7^2 = 49\\) và \\(8^2 = 64\\).\n- Bước 2: Lập bất đẳng thức.\n  Ta thấy \\(49 < 50 < 64\\).\n- Bước 3: Lấy căn bậc hai các vế của bất đẳng thức.\n  \\(\\sqrt{49} < \\sqrt{50} < \\sqrt{64}\\)\n- Bước 4: Rút gọn và kết luận.\n  \\(7 < \\sqrt{50} < 8\\).\n\nVậy số \\(\\sqrt{50}\\) nằm giữa hai số nguyên liên tiếp là 7 và 8.",
+    "difficulty": "Vận dụng cao"
+  }
+]

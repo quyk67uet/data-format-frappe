@@ -1,0 +1,482 @@
+[
+  {
+    "learning_object": "LO-00012",
+    "question_text": "Sử dụng ký hiệu bất đẳng thức, hãy viết lại khẳng định sau: \"Số a là một số âm\".",
+    "suggested_solution": "Một số được gọi là số âm nếu nó nhỏ hơn 0.\n\n**Lời giải:**\n- Khẳng định \"Số a là một số âm\" có nghĩa là giá trị của a nhỏ hơn 0.\n- Ký hiệu \"nhỏ hơn\" là \"<\".\n- Vậy, ta biểu diễn là: \\(a < 0\\).",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00012",
+    "question_text": "Hãy dùng ký hiệu toán học để biểu diễn khẳng định: \"Số y không lớn hơn 15\".",
+    "suggested_solution": "Khẳng định \"không lớn hơn\" có nghĩa là \"nhỏ hơn hoặc bằng\".\n\n**Lời giải:**\n- \"Không lớn hơn 15\" bao gồm hai trường hợp: nhỏ hơn 15 hoặc bằng 15.\n- Ký hiệu cho \"nhỏ hơn hoặc bằng\" là \"≤\".\n- Vậy, ta biểu diễn là: \\(y \\le 15\\).",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00012",
+    "question_text": "Viết bất đẳng thức biểu diễn khẳng định: \"Tổng của x và 5 là một số không âm\".",
+    "suggested_solution": "Ta cần xác định biểu thức của \"tổng của x và 5\" và ý nghĩa của \"không âm\".\n\n**Lời giải:**\n- Bước 1: Biểu thức \"tổng của x và 5\" là \\(x + 5\\).\n- Bước 2: \"Không âm\" có nghĩa là lớn hơn hoặc bằng 0, ký hiệu là \"≥ 0\".\n- Bước 3: Kết hợp lại, ta có bất đẳng thức: \\(x + 5 \\ge 0\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00012",
+    "question_text": "Nhiệt độ sôi của nước là 100°C. Nếu gọi \\(t\\) là nhiệt độ của nước chưa sôi (tính bằng °C), hãy viết bất đẳng thức biểu diễn cho \\(t\\).",
+    "suggested_solution": "Nước chưa sôi có nghĩa là nhiệt độ của nó phải thấp hơn nhiệt độ sôi.\n\n**Lời giải:**\n- Nhiệt độ sôi là 100°C.\n- Nước chưa sôi nghĩa là nhiệt độ \\(t\\) phải nhỏ hơn 100°C.\n- Vậy, bất đẳng thức biểu diễn là: \\(t < 100\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00012",
+    "question_text": "Hãy viết bất đẳng thức thể hiện mệnh đề: \"Hai lần số a trừ đi 3 thì được kết quả lớn hơn 7\".",
+    "suggested_solution": "Ta cần chuyển từng phần của mệnh đề thành biểu thức toán học.\n\n**Lời giải:**\n- \"Hai lần số a\" được viết là \\(2a\\).\n- \"Hai lần số a trừ đi 3\" được viết là \\(2a - 3\\).\n- \"lớn hơn 7\" được ký hiệu là \\(> 7\\).\n- Ghép lại, ta có bất đẳng thức: \\(2a - 3 > 7\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00012",
+    "question_text": "Một thang máy có tải trọng tối đa là 800 kg. Hiện tại trong thang máy đã có hàng hóa nặng 150 kg và có \\(x\\) người, mỗi người cân nặng trung bình 60 kg. Hãy lập bất đẳng thức biểu diễn điều kiện để thang máy không bị quá tải.",
+    "suggested_solution": "Tổng khối lượng trong thang máy phải nhỏ hơn hoặc bằng tải trọng tối đa.\n\n**Lời giải:**\n- Bước 1: Tính tổng khối lượng của \\(x\\) người: \\(60x\\) (kg).\n- Bước 2: Tính tổng khối lượng hiện có trong thang máy: \\(150 + 60x\\) (kg).\n- Bước 3: Lập bất đẳng thức. Để không quá tải, tổng khối lượng phải nhỏ hơn hoặc bằng 800 kg.\n  \\(150 + 60x \\le 800\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00012",
+    "question_text": "Chu vi của một mảnh vườn hình chữ nhật có chiều dài \\(a\\) (m) và chiều rộng \\(b\\) (m) là một số ít nhất bằng 120m. Hãy viết bất đẳng thức thể hiện điều này.",
+    "suggested_solution": "Ta cần nhớ công thức tính chu vi hình chữ nhật và ý nghĩa của cụm từ \"ít nhất\".\n\n**Lời giải:**\n- Bước 1: Viết công thức tính chu vi hình chữ nhật: \\(P = 2(a+b)\\).\n- Bước 2: Phân tích cụm từ \"ít nhất bằng 120m\". Điều này có nghĩa là chu vi lớn hơn hoặc bằng 120m, ký hiệu là \\(\\ge 120\\).\n- Bước 3: Lập bất đẳng thức:\n  \\(2(a+b) \\ge 120\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00012",
+    "question_text": "Viết bất đẳng thức biểu diễn khẳng định: \"Khoảng cách giữa hai số thực \\(x\\) và 3 không vượt quá 5\".",
+    "suggested_solution": "Khoảng cách giữa hai số \\(a\\) và \\(b\\) trên trục số được biểu diễn bằng giá trị tuyệt đối của hiệu hai số đó, tức là \\(|a-b|\\).\n\n**Lời giải:**\n- Bước 1: Biểu diễn \"khoảng cách giữa hai số thực \\(x\\) và 3\" bằng biểu thức toán học: \\(|x - 3|\\).\n- Bước 2: \"Không vượt quá 5\" có nghĩa là nhỏ hơn hoặc bằng 5, ký hiệu là \\(\\le 5\\).\n- Bước 3: Kết hợp lại, ta có bất đẳng thức: \\(|x - 3| \\le 5\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00012",
+    "question_text": "Trong hình học, bất đẳng thức tam giác phát biểu rằng: \"Trong một tam giác, tổng độ dài hai cạnh bất kỳ luôn lớn hơn độ dài cạnh còn lại\". Gọi ba cạnh của tam giác là \\(a, b, c\\). Hãy viết hệ bất đẳng thức biểu diễn khẳng định này.",
+    "suggested_solution": "Khẳng định này phải đúng cho tất cả các cặp cạnh của tam giác.\n\n**Lời giải:**\n- Bước 1: Xét cặp cạnh \\(a, b\\) và cạnh còn lại \\(c\\). Ta có: \\(a + b > c\\).\n- Bước 2: Xét cặp cạnh \\(a, c\\) và cạnh còn lại \\(b\\). Ta có: \\(a + c > b\\).\n- Bước 3: Xét cặp cạnh \\(b, c\\) và cạnh còn lại \\(a\\). Ta có: \\(b + c > a\\).\n\nVậy, hệ bất đẳng thức biểu diễn khẳng định này là:\n\\(\\begin{cases} a + b > c \\\\ a + c > b \\\\ b + c > a \\end{cases}\\)",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00012",
+    "question_text": "Điều kiện để phương trình bậc hai \\(ax^2 + bx + c = 0\\) (với \\(a \\ne 0\\)) có nghiệm thực là biệt thức Delta của nó không âm. Hãy viết bất đẳng thức biểu diễn điều kiện này theo các hệ số \\(a, b, c\\).",
+    "suggested_solution": "Đây là bài toán yêu cầu nhớ lại công thức của biệt thức Delta và biểu diễn khẳng định \"không âm\".\n\n**Lời giải:**\n- Bước 1: Nhớ lại công thức tính biệt thức Delta: \\(\\Delta = b^2 - 4ac\\).\n- Bước 2: Phân tích khẳng định \"không âm\". Một số không âm là một số lớn hơn hoặc bằng 0, ký hiệu là \\(\\ge 0\\).\n- Bước 3: Lập bất đẳng thức biểu diễn điều kiện \\(\\Delta\\) không âm:\n  \\(b^2 - 4ac \\ge 0\\).",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00013",
+    "question_text": "Nếu \\(a > b\\) và \\(c < 0\\), khẳng định nào sau đây là đúng?\nA. \\(ac > bc\\)\nB. \\(ac < bc\\)\nC. \\(ac = bc\\)\nD. \\(a+c > b+c\\)",
+    "suggested_solution": "Đây là bài toán kiểm tra tính chất liên hệ giữa thứ tự và phép nhân với một số âm.\n\n**Lời giải:**\n- Theo tính chất của bất đẳng thức, khi nhân cả hai vế của một bất đẳng thức với cùng một số âm, ta phải đổi chiều bất đẳng thức đó.\n- Vì \\(a > b\\) và \\(c < 0\\), nên khi nhân hai vế của \\(a > b\\) với \\(c\\), ta phải đổi chiều từ \">\" thành \"<\".\n- Do đó, ta có \\(ac < bc\\).\n\n**Đáp án đúng là B.**",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00013",
+    "question_text": "Cho bất đẳng thức \\(x < 8\\). Khi cộng số -5 vào cả hai vế, ta được bất đẳng thức nào?",
+    "suggested_solution": "Ta áp dụng tính chất liên hệ giữa thứ tự và phép cộng.\n\n**Lời giải:**\n- Theo tính chất, khi cộng cùng một số vào hai vế của một bất đẳng thức, ta được một bất đẳng thức mới cùng chiều.\n- Cộng -5 vào hai vế của \\(x < 8\\), ta được:\n  \\(x + (-5) < 8 + (-5)\\)\n  \\(\\Leftrightarrow x - 5 < 3\\)\n\n**Đáp án:** Ta được bất đẳng thức \\(x - 5 < 3\\).",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00013",
+    "question_text": "Cho \\(a > b\\). Chứng minh rằng \\(a - 2025 > b - 2025\\).",
+    "suggested_solution": "Ta sử dụng tính chất liên hệ giữa thứ tự và phép cộng.\n\n**Lời giải:**\n- Bước 1: Xuất phát từ bất đẳng thức đã cho: \\(a > b\\).\n- Bước 2: Cộng vào cả hai vế của bất đẳng thức với cùng một số là -2025.\n- Bước 3: Theo tính chất liên hệ giữa thứ tự và phép cộng, chiều của bất đẳng thức được giữ nguyên.\n  \\(a + (-2025) > b + (-2025)\\)\n  \\(\\Leftrightarrow a - 2025 > b - 2025\\) (điều phải chứng minh).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00013",
+    "question_text": "Cho \\(m < n\\). Hãy so sánh \\(-3m\\) và \\(-3n\\).",
+    "suggested_solution": "Ta sử dụng tính chất liên hệ giữa thứ tự và phép nhân với một số âm.\n\n**Lời giải:**\n- Bước 1: Xuất phát từ bất đẳng thức đã cho: \\(m < n\\).\n- Bước 2: Nhân cả hai vế của bất đẳng thức với số -3.\n- Bước 3: Vì -3 là một số âm (\\(-3 < 0\\)), theo tính chất liên hệ giữa thứ tự và phép nhân, ta phải đổi chiều bất đẳng thức từ \"<\" thành \">\".\n  \\((-3) \\cdot m > (-3) \\cdot n\\)\n  \\(\\Leftrightarrow -3m > -3n\\)\n\n**Kết luận:** \\(-3m > -3n\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00013",
+    "question_text": "Bạn An chứng minh \"Nếu \\(a > b\\) thì \\(b < a\\)\" bằng cách: \"Xét hiệu \\(a - b\\). Vì \\(a > b\\) nên \\(a - b > 0\\). Suy ra \\(0 < a - b\\), hay \\(b - a < 0\\), do đó \\(b < a\\)\". Lập luận của bạn An đúng hay sai? Vì sao?",
+    "suggested_solution": "Lập luận của bạn An là hoàn toàn đúng.\n\n**Giải thích:**\n- Bạn An đã sử dụng định nghĩa cơ bản của quan hệ thứ tự: \\(a > b \\Leftrightarrow a - b > 0\\).\n- Các phép biến đổi \\(a - b > 0 \\Leftrightarrow 0 < a - b\\) và \\(b - a < 0 \\Leftrightarrow b < a\\) đều là các phép biến đổi tương đương, thể hiện sự hiểu biết về cách đọc và viết một bất đẳng thức.\n- Đây là một cách chứng minh tính chất đối xứng của quan hệ \"lớn hơn\" và \"nhỏ hơn\".",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00013",
+    "question_text": "Cho \\(a < b\\). Chứng minh rằng \\(5a - 1 < 5b - 1\\).",
+    "suggested_solution": "Ta sẽ sử dụng kết hợp tính chất của phép nhân với số dương và phép cộng.\n\n**Lời giải:**\n- Bước 1: Xuất phát từ bất đẳng thức \\(a < b\\).\n- Bước 2: Nhân cả hai vế với số 5. Vì \\(5 > 0\\), ta giữ nguyên chiều bất đẳng thức:\n  \\(5a < 5b\\)\n- Bước 3: Cộng vào cả hai vế với số -1. Theo tính chất của phép cộng, ta giữ nguyên chiều bất đẳng thức:\n  \\(5a + (-1) < 5b + (-1)\\)\n  \\(\\Leftrightarrow 5a - 1 < 5b - 1\\) (điều phải chứng minh).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00013",
+    "question_text": "Chứng minh rằng với mọi số thực \\(x\\), ta có \\(x^2 + 1 \\ge 2x\\).",
+    "suggested_solution": "Ta sẽ sử dụng phương pháp biến đổi tương đương để đưa về một bất đẳng thức luôn đúng.\n\n**Lời giải:**\n- Bước 1: Ta cần chứng minh \\(x^2 + 1 \\ge 2x\\).\n- Bước 2: Chuyển vế, bất đẳng thức tương đương với:\n  \\(x^2 - 2x + 1 \\ge 0\\)\n- Bước 3: Nhận dạng hằng đẳng thức ở vế trái.\n  \\((x-1)^2 \\ge 0\\)\n- Bước 4: Lập luận.\n  Bất đẳng thức \\((x-1)^2 \\ge 0\\) luôn đúng với mọi số thực \\(x\\) vì bình phương của một số luôn không âm.\n- Bước 5: Kết luận.\n  Vì bất đẳng thức cuối cùng luôn đúng và các phép biến đổi là tương đương, nên bất đẳng thức ban đầu \\(x^2 + 1 \\ge 2x\\) cũng luôn đúng.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00013",
+    "question_text": "Cho hai số \\(a, b\\) cùng dương và \\(a > b\\). Chứng minh rằng \\(a^2 > b^2\\).",
+    "suggested_solution": "Ta có thể chứng minh bằng cách xét hiệu hoặc sử dụng tính chất phép nhân.\n\n**Lời giải:**\n- **Cách 1: Xét hiệu**\n  Xét hiệu \\(a^2 - b^2 = (a-b)(a+b)\\).\n  Vì \\(a > b\\) nên \\(a - b > 0\\).\n  Vì \\(a, b\\) là các số dương nên \\(a + b > 0\\).\n  Tích của hai số dương là một số dương, do đó \\((a-b)(a+b) > 0\\).\n  Vậy \\(a^2 - b^2 > 0 \\Leftrightarrow a^2 > b^2\\).\n\n- **Cách 2: Dùng phép nhân**\n  Từ \\(a > b\\) và \\(a > 0\\), nhân hai vế với \\(a\\) ta được: \\(a^2 > ab\\) (1).\n  Từ \\(a > b\\) và \\(b > 0\\), nhân hai vế với \\(b\\) ta được: \\(ab > b^2\\) (2).\n  Từ (1) và (2), theo tính chất bắc cầu, ta có \\(a^2 > b^2\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00013",
+    "question_text": "Cho hai số dương \\(a\\) và \\(b\\). Chứng minh rằng \\(\\frac{a}{b} + \\frac{b}{a} \\ge 2\\).",
+    "suggested_solution": "Ta sẽ sử dụng phương pháp biến đổi tương đương và quy đồng mẫu số.\n\n**Lời giải:**\n- Bước 1: Vì \\(a, b\\) là các số dương nên \\(ab > 0\\). Ta có thể quy đồng mẫu số và nhân hai vế với \\(ab\\) mà không đổi chiều bất đẳng thức.\n  Bất đẳng thức cần chứng minh tương đương với:\n  \\(\\frac{a^2 + b^2}{ab} \\ge 2\\)\n- Bước 2: Nhân cả hai vế với \\(ab > 0\\):\n  \\(a^2 + b^2 \\ge 2ab\\)\n- Bước 3: Chuyển vế:\n  \\(a^2 - 2ab + b^2 \\ge 0\\)\n  \\(\\Leftrightarrow (a-b)^2 \\ge 0\\)\n- Bước 4: Lập luận và kết luận.\n  Bất đẳng thức \\((a-b)^2 \\ge 0\\) luôn đúng với mọi \\(a, b\\).\n  Vì các phép biến đổi là tương đương (do \\(ab > 0\\)), nên bất đẳng thức ban đầu là đúng.",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00013",
+    "question_text": "Chứng minh rằng với mọi số thực \\(x, y\\), ta có \\(x^2 + y^2 + 1 \\ge xy + x + y\\).",
+    "suggested_solution": "Đây là một bất đẳng thức khó hơn, cần biến đổi khéo léo để đưa về tổng các bình phương.\n\n**Lời giải:**\n- Bước 1: Nhân cả hai vế của bất đẳng thức với 2. Bất đẳng thức tương đương với:\n  \\(2x^2 + 2y^2 + 2 \\ge 2xy + 2x + 2y\\)\n- Bước 2: Chuyển tất cả các hạng tử về vế trái:\n  \\(2x^2 + 2y^2 + 2 - 2xy - 2x - 2y \\ge 0\\)\n- Bước 3: Tách và nhóm các hạng tử để tạo thành các hằng đẳng thức:\n  \\((x^2 - 2xy + y^2) + (x^2 - 2x + 1) + (y^2 - 2y + 1) \\ge 0\\)\n- Bước 4: Viết lại dưới dạng tổng các bình phương:\n  \\((x-y)^2 + (x-1)^2 + (y-1)^2 \\ge 0\\)\n- Bước 5: Lập luận và kết luận.\n  Vì bình phương của một số thực luôn không âm, nên \\((x-y)^2 \\ge 0\\), \\((x-1)^2 \\ge 0\\), và \\((y-1)^2 \\ge 0\\) với mọi \\(x, y\\).\n  Tổng của các số không âm là một số không âm.\n  Do đó, bất đẳng thức cuối cùng luôn đúng. Vì các phép biến đổi là tương đương, nên bất đẳng thức ban đầu là đúng.",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00014",
+    "question_text": "So sánh hai số \\(4\\) và \\(\\sqrt{15}\\).",
+    "suggested_solution": "Để so sánh một số nguyên dương với một căn bậc hai, ta có thể so sánh bình phương của chúng.\n\n**Lời giải:**\n- Bước 1: Bình phương hai số.\n  Ta có: \\(4^2 = 16\\).\n  Ta có: \\((\\sqrt{15})^2 = 15\\).\n- Bước 2: So sánh hai kết quả bình phương.\n  Vì \\(16 > 15\\).\n- Bước 3: Kết luận.\n  Do \\(4\\) và \\(\\sqrt{15}\\) đều là các số dương, nên từ \\(4^2 > (\\sqrt{15})^2\\) ta suy ra \\(4 > \\sqrt{15}\\).",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00014",
+    "question_text": "Trong các khẳng định sau, khẳng định nào đúng?\nA. \\(-5 > -\\sqrt{26}\\)\nB. \\(-5 < -\\sqrt{26}\\)\nC. \\(-5 = -\\sqrt{26}\\)",
+    "suggested_solution": "Để so sánh hai số âm, ta so sánh hai số dương tương ứng (số đối của chúng) rồi đổi chiều bất đẳng thức.\n\n**Lời giải:**\n- Bước 1: So sánh hai số dương \\(5\\) và \\(\\sqrt{26}\\).\n  Ta có \\(5^2 = 25\\) và \\((\\sqrt{26})^2 = 26\\).\n  Vì \\(25 < 26\\), nên \\(5 < \\sqrt{26}\\).\n- Bước 2: Nhân cả hai vế của bất đẳng thức \\(5 < \\sqrt{26}\\) với -1.\n  Khi nhân với số âm, ta phải đổi chiều bất đẳng thức:\n  \\(-5 > -\\sqrt{26}\\).\n\n**Đáp án đúng là A.**",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00014",
+    "question_text": "So sánh hai số \\(2\\sqrt{6}\\) và \\(5\\).",
+    "suggested_solution": "Ta có thể đưa thừa số vào trong dấu căn rồi so sánh hoặc bình phương cả hai vế.\n\n**Lời giải:**\n- **Cách 1: Đưa thừa số vào trong dấu căn.**\n  Ta có \\(2\\sqrt{6} = \\sqrt{2^2 \\cdot 6} = \\sqrt{4 \\cdot 6} = \\sqrt{24}\\).\n  Ta có \\(5 = \\sqrt{5^2} = \\sqrt{25}\\).\n  Vì \\(24 < 25\\) nên \\(\\sqrt{24} < \\sqrt{25}\\).\n  Vậy \\(2\\sqrt{6} < 5\\).\n\n- **Cách 2: Bình phương hai vế.**\n  Ta có \\((2\\sqrt{6})^2 = 2^2 \\cdot (\\sqrt{6})^2 = 4 \\cdot 6 = 24\\).\n  Ta có \\(5^2 = 25\\).\n  Vì \\(24 < 25\\) và hai số ban đầu đều dương, nên \\(2\\sqrt{6} < 5\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00014",
+    "question_text": "Không dùng máy tính, hãy so sánh \\(\\sqrt{2} + \\sqrt{3}\\) và \\(\\sqrt{10}\\).",
+    "suggested_solution": "Vì cả hai biểu thức đều dương, ta có thể so sánh bình phương của chúng.\n\n**Lời giải:**\n- Bước 1: Bình phương hai biểu thức.\n  + \\((\\sqrt{2} + \\sqrt{3})^2 = (\\sqrt{2})^2 + 2\\sqrt{2}\\sqrt{3} + (\\sqrt{3})^2 = 2 + 2\\sqrt{6} + 3 = 5 + 2\\sqrt{6}\\).\n  + \\((\\sqrt{10})^2 = 10\\).\n- Bước 2: So sánh hai kết quả bình phương.\n  Ta cần so sánh \\(5 + 2\\sqrt{6}\\) và \\(10\\).\n  Điều này tương đương với việc so sánh \\(2\\sqrt{6}\\) và \\(5\\).\n  Ta có \\((2\\sqrt{6})^2 = 24\\) và \\(5^2 = 25\\).\n  Vì \\(24 < 25\\) nên \\(2\\sqrt{6} < 5\\).\n  Do đó, \\(5 + 2\\sqrt{6} < 10\\).\n- Bước 3: Kết luận.\n  Vì \\((\\sqrt{2} + \\sqrt{3})^2 < (\\sqrt{10})^2\\) và hai biểu thức ban đầu đều dương, nên \\(\\sqrt{2} + \\sqrt{3} < \\sqrt{10}\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00014",
+    "question_text": "So sánh hai số \\(7\\) và \\(\\sqrt{13} + \\sqrt{23}\\).",
+    "suggested_solution": "Ta sẽ so sánh bình phương của hai số dương này.\n\n**Lời giải:**\n- Bước 1: Bình phương hai số.\n  + \\(7^2 = 49\\).\n  + \\((\\sqrt{13} + \\sqrt{23})^2 = 13 + 2\\sqrt{13 \\cdot 23} + 23 = 36 + 2\\sqrt{299}\\).\n- Bước 2: So sánh hai kết quả.\n  Ta cần so sánh \\(49\\) và \\(36 + 2\\sqrt{299}\\).\n  Điều này tương đương với việc so sánh \\(13\\) và \\(2\\sqrt{299}\\).\n  Ta có \\(13^2 = 169\\).\n  Ta có \\((2\\sqrt{299})^2 = 4 \\cdot 299 = 1196\\).\n  Vì \\(169 < 1196\\) nên \\(13 < 2\\sqrt{299}\\).\n  Do đó, \\(49 < 36 + 2\\sqrt{299}\\).\n- Bước 3: Kết luận.\n  Vậy \\(7 < \\sqrt{13} + \\sqrt{23}\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00014",
+    "question_text": "So sánh hai hiệu số: \\(A = \\sqrt{2024} - \\sqrt{2023}\\) và \\(B = \\sqrt{2023} - \\sqrt{2022}\\).",
+    "suggested_solution": "Để so sánh hai hiệu có dạng này, ta sử dụng phương pháp nhân với biểu thức liên hợp để đưa về so sánh hai phân số có cùng tử số.\n\n**Lời giải:**\n- Bước 1: Biến đổi biểu thức A.\n  \\(A = \\frac{(\\sqrt{2024} - \\sqrt{2023})(\\sqrt{2024} + \\sqrt{2023})}{\\sqrt{2024} + \\sqrt{2023}} = \\frac{2024 - 2023}{\\sqrt{2024} + \\sqrt{2023}} = \\frac{1}{\\sqrt{2024} + \\sqrt{2023}}\\).\n- Bước 2: Biến đổi biểu thức B.\n  \\(B = \\frac{(\\sqrt{2023} - \\sqrt{2022})(\\sqrt{2023} + \\sqrt{2022})}{\\sqrt{2023} + \\sqrt{2022}} = \\frac{2023 - 2022}{\\sqrt{2023} + \\sqrt{2022}} = \\frac{1}{\\sqrt{2023} + \\sqrt{2022}}\\).\n- Bước 3: So sánh mẫu số.\n  Vì \\(\\sqrt{2024} > \\sqrt{2023}\\) và \\(\\sqrt{2023} > \\sqrt{2022}\\), nên \\(\\sqrt{2024} + \\sqrt{2023} > \\sqrt{2023} + \\sqrt{2022}\\).\n- Bước 4: Kết luận.\n  Hai phân số có cùng tử số dương, phân số nào có mẫu lớn hơn thì phân số đó nhỏ hơn.\n  Do đó, \\(A < B\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00014",
+    "question_text": "So sánh hai phân số \\(A = \\frac{10^9}{10^{10}-1}\\) và \\(B = \\frac{10^{10}}{10^{11}-1}\\).",
+    "suggested_solution": "Đây là hai phân số có dạng \\(\\frac{x}{10x-1}\\). Ta có thể so sánh bằng cách xét nghịch đảo của chúng.\n\n**Lời giải:**\n- Bước 1: Xét nghịch đảo của A và B.\n  \\(\\frac{1}{A} = \\frac{10^{10}-1}{10^9} = \\frac{10^{10}}{10^9} - \\frac{1}{10^9} = 10 - \\frac{1}{10^9}\\).\n  \\(\\frac{1}{B} = \\frac{10^{11}-1}{10^{10}} = \\frac{10^{11}}{10^{10}} - \\frac{1}{10^{10}} = 10 - \\frac{1}{10^{10}}\\).\n- Bước 2: So sánh hai nghịch đảo.\n  Vì \\(10^9 < 10^{10}\\), nên \\(\\frac{1}{10^9} > \\frac{1}{10^{10}}\\).\n  Do đó, \\(-\\frac{1}{10^9} < -\\frac{1}{10^{10}}\\).\n  Suy ra, \\(10 - \\frac{1}{10^9} < 10 - \\frac{1}{10^{10}}\\), tức là \\(\\frac{1}{A} < \\frac{1}{B}\\).\n- Bước 3: Kết luận.\n  Vì A và B đều là các số dương, từ \\(\\frac{1}{A} < \\frac{1}{B}\\) ta suy ra \\(A > B\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00014",
+    "question_text": "So sánh số \\(3\\) với biểu thức \\(M = \\sqrt{5 + \\sqrt{5 + \\sqrt{5}}}\\).",
+    "suggested_solution": "Ta sẽ so sánh từ trong ra ngoài bằng cách ước lượng giá trị của các căn thức.\n\n**Lời giải:**\n- Bước 1: So sánh \\(\\sqrt{5}\\) với một số nguyên.\n  Ta có \\(4 < 5 < 9 \\Rightarrow \\sqrt{4} < \\sqrt{5} < \\sqrt{9} \\Rightarrow 2 < \\sqrt{5} < 3\\).\n- Bước 2: So sánh \\(\\sqrt{5 + \\sqrt{5}}\\).\n  Từ \\(\\sqrt{5} < 3\\), ta có \\(5 + \\sqrt{5} < 5 + 3 = 8\\).\n  Do đó, \\(\\sqrt{5 + \\sqrt{5}} < \\sqrt{8} < \\sqrt{9} = 3\\).\n- Bước 3: So sánh M.\n  Từ \\(\\sqrt{5 + \\sqrt{5}} < 3\\), ta có \\(5 + \\sqrt{5 + \\sqrt{5}} < 5 + 3 = 8\\).\n  Suy ra \\(M = \\sqrt{5 + \\sqrt{5 + \\sqrt{5}}} < \\sqrt{8} < \\sqrt{9} = 3\\).\n\nVậy \\(M < 3\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00014",
+    "question_text": "So sánh \\(A = \\sqrt{2025} + \\sqrt{2023}\\) và \\(B = 2\\sqrt{2024}\\).",
+    "suggested_solution": "Vì A và B đều dương, ta sẽ so sánh \\(A^2\\) và \\(B^2\\).\n\n**Lời giải:**\n- Bước 1: Tính \\(A^2\\).\n  \\(A^2 = (\\sqrt{2025} + \\sqrt{2023})^2 = 2025 + 2023 + 2\\sqrt{2025 \\cdot 2023}\\)\n  \\(A^2 = 4048 + 2\\sqrt{(2024+1)(2024-1)}\\)\n  \\(A^2 = 4048 + 2\\sqrt{2024^2 - 1}\\).\n- Bước 2: Tính \\(B^2\\).\n  \\(B^2 = (2\\sqrt{2024})^2 = 4 \\cdot 2024 = 8096 = 4048 + 4048\\).\n  \\(B^2 = 4048 + 2 \\cdot (2 \\cdot 2024) = 4048 + 2\\sqrt{(2 \\cdot 2024)^2} = 4048 + 2\\sqrt{4 \\cdot 2024^2}\\).\n  Cách khác: \\(B^2 = 4048 + 4048 = 4048 + 2 \\cdot 2024 = 4048 + 2\\sqrt{2024^2}\\).\n- Bước 3: So sánh \\(A^2\\) và \\(B^2\\).\n  Ta cần so sánh \\(4048 + 2\\sqrt{2024^2 - 1}\\) và \\(4048 + 2\\sqrt{2024^2}\\).\n  Vì \\(2024^2 - 1 < 2024^2\\), nên \\(\\sqrt{2024^2 - 1} < \\sqrt{2024^2}\\).\n  Do đó, \\(A^2 < B^2\\).\n- Bước 4: Kết luận.\n  Vì A và B đều dương, nên \\(A < B\\).",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00014",
+    "question_text": "Chứng minh rằng \\(A = \\frac{1}{\\sqrt{1}} + \\frac{1}{\\sqrt{2}} + \\frac{1}{\\sqrt{3}} + ... + \\frac{1}{\\sqrt{100}} > 18\\).",
+    "suggested_solution": "Ta sẽ sử dụng một bất đẳng thức phụ để đánh giá tổng này.\n\n**Lời giải:**\n- Bước 1: Chứng minh bất đẳng thức phụ.\n  Với \\(k > 0\\), ta có \\(\\sqrt{k+1} > \\sqrt{k}\\), suy ra \\(\\sqrt{k+1} + \\sqrt{k} > 2\\sqrt{k}\\).\n  \\(\\Rightarrow \\frac{1}{2\\sqrt{k}} > \\frac{1}{\\sqrt{k+1} + \\sqrt{k}} = \\frac{\\sqrt{k+1} - \\sqrt{k}}{(k+1)-k} = \\sqrt{k+1} - \\sqrt{k}\\).\n  Do đó, \\(\\frac{1}{\\sqrt{k}} > 2(\\sqrt{k+1} - \\sqrt{k})\\).\n- Bước 2: Áp dụng bất đẳng thức phụ cho các số hạng của A (trừ số hạng đầu tiên).\n  \\(\\frac{1}{\\sqrt{2}} > 2(\\sqrt{3} - \\sqrt{2})\\)\n  \\(\\frac{1}{\\sqrt{3}} > 2(\\sqrt{4} - \\sqrt{3})\\)\n  ...\n  \\(\\frac{1}{\\sqrt{100}} > 2(\\sqrt{101} - \\sqrt{100})\\)\n- Bước 3: Cộng vế theo vế các bất đẳng thức trên.\n  \\(\\frac{1}{\\sqrt{2}} + \\frac{1}{\\sqrt{3}} + ... + \\frac{1}{\\sqrt{100}} > 2[(\\sqrt{3} - \\sqrt{2}) + (\\sqrt{4} - \\sqrt{3}) + ... + (\\sqrt{101} - \\sqrt{100})]\\)\n  Vế phải là một tổng rút gọn (telescoping sum):\n  \\(2(\\sqrt{101} - \\sqrt{2})\\).\n- Bước 4: Đánh giá tổng A.\n  \\(A = 1 + (\\frac{1}{\\sqrt{2}} + ... + \\frac{1}{\\sqrt{100}}) > 1 + 2(\\sqrt{101} - \\sqrt{2})\\).\n  Ta có \\(\\sqrt{101} > \\sqrt{100} = 10\\) và \\(\\sqrt{2} < \\sqrt{4} = 2\\) (cụ thể \\(\\sqrt{2} \\approx 1.414\\)).\n  \\(A > 1 + 2(10 - 1.415) = 1 + 2(8.585) = 1 + 17.17 = 18.17\\).\n  Vì \\(18.17 > 18\\), nên \\(A > 18\\) (điều phải chứng minh).",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00015",
+    "question_text": "Một người có 100 nghìn đồng để đi chợ. Người đó đã mua 3 kg cam với giá 20 nghìn đồng/kg. Gọi \\(x\\) là số tiền còn lại người đó có thể dùng. Hãy viết bất đẳng thức biểu diễn \\(x\\).",
+    "suggested_solution": "Số tiền còn lại phải lớn hơn hoặc bằng 0 và không thể vượt quá số tiền ban đầu trừ đi số tiền đã tiêu.\n\n**Lời giải:**\n- Bước 1: Tính số tiền đã mua cam: \\(3 \\times 20 = 60\\) (nghìn đồng).\n- Bước 2: Tính số tiền tối đa còn lại: \\(100 - 60 = 40\\) (nghìn đồng).\n- Bước 3: Lập bất đẳng thức. Số tiền còn lại \\(x\\) phải lớn hơn hoặc bằng 0 và nhỏ hơn hoặc bằng 40.\n  \\(0 \\le x \\le 40\\).",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00015",
+    "question_text": "Để được xếp loại Giỏi, điểm trung bình môn Toán của bạn An phải lớn hơn hoặc bằng 8.0. An đã có các điểm kiểm tra là 7.0, 8.5, 9.0. Gọi \\(x\\) là điểm bài kiểm tra cuối cùng (tất cả các bài có hệ số bằng nhau). Hãy lập bất đẳng thức để An được xếp loại Giỏi.",
+    "suggested_solution": "Điểm trung bình của bốn bài kiểm tra phải lớn hơn hoặc bằng 8.0.\n\n**Lời giải:**\n- Bước 1: Viết biểu thức tính điểm trung bình của 4 bài kiểm tra:\n  \\(\\frac{7.0 + 8.5 + 9.0 + x}{4}\\)\n- Bước 2: Lập bất đẳng thức dựa trên điều kiện xếp loại Giỏi:\n  \\(\\frac{7.0 + 8.5 + 9.0 + x}{4} \\ge 8.0\\)\n  \\(\\Leftrightarrow \\frac{24.5 + x}{4} \\ge 8.0\\)",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00015",
+    "question_text": "Một hãng taxi có giá cước như sau: 10.000 đồng cho km đầu tiên và 8.000 đồng cho mỗi km tiếp theo. Một hành khách có 70.000 đồng. Hỏi hành khách đó có thể đi được quãng đường tối đa là bao nhiêu km?",
+    "suggested_solution": "Ta sẽ lập bất đẳng thức biểu diễn tổng chi phí phải nhỏ hơn hoặc bằng số tiền hành khách có.\n\n**Lời giải:**\n- Bước 1: Gọi \\(x\\) là tổng số km hành khách đi được (\\(x > 0\\)).\n- Bước 2: Lập biểu thức tính chi phí.\n  + Nếu \\(0 < x \\le 1\\), chi phí là 10.000 đồng.\n  + Nếu \\(x > 1\\), chi phí là: \\(10000 + 8000(x-1)\\).\n- Bước 3: Lập và giải bất đẳng thức.\n  Ta xét trường hợp \\(x > 1\\) để tìm quãng đường tối đa.\n  \\(10000 + 8000(x-1) \\le 70000\\)\n  \\(\\Leftrightarrow 8000(x-1) \\le 60000\\)\n  \\(\\Leftrightarrow x-1 \\le \\frac{60000}{8000} = 7.5\\)\n  \\(\\Leftrightarrow x \\le 8.5\\)\n\nVậy hành khách đó có thể đi được quãng đường tối đa là 8.5 km.",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00015",
+    "question_text": "Một cửa hàng bán một loại áo với giá 250 nghìn đồng/chiếc. Chi phí sản xuất (vốn) cho mỗi chiếc áo là 180 nghìn đồng. Cửa hàng cần bán được ít nhất bao nhiêu chiếc áo để tiền lãi thu được lớn hơn 5 triệu đồng?",
+    "suggested_solution": "Ta cần lập bất đẳng thức biểu diễn tổng tiền lãi.\n\n**Lời giải:**\n- Bước 1: Gọi \\(x\\) là số chiếc áo cần bán (\\(x\\) nguyên dương).\n- Bước 2: Tính tiền lãi trên mỗi chiếc áo:\n  \\(250 - 180 = 70\\) (nghìn đồng).\n- Bước 3: Viết biểu thức tính tổng tiền lãi:\n  \\(70x\\) (nghìn đồng).\n- Bước 4: Lập và giải bất đẳng thức. (Lưu ý đổi đơn vị: 5 triệu đồng = 5000 nghìn đồng).\n  \\(70x > 5000\\)\n  \\(\\Leftrightarrow x > \\frac{5000}{70} \\approx 71.42\\)\n- Bước 5: Kết luận.\n  Vì \\(x\\) phải là số nguyên, nên số áo ít nhất cần bán là 72 chiếc.\n\nVậy cửa hàng cần bán được ít nhất 72 chiếc áo.",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00015",
+    "question_text": "Chu vi của một tam giác là 24 cm. Biết cạnh thứ nhất dài 7 cm, cạnh thứ hai dài \\(x\\) cm. Tìm các giá trị có thể của \\(x\\), biết rằng trong một tam giác, tổng độ dài hai cạnh bất kỳ luôn lớn hơn độ dài cạnh còn lại.",
+    "suggested_solution": "Ta cần áp dụng bất đẳng thức tam giác cho cả ba trường hợp.\n\n**Lời giải:**\n- Bước 1: Tìm độ dài cạnh thứ ba.\n  Cạnh thứ ba có độ dài là \\(24 - 7 - x = 17 - x\\) (cm).\n- Bước 2: Lập các bất đẳng thức tam giác.\n  + \\(7 + x > 17 - x \\Leftrightarrow 2x > 10 \\Leftrightarrow x > 5\\)\n  + \\(7 + (17 - x) > x \\Leftrightarrow 24 > 2x \\Leftrightarrow x < 12\\)\n  + \\(x + (17 - x) > 7 \\Leftrightarrow 17 > 7\\) (Luôn đúng)\n- Bước 3: Kết hợp các điều kiện.\n  Từ các bất đẳng thức trên, ta có \\(5 < x < 12\\).\n\nVậy các giá trị có thể của \\(x\\) là \\(5 < x < 12\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00015",
+    "question_text": "Một công ty viễn thông có hai gói cước: Gói A trả phí cố định 100.000 đồng/tháng và miễn phí gọi. Gói B không có phí cố định nhưng tính 1.500 đồng/phút gọi. Một người dự định sẽ gọi \\(x\\) phút trong một tháng. Người đó nên đăng ký gói B khi nào?",
+    "suggested_solution": "Người đó nên đăng ký gói B khi tổng chi phí của gói B rẻ hơn tổng chi phí của gói A.\n\n**Lời giải:**\n- Bước 1: Viết biểu thức tính chi phí cho mỗi gói.\n  + Chi phí gói A: \\(C_A = 100000\\) (đồng)\n  + Chi phí gói B: \\(C_B = 1500x\\) (đồng)\n- Bước 2: Lập bất đẳng thức.\n  Để gói B rẻ hơn gói A, ta cần \\(C_B < C_A\\).\n  \\(1500x < 100000\\)\n- Bước 3: Giải bất đẳng thức.\n  \\(x < \\frac{100000}{1500} = \\frac{200}{3} \\approx 66.67\\)\n\nVậy, nếu người đó dự định gọi ít hơn khoảng 67 phút trong một tháng thì nên chọn gói B.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00015",
+    "question_text": "Một người nông dân muốn làm một hàng rào hình chữ nhật để nuôi gà trên mảnh đất có sẵn bức tường dài làm một cạnh. Người đó có 100m lưới rào để làm 3 cạnh còn lại. Hỏi diện tích lớn nhất mà người nông dân có thể rào được là bao nhiêu?",
+    "suggested_solution": "Ta sẽ lập biểu thức tính diện tích theo một biến, sau đó tìm giá trị lớn nhất của biểu thức đó.\n\n**Lời giải:**\n- Bước 1: Gọi ẩn.\n  Gọi chiều rộng của hàng rào là \\(x\\) (m) (cạnh vuông góc với tường). Điều kiện \\(0 < x < 50\\).\n  Hai cạnh chiều rộng có tổng độ dài là \\(2x\\).\n  Cạnh chiều dài (song song với tường) sẽ có độ dài là \\(100 - 2x\\) (m).\n- Bước 2: Lập biểu thức tính diện tích.\n  \\(S(x) = x(100 - 2x) = 100x - 2x^2\\).\n- Bước 3: Tìm giá trị lớn nhất của S(x).\n  Ta có \\(S(x) = -2(x^2 - 50x) = -2(x^2 - 2 \\cdot x \\cdot 25 + 25^2 - 25^2)\\)\n  \\(S(x) = -2[(x-25)^2 - 625] = -2(x-25)^2 + 1250\\).\n  Vì \\(-2(x-25)^2 \\le 0\\) với mọi \\(x\\), nên \\(S(x) \\le 1250\\).\n- Bước 4: Kết luận.\n  Giá trị lớn nhất của diện tích là 1250 m², đạt được khi \\(x-25=0 \\Leftrightarrow x=25\\) (m).\n  Khi đó, chiều rộng là 25m và chiều dài là \\(100 - 2(25) = 50\\)m.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00015",
+    "question_text": "Một ô tô dự định đi từ A đến B với vận tốc 50 km/h. Tuy nhiên, sau khi đi được 2/3 quãng đường, xe phải giảm vận tốc xuống còn 40 km/h. Do đó, xe đến B chậm hơn dự định 30 phút. Tính độ dài quãng đường AB.",
+    "suggested_solution": "Ta sẽ lập phương trình dựa trên sự chênh lệch thời gian thực tế so với thời gian dự định.\n\n**Lời giải:**\n- Bước 1: Gọi ẩn và đổi đơn vị.\n  Gọi độ dài quãng đường AB là \\(x\\) (km, \\(x>0\\)).\n  30 phút = 0.5 giờ.\n- Bước 2: Biểu diễn các đại lượng.\n  + Thời gian dự định đi hết quãng đường AB: \\(t_{dđ} = \\frac{x}{50}\\) (giờ).\n  + Thời gian đi 2/3 quãng đường đầu: \\(t_1 = \\frac{2x/3}{50} = \\frac{2x}{150} = \\frac{x}{75}\\) (giờ).\n  + Thời gian đi 1/3 quãng đường còn lại: \\(t_2 = \\frac{x/3}{40} = \\frac{x}{120}\\) (giờ).\n  + Thời gian thực tế đi hết quãng đường: \\(t_{tt} = t_1 + t_2 = \\frac{x}{75} + \\frac{x}{120}\\).\n- Bước 3: Lập phương trình.\n  Vì đến chậm hơn 0.5 giờ, nên \\(t_{tt} - t_{dđ} = 0.5\\).\n  \\(\\left(\\frac{x}{75} + \\frac{x}{120}\\right) - \\frac{x}{50} = 0.5\\)\n- Bước 4: Giải phương trình.\n  Mẫu chung là 600. \\(8x + 5x - 12x = 300 \\Leftrightarrow x = 300\\).\n- Bước 5: Kết luận.\n  Quãng đường AB dài 300 km.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00015",
+    "question_text": "Một người muốn bơi từ bờ sông bên này (điểm A) sang một điểm C ở bờ bên kia. Do nước chảy, người đó đã bơi với vận tốc thực \\(v_t = 2\\) km/h theo hướng vuông góc với bờ sông, nhưng bị dòng nước có vận tốc \\(v_n = 1\\) km/h đẩy xiên đi và cập bờ ở điểm B. Để đến được điểm C, người đó phải đi bộ ngược dòng từ B về C. Biết chiều rộng của sông là 100m. Tìm quãng đường ngắn nhất người đó phải đi (tổng quãng đường bơi và đi bộ) và phải bơi theo hướng nào để đạt được điều đó?",
+    "suggested_solution": "Đây là bài toán tối ưu hóa, kết hợp vật lý và hình học.\n\n**Lời giải:**\n- Bài toán này ở mức độ vận dụng cao, vượt quá chương trình lớp 9 thông thường. Tuy nhiên, có thể giải quyết bằng cách lập biểu thức và tìm GTNN.\n- Gọi \\(x\\) là khoảng cách BC. Quãng đường bơi là \\(AB = \\sqrt{100^2 + (BC+CD)^2}\\) với CD là đoạn bị trôi. Cách tiếp cận này phức tạp.\n\n**Cách giải phù hợp hơn với lớp 9 (nếu đề được điều chỉnh):**\n*Giả sử câu hỏi chỉ yêu cầu tính quãng đường người đó đã đi (bơi từ A đến B và đi bộ từ B về C, với C nằm đối diện A qua bờ bên kia).* \n- Thời gian bơi qua sông: \\(t = \\frac{0.1 \\text{ km}}{2 \\text{ km/h}} = 0.05\\) giờ.\n- Quãng đường bị dòng nước đẩy trôi (BC): \\(BC = v_n \\cdot t = 1 \\cdot 0.05 = 0.05\\) km = 50 m.\n- Quãng đường bơi (AB): \\(AB = \\sqrt{AC^2 + BC^2} = \\sqrt{100^2 + 50^2} = \\sqrt{12500} = 50\\sqrt{5} \\approx 111.8\\) m.\n- Tổng quãng đường đã đi: \\(AB + BC = 111.8 + 50 = 161.8\\) m.",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00015",
+    "question_text": "Một người gửi 100 triệu đồng vào ngân hàng với lãi suất 6%/năm, theo hình thức lãi kép (tiền lãi của kỳ trước được cộng vào vốn để tính lãi cho kỳ sau). Hỏi sau ít nhất bao nhiêu năm thì tổng số tiền cả vốn lẫn lãi người đó nhận được sẽ lớn hơn 150 triệu đồng?",
+    "suggested_solution": "Ta sẽ lập bất phương trình mũ để giải bài toán này.\n\n**Lời giải:**\n- Bước 1: Gọi \\(n\\) là số năm gửi tiền (\\(n\\) nguyên dương).\n- Bước 2: Lập công thức tính tổng số tiền sau \\(n\\) năm.\n  Số tiền sau \\(n\\) năm là: \\(T_n = 100 \\cdot (1 + 0.06)^n = 100 \\cdot (1.06)^n\\) (triệu đồng).\n- Bước 3: Lập bất phương trình.\n  Ta cần tìm \\(n\\) nhỏ nhất sao cho \\(T_n > 150\\).\n  \\(100 \\cdot (1.06)^n > 150\\)\n  \\(\\Leftrightarrow (1.06)^n > 1.5\\)\n- Bước 4: Giải bất phương trình (sử dụng logarit hoặc thử lần lượt).\n  + Với \\(n=6\\): \\((1.06)^6 \\approx 1.4185 < 1.5\\)\n  + Với \\(n=7\\): \\((1.06)^7 \\approx 1.5036 > 1.5\\)\n\n- Bước 5: Kết luận.\n  Vậy sau ít nhất 7 năm thì tổng số tiền sẽ lớn hơn 150 triệu đồng.",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00016",
+    "question_text": "Bất phương trình nào sau đây là bất phương trình bậc nhất một ẩn?",
+    "suggested_solution": "Bất phương trình bậc nhất một ẩn có dạng \\(ax + b < 0\\) (hoặc \\(>, \\le, \\ge\\)), trong đó \\(a, b\\) là các số đã biết và \\(a \\ne 0\\).\n\n**Lời giải:**\n- A. \\(x^2 - 1 > 0\\): Đây là bất phương trình bậc hai.\n- B. \\(3x - 5 < 0\\): Đây là bất phương trình bậc nhất một ẩn với \\(a=3, b=-5\\).\n- C. \\(0x + 7 > 0\\): Đây không phải là bất phương trình bậc nhất một ẩn vì \\(a=0\\).\n- D. \\(2x + y \\le 3\\): Đây là bất phương trình bậc nhất hai ẩn.\n\n**Đáp án đúng là B.**",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00016",
+    "question_text": "Giá trị \\(x = 2\\) có phải là một nghiệm của bất phương trình \\(3x - 1 > 4\\) không?",
+    "suggested_solution": "Để kiểm tra, ta thay giá trị \\(x=2\\) vào bất phương trình và xem xét mệnh đề nhận được là đúng hay sai.\n\n**Lời giải:**\n- Bước 1: Thay \\(x=2\\) vào vế trái của bất phương trình:\n  \\(3(2) - 1 = 6 - 1 = 5\\).\n- Bước 2: So sánh kết quả với vế phải.\n  Ta có bất đẳng thức \\(5 > 4\\).\n- Bước 3: Kết luận.\n  Vì \\(5 > 4\\) là một khẳng định đúng, nên \\(x=2\\) là một nghiệm của bất phương trình.",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00016",
+    "question_text": "Trong bất phương trình \\(5 - 2x \\ge 0\\), hãy xác định các hệ số \\(a\\) và \\(b\\) theo dạng chuẩn \\(ax+b \\ge 0\\).",
+    "suggested_solution": "Ta cần viết lại bất phương trình theo đúng dạng \\(ax+b \\ge 0\\) để xác định hệ số.\n\n**Lời giải:**\n- Bất phương trình đã cho là \\(5 - 2x \\ge 0\\).\n- Viết lại theo dạng chuẩn: \\(-2x + 5 \\ge 0\\).\n- So sánh với dạng \\(ax+b \\ge 0\\), ta có:\n  + Hệ số của \\(x\\) là \\(a = -2\\).\n  + Hằng số tự do là \\(b = 5\\).",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00016",
+    "question_text": "Bất phương trình \\(x(x-1) < x^2 + 3\\) có phải là bất phương trình bậc nhất một ẩn không? Vì sao?",
+    "suggested_solution": "Ta cần biến đổi, rút gọn bất phương trình để xem nó có thể đưa về dạng \\(ax+b < 0\\) (với \\(a \\ne 0\\)) hay không.\n\n**Lời giải:**\n- Bước 1: Khai triển và chuyển vế.\n  \\(x(x-1) < x^2 + 3\\)\n  \\(\\Leftrightarrow x^2 - x < x^2 + 3\\)\n  \\(\\Leftrightarrow x^2 - x - x^2 - 3 < 0\\)\n- Bước 2: Rút gọn.\n  \\(-x - 3 < 0\\)\n- Bước 3: Kết luận.\n  Bất phương trình sau khi rút gọn có dạng \\(ax+b < 0\\) với \\(a=-1 \\ne 0\\). Do đó, đây là một bất phương trình bậc nhất một ẩn.",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00016",
+    "question_text": "Giá trị nào sau đây là một nghiệm của bất phương trình \\(7 - 2x \\le 1\\)?\nA. \\(x = 1\\)\nB. \\(x = 2\\)\nC. \\(x = 3\\)\nD. \\(x = 0\\)",
+    "suggested_solution": "Ta có thể giải bất phương trình để tìm tập nghiệm, hoặc thay lần lượt các giá trị vào để kiểm tra.\n\n**Lời giải (Cách 1: Giải BPT):**\n\\(7 - 2x \\le 1 \\Leftrightarrow -2x \\le -6 \\Leftrightarrow x \\ge 3\\).\nTrong các giá trị đã cho, chỉ có \\(x=3\\) thỏa mãn \\(x \\ge 3\\).\n\n**Lời giải (Cách 2: Thay số):**\n- A. \\(x=1\\): \\(7 - 2(1) = 5\\). \\(5 \\le 1\\) (Sai).\n- B. \\(x=2\\): \\(7 - 2(2) = 3\\). \\(3 \\le 1\\) (Sai).\n- C. \\(x=3\\): \\(7 - 2(3) = 1\\). \\(1 \\le 1\\) (Đúng).\n- D. \\(x=0\\): \\(7 - 2(0) = 7\\). \\(7 \\le 1\\) (Sai).\n\n**Đáp án đúng là C.**",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00016",
+    "question_text": "Tìm một giá trị nguyên âm là nghiệm của bất phương trình \\(3x + 10 > 1\\).",
+    "suggested_solution": "Ta cần giải bất phương trình để tìm tập nghiệm, sau đó chọn một số nguyên âm bất kỳ trong tập nghiệm đó.\n\n**Lời giải:**\n- Bước 1: Giải bất phương trình.\n  \\(3x + 10 > 1\\)\n  \\(\\Leftrightarrow 3x > -9\\)\n  \\(\\Leftrightarrow x > -3\\)\n- Bước 2: Tìm một số nguyên âm trong tập nghiệm.\n  Tập nghiệm là \\(x > -3\\). Các số nguyên âm trong tập này là \\(-2\\) và \\(-1\\).\n\n**Đáp án:** Một giá trị có thể là \\(x = -2\\) (hoặc \\(x = -1\\)).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00016",
+    "question_text": "Bất phương trình \\((m-2)x + 5 > 0\\) là bất phương trình bậc nhất một ẩn khi nào?",
+    "suggested_solution": "Theo định nghĩa, một bất phương trình dạng \\(ax+b > 0\\) là bất phương trình bậc nhất một ẩn khi hệ số \\(a\\) của \\(x\\) phải khác 0.\n\n**Lời giải:**\n- Bước 1: Xác định hệ số \\(a\\) của \\(x\\).\n  Trong bất phương trình \\((m-2)x + 5 > 0\\), hệ số \\(a = m-2\\).\n- Bước 2: Áp dụng điều kiện \\(a \\ne 0\\).\n  \\(m - 2 \\ne 0\\)\n  \\(\\Leftrightarrow m \\ne 2\\)\n\nVậy, bất phương trình đã cho là bất phương trình bậc nhất một ẩn khi \\(m \\ne 2\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00016",
+    "question_text": "Tìm tất cả các giá trị nguyên của \\(x\\) trong khoảng \\((-5; 5)\\) là nghiệm của bất phương trình \\(2(x-1) > x+1\\).",
+    "suggested_solution": "Ta cần giải bất phương trình để tìm tập nghiệm, sau đó tìm giao của tập nghiệm này với khoảng \\((-5; 5)\\) và chọn ra các số nguyên.\n\n**Lời giải:**\n- Bước 1: Giải bất phương trình.\n  \\(2(x-1) > x+1\\)\n  \\(\\Leftrightarrow 2x - 2 > x + 1\\)\n  \\(\\Leftrightarrow x > 3\\)\n- Bước 2: Tìm các số nguyên \\(x\\) thỏa mãn đồng thời \\(x > 3\\) và \\(-5 < x < 5\\).\n  Kết hợp hai điều kiện, ta có \\(3 < x < 5\\).\n- Bước 3: Liệt kê các số nguyên.\n  Số nguyên duy nhất trong khoảng \\((3; 5)\\) là 4.\n\nVậy giá trị nguyên cần tìm là \\(x=4\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00016",
+    "question_text": "Tìm \\(m\\) để bất phương trình \\(mx - 3 > x + m\\) nhận \\(x=2\\) là một nghiệm.",
+    "suggested_solution": "Để \\(x=2\\) là một nghiệm, khi thay \\(x=2\\) vào bất phương trình, ta phải được một bất đẳng thức đúng.\n\n**Lời giải:**\n- Bước 1: Thay \\(x=2\\) vào bất phương trình:\n  \\(m(2) - 3 > 2 + m\\)\n- Bước 2: Giải bất phương trình ẩn \\(m\\).\n  \\(2m - 3 > 2 + m\\)\n  \\(\\Leftrightarrow 2m - m > 2 + 3\\)\n  \\(\\Leftrightarrow m > 5\\)\n\nVậy, với mọi giá trị \\(m > 5\\), bất phương trình đã cho sẽ nhận \\(x=2\\) là một nghiệm.",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00016",
+    "question_text": "Bất phương trình \\((m^2 - 4)x + 2 < m\\) không phải là bất phương trình bậc nhất một ẩn khi \\(m\\) nhận những giá trị nào?",
+    "suggested_solution": "Một bất phương trình dạng \\(ax+b<0\\) không phải là bất phương trình bậc nhất một ẩn khi hệ số \\(a\\) của \\(x\\) bằng 0.\n\n**Lời giải:**\n- Bước 1: Xác định hệ số \\(a\\) của \\(x\\).\n  Hệ số \\(a = m^2 - 4\\).\n- Bước 2: Đặt điều kiện \\(a = 0\\).\n  \\(m^2 - 4 = 0\\)\n  \\(\\Leftrightarrow (m-2)(m+2) = 0\\)\n  \\(\\Leftrightarrow m = 2\\) hoặc \\(m = -2\\).\n\nVậy, khi \\(m=2\\) hoặc \\(m=-2\\), bất phương trình đã cho không phải là bất phương trình bậc nhất một ẩn.",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00017",
+    "question_text": "Giải bất phương trình: \\(4x - 8 > 0\\).",
+    "suggested_solution": "Đây là bất phương trình bậc nhất một ẩn dạng cơ bản.\n\n**Lời giải:**\n- Bước 1: Áp dụng quy tắc chuyển vế, chuyển -8 sang vế phải và đổi dấu.\n  \\(4x > 8\\)\n- Bước 2: Áp dụng quy tắc chia, chia cả hai vế cho 4 (là một số dương) và giữ nguyên chiều bất phương trình.\n  \\(x > \\frac{8}{4}\\)\n  \\(\\Leftrightarrow x > 2\\)\n\nVậy tập nghiệm của bất phương trình là \\(S = \\{x | x > 2\\}\\).",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00017",
+    "question_text": "Tìm tập nghiệm của bất phương trình: \\(-5x \\ge 15\\).",
+    "suggested_solution": "Đây là bài toán cơ bản kiểm tra quy tắc nhân/chia với số âm.\n\n**Lời giải:**\n- Bước 1: Ta cần chia cả hai vế của bất phương trình cho -5.\n- Bước 2: Vì -5 là một số âm, khi chia cả hai vế, ta phải đổi chiều bất phương trình từ \"≥\" thành \"≤\".\n  \\(x \\le \\frac{15}{-5}\\)\n  \\(\\Leftrightarrow x \\le -3\\)\n\nVậy tập nghiệm của bất phương trình là \\(S = \\{x | x \\le -3\\}\\).",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00017",
+    "question_text": "Giải bất phương trình: \\(7x - 5 \\le 4x + 7\\).",
+    "suggested_solution": "Ta cần chuyển các hạng tử chứa ẩn về một vế và các hằng số về vế còn lại.\n\n**Lời giải:**\n- Bước 1: Áp dụng quy tắc chuyển vế.\n  \\(7x - 4x \\le 7 + 5\\)\n- Bước 2: Thu gọn hai vế.\n  \\(3x \\le 12\\)\n- Bước 3: Chia cả hai vế cho 3 (số dương), giữ nguyên chiều bất phương trình.\n  \\(x \\le \\frac{12}{3}\\)\n  \\(\\Leftrightarrow x \\le 4\\)\n\nVậy nghiệm của bất phương trình là \\(x \\le 4\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00017",
+    "question_text": "Tìm số nguyên \\(x\\) nhỏ nhất thỏa mãn bất phương trình: \\(2(x + 3) < 5(x - 1) - 2\\).",
+    "suggested_solution": "Ta cần giải bất phương trình để tìm tập nghiệm, sau đó tìm số nguyên nhỏ nhất trong tập nghiệm đó.\n\n**Lời giải:**\n- Bước 1: Khai triển hai vế.\n  \\(2x + 6 < 5x - 5 - 2\\)\n  \\(\\Leftrightarrow 2x + 6 < 5x - 7\\)\n- Bước 2: Chuyển các hạng tử chứa \\(x\\) sang một vế, hằng số sang vế còn lại.\n  \\(6 + 7 < 5x - 2x\\)\n  \\(\\Leftrightarrow 13 < 3x\\)\n- Bước 3: Tìm \\(x\\).\n  \\(x > \\frac{13}{3}\\)\n  Vì \\(\\frac{13}{3} \\approx 4.33\\), nên \\(x > 4.33\\).\n- Bước 4: Tìm số nguyên nhỏ nhất.\n  Số nguyên nhỏ nhất lớn hơn 4.33 là 5.\n\nVậy số nguyên \\(x\\) nhỏ nhất thỏa mãn là 5.",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00017",
+    "question_text": "Tập nghiệm của bất phương trình \\(3 - (x - 1) \\ge 2(3 - x)\\) là gì?",
+    "suggested_solution": "Ta cần bỏ dấu ngoặc và rút gọn bất phương trình.\n\n**Lời giải:**\n- Bước 1: Khai triển hai vế.\n  \\(3 - x + 1 \\ge 6 - 2x\\)\n  \\(\\Leftrightarrow 4 - x \\ge 6 - 2x\\)\n- Bước 2: Chuyển vế.\n  \\(-x + 2x \\ge 6 - 4\\)\n- Bước 3: Rút gọn.\n  \\(x \\ge 2\\)\n\nVậy tập nghiệm của bất phương trình là \\(S = \\{x | x \\ge 2\\}\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00017",
+    "question_text": "Giải bất phương trình: \\(\\frac{x-1}{2} - \\frac{x-2}{3} > 1\\).",
+    "suggested_solution": "Đây là bất phương trình có chứa mẫu số là hằng số. Ta cần quy đồng mẫu để khử mẫu.\n\n**Lời giải:**\n- Bước 1: Tìm mẫu số chung. Mẫu số chung của 2 và 3 là 6.\n- Bước 2: Quy đồng và khử mẫu. Nhân cả hai vế với 6 (số dương), giữ nguyên chiều bất phương trình.\n  \\(3(x-1) - 2(x-2) > 6 \\cdot 1\\)\n- Bước 3: Khai triển và rút gọn.\n  \\(3x - 3 - 2x + 4 > 6\\)\n  \\(\\Leftrightarrow x + 1 > 6\\)\n- Bước 4: Giải tìm \\(x\\).\n  \\(x > 5\\)\n\nVậy nghiệm của bất phương trình là \\(x > 5\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00017",
+    "question_text": "Tìm tất cả các số nguyên dương là nghiệm của bất phương trình: \\(1 - \\frac{2x+1}{4} \\ge \\frac{x-5}{6}\\).",
+    "suggested_solution": "Ta giải bất phương trình để tìm tập nghiệm, sau đó chọn ra các số nguyên dương thỏa mãn.\n\n**Lời giải:**\n- Bước 1: Tìm mẫu số chung là 12. Nhân cả hai vế với 12.\n  \\(12 \\cdot 1 - 12 \\cdot \\frac{2x+1}{4} \\ge 12 \\cdot \\frac{x-5}{6}\\)\n  \\(\\Leftrightarrow 12 - 3(2x+1) \\ge 2(x-5)\\)\n- Bước 2: Khai triển và rút gọn.\n  \\(12 - 6x - 3 \\ge 2x - 10\\)\n  \\(\\Leftrightarrow 9 - 6x \\ge 2x - 10\\)\n- Bước 3: Chuyển vế và giải.\n  \\(9 + 10 \\ge 2x + 6x\\)\n  \\(\\Leftrightarrow 19 \\ge 8x\\)\n  \\(\\Leftrightarrow x \\le \\frac{19}{8}\\)\n- Bước 4: Tìm các số nguyên dương.\n  Ta có \\(x \\le 2.375\\). Các số nguyên dương thỏa mãn điều kiện này là 1 và 2.\n\nVậy các số nguyên dương cần tìm là \\(x \\in \\{1; 2\\}\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00017",
+    "question_text": "Tìm giá trị của \\(m\\) để bất phương trình (ẩn \\(x\\)): \\(2x - m > 5\\) có nghiệm là \\(x > 4\\).",
+    "suggested_solution": "Ta sẽ giải bất phương trình theo \\(x\\) để có biểu thức chứa \\(m\\), sau đó đồng nhất kết quả với nghiệm đã cho.\n\n**Lời giải:**\n- Bước 1: Giải bất phương trình \\(2x - m > 5\\) theo \\(x\\).\n  \\(2x > 5 + m\\)\n  \\(\\Leftrightarrow x > \\frac{5+m}{2}\\)\n- Bước 2: Đồng nhất với nghiệm đã cho.\n  Để tập nghiệm là \\(x > 4\\), ta phải có:\n  \\(\\frac{5+m}{2} = 4\\)\n- Bước 3: Giải phương trình tìm \\(m\\).\n  \\(5 + m = 8\\)\n  \\(\\Leftrightarrow m = 3\\)\n\nVậy giá trị cần tìm là \\(m=3\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00017",
+    "question_text": "Giải và biện luận bất phương trình theo tham số \\(m\\): \\(m(x-1) < x+3\\).",
+    "suggested_solution": "Đây là bất phương trình chứa tham số ở hệ số của \\(x\\). Ta cần xét các trường hợp của hệ số này.\n\n**Lời giải:**\n- Bước 1: Biến đổi bất phương trình về dạng \\(Ax < B\\).\n  \\(mx - m < x + 3\\)\n  \\(\\Leftrightarrow mx - x < m + 3\\)\n  \\(\\Leftrightarrow (m-1)x < m + 3\\) (1)\n- Bước 2: Biện luận theo \\(m-1\\).\n  + **Trường hợp 1:** Nếu \\(m - 1 > 0 \\Leftrightarrow m > 1\\).\n    Chia hai vế của (1) cho \\(m-1 > 0\\), ta giữ nguyên chiều bất phương trình:\n    \\(x < \\frac{m+3}{m-1}\\).\n  + **Trường hợp 2:** Nếu \\(m - 1 < 0 \\Leftrightarrow m < 1\\).\n    Chia hai vế của (1) cho \\(m-1 < 0\\), ta phải đổi chiều bất phương trình:\n    \\(x > \\frac{m+3}{m-1}\\).\n  + **Trường hợp 3:** Nếu \\(m - 1 = 0 \\Leftrightarrow m = 1\\).\n    Bất phương trình (1) trở thành: \\(0x < 1 + 3 \\Leftrightarrow 0 < 4\\). Đây là một khẳng định luôn đúng.\n    Vậy bất phương trình có nghiệm đúng với mọi \\(x \\in \\mathbb{R}\\).\n- **Kết luận:**\n  - Nếu \\(m > 1\\), nghiệm là \\(x < \\frac{m+3}{m-1}\\).\n  - Nếu \\(m < 1\\), nghiệm là \\(x > \\frac{m+3}{m-1}\\).\n  - Nếu \\(m = 1\\), bất phương trình có vô số nghiệm.",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00017",
+    "question_text": "Tìm các giá trị nguyên của \\(x\\) thỏa mãn đồng thời cả hai bất phương trình sau: \\(3x - 2 > 2x + 1\\) và \\(5 - x \\ge 1\\).",
+    "suggested_solution": "Ta cần giải từng bất phương trình, sau đó tìm giao (phần chung) của hai tập nghiệm.\n\n**Lời giải:**\n- Bước 1: Giải bất phương trình thứ nhất.\n  \\(3x - 2 > 2x + 1\\)\n  \\(\\Leftrightarrow 3x - 2x > 1 + 2\\)\n  \\(\\Leftrightarrow x > 3\\) (1)\n- Bước 2: Giải bất phương trình thứ hai.\n  \\(5 - x \\ge 1\\)\n  \\(\\Leftrightarrow -x \\ge 1 - 5\\)\n  \\(\\Leftrightarrow -x \\ge -4\\)\n  \\(\\Leftrightarrow x \\le 4\\) (2)\n- Bước 3: Tìm giao của hai tập nghiệm.\n  Ta cần tìm các giá trị \\(x\\) thỏa mãn cả (1) và (2), tức là \\(3 < x \\le 4\\).\n- Bước 4: Tìm các giá trị nguyên.\n  Số nguyên duy nhất thỏa mãn \\(3 < x \\le 4\\) là \\(x=4\\).\n\nVậy giá trị nguyên cần tìm là \\(x=4\\).",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00018",
+    "question_text": "Bất phương trình nào sau đây có dạng bất phương trình tích?",
+    "suggested_solution": "Bất phương trình tích có dạng \\(A(x) \\cdot B(x) < 0\\) (hoặc \\(>, \\le, \\ge\\)). Ta cần tìm phương trình có dạng này.\n\n**Lời giải:**\n- A. \\(2x - 10 > 0\\): Bất phương trình bậc nhất.\n- B. \\((x-1)(x+5) \\ge 0\\): Có dạng tích của hai biểu thức. Đây là bất phương trình tích.\n- C. \\(\\frac{x}{x-2} < 0\\): Bất phương trình thương.\n- D. \\(x^2 > 9\\): Bất phương trình bậc hai.\n\n**Đáp án đúng là B.**",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00018",
+    "question_text": "Để giải bất phương trình \\(|A(x)| < 5\\), ta sử dụng phép biến đổi tương đương nào sau đây?",
+    "suggested_solution": "Đây là quy tắc cơ bản để giải bất phương trình chứa dấu giá trị tuyệt đối dạng \\(|A| < B\\) với \\(B > 0\\).\n\n**Lời giải:**\nBất phương trình \\(|A(x)| < 5\\) có nghĩa là khoảng cách từ \\(A(x)\\) đến 0 nhỏ hơn 5. Điều này xảy ra khi \\(A(x)\\) nằm giữa -5 và 5.\n\nPhép biến đổi tương đương là: \\(-5 < A(x) < 5\\).",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00018",
+    "question_text": "Tìm tập nghiệm của bất phương trình \\(x^2 - 25 \\le 0\\).",
+    "suggested_solution": "Đây là bất phương trình bậc hai. Ta tìm nghiệm của phương trình \\(x^2 - 25 = 0\\) và áp dụng quy tắc xét dấu \"trong trái, ngoài cùng\".\n\n**Lời giải:**\n- Bước 1: Tìm nghiệm của phương trình \\(x^2 - 25 = 0 \\Leftrightarrow x = 5\\) hoặc \\(x = -5\\).\n- Bước 2: Lập trục xét dấu. Hệ số \\(a = 1 > 0\\).\n- Bước 3: Áp dụng quy tắc \"trong trái, ngoài cùng\". Trong khoảng hai nghiệm \\((-5; 5)\\), biểu thức \\(x^2 - 25\\) trái dấu với \\(a\\), tức là mang dấu âm. Ngoài khoảng hai nghiệm, biểu thức mang dấu dương.\n- Bước 4: Kết luận. Bất phương trình yêu cầu \\(x^2 - 25 \\le 0\\) (lấy cả dấu âm và dấu bằng 0). Do đó, nghiệm là \\(-5 \\le x \\le 5\\).\n\nVậy tập nghiệm là \\(S = [-5; 5]\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00018",
+    "question_text": "Giải bất phương trình \\((x-2)(x+5) > 0\\).",
+    "suggested_solution": "Đây là bất phương trình tích. Ta lập bảng xét dấu cho các nhị thức \\(x-2\\) và \\(x+5\\).\n\n**Lời giải:**\n- Bước 1: Tìm nghiệm của các nhị thức: \\(x-2=0 \\Rightarrow x=2\\); \\(x+5=0 \\Rightarrow x=-5\\).\n- Bước 2: Lập bảng xét dấu:\n| x | -∞ | | -5 | | 2 | | +∞ |\n|---|---|---|---|---|---|---|---|\n| x+5 | | - | 0 | + | | + | |\n| x-2 | | - | | - | 0 | + | |\n| VT | | + | 0 | - | 0 | + | |\n\n- Bước 3: Dựa vào bảng xét dấu, ta thấy vế trái (VT) lớn hơn 0 khi \\(x < -5\\) hoặc \\(x > 2\\).\n\nVậy tập nghiệm của bất phương trình là \\(S = (-\\infty; -5) \\cup (2; +\\infty)\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00018",
+    "question_text": "Giải bất phương trình \\(|2x - 3| \\le 1\\).",
+    "suggested_solution": "Ta áp dụng quy tắc giải bất phương trình \\(|A| \\le B\\) (với \\(B \\ge 0\\)) tương đương với \\(-B \\le A \\le B\\).\n\n**Lời giải:**\n- Bước 1: Áp dụng quy tắc:\n  \\(|2x - 3| \\le 1 \\Leftrightarrow -1 \\le 2x - 3 \\le 1\\)\n- Bước 2: Giải bất phương trình kép.\n  Ta tách thành hai bất phương trình:\n  \\(\\begin{cases} -1 \\le 2x - 3 \\\\ 2x - 3 \\le 1 \\end{cases} \\Leftrightarrow \\begin{cases} 2 \\le 2x \\\\ 2x \\le 4 \\end{cases} \\Leftrightarrow \\begin{cases} x \\ge 1 \\\\ x \\le 2 \\end{cases}\\)\n- Bước 3: Kết hợp nghiệm.\n  \\(1 \\le x \\le 2\\)\n\nVậy tập nghiệm của bất phương trình là \\(S = [1; 2]\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00018",
+    "question_text": "Giải bất phương trình \\(\\frac{x-4}{x+1} > 0\\).",
+    "suggested_solution": "Đây là bất phương trình thương. Ta giải bằng cách lập bảng xét dấu tương tự như bất phương trình tích, lưu ý điều kiện mẫu khác 0.\n\n**Lời giải:**\n- Bước 1: Tìm nghiệm của tử và mẫu.\n  + Tử: \\(x-4 = 0 \\Rightarrow x=4\\)\n  + Mẫu: \\(x+1 = 0 \\Rightarrow x=-1\\)\n- Bước 2: Lập bảng xét dấu (dấu || tại -1 để chỉ rằng biểu thức không xác định).\n| x | -∞ | | -1 | | 4 | | +∞ |\n|---|---|---|---|---|---|---|---|\n| x-4 | | - | | - | 0 | + | |\n| x+1 | | - | 0 | + | | + | |\n| VT | | + | || | - | 0 | + | |\n\n- Bước 3: Dựa vào bảng xét dấu, ta thấy vế trái (VT) lớn hơn 0 khi \\(x < -1\\) hoặc \\(x > 4\\).\n\nVậy tập nghiệm của bất phương trình là \\(S = (-\\infty; -1) \\cup (4; +\\infty)\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00018",
+    "question_text": "Giải bất phương trình \\(x^2 - 3x - 4 < 0\\).",
+    "suggested_solution": "Đây là bất phương trình bậc hai. Ta tìm nghiệm và áp dụng quy tắc \"trong trái, ngoài cùng\".\n\n**Lời giải:**\n- Bước 1: Giải phương trình \\(x^2 - 3x - 4 = 0\\).\n  Ta thấy \\(a - b + c = 1 - (-3) + (-4) = 0\\), nên phương trình có hai nghiệm là \\(x_1 = -1\\) và \\(x_2 = -c/a = 4\\).\n- Bước 2: Lập trục xét dấu. Hệ số \\(a = 1 > 0\\).\n- Bước 3: Áp dụng quy tắc \"trong trái, ngoài cùng\".\n  Trong khoảng hai nghiệm \\((-1; 4)\\), biểu thức \\(x^2 - 3x - 4\\) trái dấu với \\(a\\), tức là mang dấu âm.\n- Bước 4: Kết luận.\n  Bất phương trình yêu cầu vế trái nhỏ hơn 0, do đó nghiệm là \\(-1 < x < 4\\).\n\nVậy tập nghiệm là \\(S = (-1; 4)\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00018",
+    "question_text": "Giải bất phương trình \\(|x+1| > 5\\).",
+    "suggested_solution": "Ta áp dụng quy tắc giải bất phương trình \\(|A| > B\\) (với \\(B > 0\\)) tương đương với \\(A > B\\) hoặc \\(A < -B\\).\n\n**Lời giải:**\n- Bước 1: Áp dụng quy tắc:\n  \\(|x+1| > 5 \\Leftrightarrow \\) \\(x+1 > 5\\) hoặc \\(x+1 < -5\\).\n- Bước 2: Giải hai bất phương trình.\n  + \\(x+1 > 5 \\Leftrightarrow x > 4\\)\n  + \\(x+1 < -5 \\Leftrightarrow x < -6\\)\n- Bước 3: Kết hợp nghiệm.\n  Nghiệm của bất phương trình là hợp của hai trường hợp trên.\n\nVậy tập nghiệm là \\(S = (-\\infty; -6) \\cup (4; +\\infty)\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00018",
+    "question_text": "Tìm tất cả các giá trị của tham số \\(m\\) để bất phương trình \\(x^2 - 2x + m \\ge 0\\) nghiệm đúng với mọi \\(x \\in \\mathbb{R}\\).",
+    "suggested_solution": "Để một tam thức bậc hai \\(ax^2+bx+c\\) luôn không âm (\\(\\ge 0\\)) với mọi \\(x\\), ta cần hai điều kiện: hệ số \\(a > 0\\) và biệt thức \\(\\Delta \\le 0\\).\n\n**Lời giải:**\n- Bước 1: Xác định các hệ số và điều kiện.\n  Tam thức \\(f(x) = x^2 - 2x + m\\) có hệ số \\(a = 1 > 0\\) (luôn thỏa mãn).\n  Để \\(f(x) \\ge 0\\) với mọi \\(x\\), ta cần \\(\\Delta' \\le 0\\).\n- Bước 2: Tính \\(\\Delta'\\) và lập bất phương trình.\n  Ta có \\(b' = -1\\).\n  \\(\\Delta' = (b')^2 - ac = (-1)^2 - 1 \\cdot m = 1 - m\\).\n- Bước 3: Giải bất phương trình \\(\\Delta' \\le 0\\).\n  \\(1 - m \\le 0\\)\n  \\(\\Leftrightarrow m \\ge 1\\)\n\nVậy các giá trị cần tìm của \\(m\\) là \\(m \\ge 1\\).",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00018",
+    "question_text": "Giải bất phương trình \\(\\frac{1}{x-1} < \\frac{2}{x+2}\\).",
+    "suggested_solution": "Đây là bất phương trình thương. Ta không được nhân chéo vì chưa biết dấu của các mẫu thức. Ta phải chuyển vế và quy đồng.\n\n**Lời giải:**\n- Bước 1: Chuyển vế và tìm ĐKXĐ.\n  ĐKXĐ: \\(x \\ne 1, x \\ne -2\\).\n  \\(\\frac{1}{x-1} - \\frac{2}{x+2} < 0\\)\n- Bước 2: Quy đồng mẫu số.\n  \\(\\frac{(x+2) - 2(x-1)}{(x-1)(x+2)} < 0\\)\n  \\(\\Leftrightarrow \\frac{x+2 - 2x+2}{(x-1)(x+2)} < 0\\)\n  \\(\\Leftrightarrow \\frac{-x+4}{(x-1)(x+2)} < 0\\)\n- Bước 3: Lập bảng xét dấu.\n  Nghiệm của các nhị thức là: \\(x=4, x=1, x=-2\\).\n| x | -∞ | | -2 | | 1 | | 4 | | +∞ |\n|---|---|---|---|---|---|---|---|---|\n| -x+4 | | + | | + | | + | 0 | - |\n| x-1 | | - | | - | 0 | + | | + |\n| x+2 | | - | 0 | + | | + | | + |\n| VT | | + | || | - | || | + | 0 | - |\n\n- Bước 4: Kết luận.\n  Dựa vào bảng xét dấu, vế trái (VT) nhỏ hơn 0 khi \\(-2 < x < 1\\) hoặc \\(x > 4\\).\n\nVậy tập nghiệm là \\(S = (-2; 1) \\cup (4; +\\infty)\\).",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00019",
+    "question_text": "An có 200 nghìn đồng. An muốn mua một cây bút giá 20 nghìn đồng và một số quyển vở, mỗi quyển giá 15 nghìn đồng. Gọi \\(x\\) là số quyển vở An có thể mua. Hãy lập bất phương trình biểu diễn số vở An có thể mua.",
+    "suggested_solution": "Ta cần lập bất phương trình dựa trên tổng số tiền An có.\n\n**Lời giải:**\n- Bước 1: Tính tổng số tiền mua \\(x\\) quyển vở: \\(15x\\) (nghìn đồng).\n- Bước 2: Tính tổng số tiền An phải trả khi mua bút và vở: \\(15x + 20\\) (nghìn đồng).\n- Bước 3: Lập bất phương trình. Tổng số tiền phải trả không được vượt quá số tiền An có.\n  \\(15x + 20 \\le 200\\).",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00019",
+    "question_text": "Điểm 3 bài kiểm tra Toán của Bình là 7, 8, 9. Để điểm trung bình cả 4 bài (hệ số bằng nhau) đạt từ 8.0 trở lên, điểm bài kiểm tra cuối cùng (gọi là \\(x\\)) phải thỏa mãn bất phương trình nào?",
+    "suggested_solution": "Ta cần lập biểu thức tính điểm trung bình và cho nó lớn hơn hoặc bằng 8.0.\n\n**Lời giải:**\n- Bước 1: Viết biểu thức tính tổng điểm 4 bài: \\(7 + 8 + 9 + x = 24 + x\\).\n- Bước 2: Viết biểu thức tính điểm trung bình: \\(\\frac{24 + x}{4}\\).\n- Bước 3: Lập bất phương trình dựa trên điều kiện \"đạt từ 8.0 trở lên\" (lớn hơn hoặc bằng 8.0).\n  \\(\\frac{24 + x}{4} \\ge 8.0\\).",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00019",
+    "question_text": "Một hãng taxi A tính giá 12.000đ/km. Hãng B tính 15.000đ phí 'mở cửa' và 10.000đ/km. Một người cần đi quãng đường \\(x\\) km. Hỏi \\(x\\) phải thỏa mãn điều kiện gì để chọn hãng B đi sẽ rẻ hơn hãng A?",
+    "suggested_solution": "Ta cần lập biểu thức tính chi phí cho mỗi hãng và so sánh chúng.\n\n**Lời giải:**\n- Bước 1: Viết biểu thức tính chi phí cho mỗi hãng.\n  + Chi phí hãng A: \\(C_A = 12000x\\) (đồng).\n  + Chi phí hãng B: \\(C_B = 15000 + 10000x\\) (đồng).\n- Bước 2: Lập bất phương trình. Để hãng B rẻ hơn hãng A, ta cần \\(C_B < C_A\\).\n  \\(15000 + 10000x < 12000x\\)\n- Bước 3: Giải bất phương trình.\n  \\(15000 < 12000x - 10000x\\)\n  \\(\\Leftrightarrow 15000 < 2000x\\)\n  \\(\\Leftrightarrow x > \\frac{15000}{2000} = 7.5\\)\n\nVậy người đó cần đi quãng đường dài hơn 7.5 km thì chọn hãng B sẽ rẻ hơn.",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00019",
+    "question_text": "Một xưởng sản xuất quạt có chi phí cố định hàng tháng là 50 triệu đồng. Chi phí để sản xuất mỗi chiếc quạt là 200 nghìn đồng. Mỗi chiếc quạt được bán với giá 350 nghìn đồng. Hỏi trong tháng xưởng phải bán được ít nhất bao nhiêu chiếc quạt để bắt đầu có lãi?",
+    "suggested_solution": "Để có lãi, tổng doanh thu phải lớn hơn tổng chi phí.\n\n**Lời giải:**\n- Bước 1: Gọi \\(x\\) là số quạt bán được trong tháng (\\(x\\) nguyên dương). Đổi đơn vị: 50 triệu = 50000 nghìn.\n- Bước 2: Lập biểu thức doanh thu và chi phí.\n  + Tổng doanh thu: \\(350x\\) (nghìn đồng).\n  + Tổng chi phí: \\(50000 + 200x\\) (nghìn đồng).\n- Bước 3: Lập bất phương trình.\n  Doanh thu > Chi phí\n  \\(350x > 50000 + 200x\\)\n- Bước 4: Giải bất phương trình.\n  \\(150x > 50000\\)\n  \\(\\Leftrightarrow x > \\frac{50000}{150} \\approx 333.33\\)\n- Bước 5: Kết luận.\n  Vì \\(x\\) phải là số nguyên, nên số quạt ít nhất cần bán là 334 chiếc.\n\nVậy xưởng phải bán được ít nhất 334 chiếc quạt.",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00019",
+    "question_text": "Một mảnh vườn hình chữ nhật có chiều dài gấp đôi chiều rộng. Người ta muốn làm hàng rào xung quanh vườn. Biết rằng tổng chiều dài hàng rào không được vượt quá 90m. Hỏi chiều rộng của mảnh vườn có thể nhận giá trị tối đa là bao nhiêu?",
+    "suggested_solution": "Ta cần lập bất phương trình biểu diễn chu vi của mảnh vườn.\n\n**Lời giải:**\n- Bước 1: Gọi ẩn và biểu diễn các đại lượng.\n  Gọi chiều rộng của mảnh vườn là \\(x\\) (m, \\(x > 0\\)).\n  Chiều dài của mảnh vườn là \\(2x\\) (m).\n- Bước 2: Lập biểu thức tính chu vi (tổng chiều dài hàng rào).\n  \\(P = 2(x + 2x) = 2(3x) = 6x\\) (m).\n- Bước 3: Lập và giải bất phương trình.\n  Tổng chiều dài hàng rào không được vượt quá 90m, nghĩa là \\(P \\le 90\\).\n  \\(6x \\le 90\\)\n  \\(\\Leftrightarrow x \\le 15\\)\n\nVậy chiều rộng của mảnh vườn có thể nhận giá trị tối đa là 15m.",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00019",
+    "question_text": "Trong một môn học, điểm tổng kết được tính bằng 60% điểm trung bình các bài kiểm tra thường xuyên và 40% điểm thi cuối kỳ. Bạn Lan có điểm trung bình các bài kiểm tra thường xuyên là 8.5. Hỏi điểm thi cuối kỳ (gọi là \\(x\\)) của Lan phải ít nhất là bao nhiêu để điểm tổng kết môn học từ 8.0 trở lên?",
+    "suggested_solution": "Ta cần lập bất phương trình cho điểm tổng kết dựa trên công thức tính điểm trung bình có trọng số.\n\n**Lời giải:**\n- Bước 1: Viết biểu thức tính điểm tổng kết (ĐTK).\n  ĐTK = (60% × Điểm TB thường xuyên) + (40% × Điểm cuối kỳ)\n  ĐTK = \\(0.6 \\times 8.5 + 0.4 \\times x\\)\n  ĐTK = \\(5.1 + 0.4x\\)\n- Bước 2: Lập bất phương trình.\n  Để điểm tổng kết từ 8.0 trở lên, ta có: \\(ĐTK \\ge 8.0\\).\n  \\(5.1 + 0.4x \\ge 8.0\\)\n- Bước 3: Giải bất phương trình.\n  \\(0.4x \\ge 8.0 - 5.1\\)\n  \\(\\Leftrightarrow 0.4x \\ge 2.9\\)\n  \\(\\Leftrightarrow x \\ge \\frac{2.9}{0.4} = 7.25\\)\n\nVậy điểm thi cuối kỳ của Lan phải ít nhất là 7.25 điểm.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00019",
+    "question_text": "Một sân chơi hình chữ nhật có chiều dài 20m và chiều rộng 12m. Người ta dự định mở rộng sân bằng cách tăng chiều dài thêm \\(x\\) mét và giữ nguyên chiều rộng. Tìm các giá trị có thể của \\(x\\) để diện tích sân sau khi mở rộng không vượt quá 300m².",
+    "suggested_solution": "Ta cần lập bất phương trình biểu diễn diện tích mới của sân chơi.\n\n**Lời giải:**\n- Bước 1: Biểu diễn các kích thước mới.\n  + Chiều dài mới: \\(20 + x\\) (m)\n  + Chiều rộng mới: \\(12\\) (m)\n- Bước 2: Lập biểu thức tính diện tích mới.\n  \\(S_{mới} = 12(20 + x)\\) (m²)\n- Bước 3: Lập và giải bất phương trình.\n  Diện tích mới không vượt quá 300m², nghĩa là \\(S_{mới} \\le 300\\).\n  \\(12(20 + x) \\le 300\\)\n  \\(\\Leftrightarrow 240 + 12x \\le 300\\)\n  \\(\\Leftrightarrow 12x \\le 60\\)\n  \\(\\Leftrightarrow x \\le 5\\)\n- Bước 4: Kết hợp điều kiện của \\(x\\).\n  Vì \\(x\\) là độ dài tăng thêm nên \\(x > 0\\).\n  Kết hợp lại, ta có \\(0 < x \\le 5\\).\n\nVậy các giá trị có thể của \\(x\\) là từ lớn hơn 0 đến và bằng 5 mét.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00019",
+    "question_text": "Một người đi xe đạp từ A đến B dài 30 km. Trên 10 km đầu, người đó đi với vận tốc \\(x\\) km/h. Trên 20 km còn lại, người đó đi với vận tốc nhanh hơn 2 km/h. Biết tổng thời gian đi không quá 2 giờ, hãy lập bất phương trình theo \\(x\\). (Giả sử \\(x>0\\))",
+    "suggested_solution": "Ta sẽ lập bất phương trình dựa trên tổng thời gian của hai chặng đường.\n\n**Lời giải:**\n- Bước 1: Biểu diễn thời gian cho từng chặng.\n  + Thời gian đi 10 km đầu: \\(t_1 = \\frac{10}{x}\\) (giờ).\n  + Vận tốc trên 20 km còn lại: \\(x+2\\) (km/h).\n  + Thời gian đi 20 km còn lại: \\(t_2 = \\frac{20}{x+2}\\) (giờ).\n- Bước 2: Lập biểu thức tính tổng thời gian.\n  Tổng thời gian: \\(T = t_1 + t_2 = \\frac{10}{x} + \\frac{20}{x+2}\\).\n- Bước 3: Lập bất phương trình.\n  Tổng thời gian không quá 2 giờ, nghĩa là \\(T \\le 2\\).\n  \\(\\frac{10}{x} + \\frac{20}{x+2} \\le 2\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00019",
+    "question_text": "Một người có 40m hàng rào để rào một mảnh đất hình chữ nhật. Hỏi người đó phải chọn kích thước chiều rộng \\(x\\) (m) của mảnh đất trong khoảng nào để diện tích mảnh đất không nhỏ hơn 96m²?",
+    "suggested_solution": "Đây là bài toán tối ưu, dẫn đến việc giải một bất phương trình bậc hai.\n\n**Lời giải:**\n- Bước 1: Biểu diễn các đại lượng theo \\(x\\).\n  + Chu vi là 40m, nên nửa chu vi là 20m.\n  + Gọi chiều rộng là \\(x\\) (m). Điều kiện \\(0 < x < 20\\).\n  + Chiều dài sẽ là \\(20 - x\\) (m).\n- Bước 2: Lập bất phương trình cho diện tích.\n  Diện tích \\(S = x(20 - x)\\).\n  Điều kiện diện tích không nhỏ hơn 96m²: \\(x(20 - x) \\ge 96\\).\n- Bước 3: Giải bất phương trình bậc hai.\n  \\(20x - x^2 \\ge 96\\)\n  \\(\\Leftrightarrow -x^2 + 20x - 96 \\ge 0\\)\n  \\(\\Leftrightarrow x^2 - 20x + 96 \\le 0\\)\n  Xét phương trình \\(t^2 - 20t + 96 = 0\\), có hai nghiệm là \\(t_1 = 8\\) và \\(t_2 = 12\\).\n  Theo quy tắc xét dấu tam thức bậc hai (\"trong trái, ngoài cùng\"), \\(x^2 - 20x + 96 \\le 0\\) khi \\(8 \\le x \\le 12\\).\n- Bước 4: Kết luận.\n  Kết hợp với điều kiện \\(0 < x < 20\\), ta được \\(8 \\le x \\le 12\\).\n\nVậy chiều rộng phải từ 8m đến 12m.",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00019",
+    "question_text": "Người ta có một dung dịch A chứa 20% axit và một dung dịch B chứa 50% axit. Cần trộn \\(x\\) gam dung dịch A với \\(y\\) gam dung dịch B để được 300g dung dịch mới có nồng độ axit không thấp hơn 30%. Hãy lập bất phương trình theo \\(x\\) và tìm giá trị lớn nhất của \\(x\\).",
+    "suggested_solution": "Đây là bài toán pha trộn, ta sẽ lập bất phương trình dựa trên tổng khối lượng axit.\n\n**Lời giải:**\n- Bước 1: Biểu diễn các đại lượng theo \\(x\\).\n  + Khối lượng dung dịch A: \\(x\\) (g). Điều kiện \\(0 \\le x \\le 300\\).\n  + Khối lượng dung dịch B: \\(y = 300 - x\\) (g).\n- Bước 2: Lập biểu thức tính tổng khối lượng axit.\n  + Khối lượng axit từ dung dịch A: \\(0.20x\\) (g).\n  + Khối lượng axit từ dung dịch B: \\(0.50(300 - x)\\) (g).\n  + Tổng khối lượng axit: \\(0.20x + 0.50(300 - x)\\).\n- Bước 3: Lập bất phương trình.\n  Nồng độ dung dịch mới = \\(\\frac{\\text{Tổng khối lượng axit}}{\\text{Tổng khối lượng dung dịch}} \\ge 0.30\\).\n  \\(\\frac{0.20x + 0.50(300 - x)}{300} \\ge 0.30\\)\n- Bước 4: Giải bất phương trình.\n  \\(0.2x + 150 - 0.5x \\ge 300 \\cdot 0.30\\)\n  \\(\\Leftrightarrow -0.3x + 150 \\ge 90\\)\n  \\(\\Leftrightarrow -0.3x \\ge -60\\)\n  \\(\\Leftrightarrow x \\le \\frac{-60}{-0.3} = 200\\).\n- Bước 5: Kết hợp điều kiện và kết luận.\n  Kết hợp với \\(x \\ge 0\\), ta có \\(0 \\le x \\le 200\\).\n\nVậy giá trị lớn nhất của \\(x\\) (khối lượng dung dịch A) là 200g.",
+    "difficulty": "Vận dụng cao"
+  }
+]

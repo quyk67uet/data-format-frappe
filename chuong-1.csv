@@ -1,0 +1,18 @@
+CHƯƠNG I: PHƯƠNG TRÌNH VÀ HỆ PHƯƠNG TRÌNH BẬC NHẤT.,,,,,
+"BÀI HỌC
+(LESSON)",LO - ID,"TÊN KỸ NĂNG
+(LEARNING OBJECT TITLE)","MỨC ĐỘ TƯ DUY
+(COGNITIVE LEVEL)","NỘI DUNG
+(DESCRIPTION)","MỤC TIÊU
+(OBJECTIVE)"
+Bài 1: Phương trình quy về PTBN một ẩn,LO-C1-01,Phương trình tích,Vận dụng cao,Phân tích một vế của phương trình thành nhân tử để đưa về dạng A(x) * B(x) = 0.,Áp dụng được các phương pháp phân tích để giải được phương trình tích cơ bản.
+,LO-C1-02,Phương trình chứa ẩn ở mẫu,Vận dụng cao,"Các bước giải phương trình có chứa ẩn ở mẫu, bao gồm tìm điều kiện xác định và khử mẫu.",Xác định được điều kiện của phương trình và giải được phương trình sau khi khử mẫu.
+,LO-C1-03,Giải toán bằng cách lập phương trình,Vận dụng cao,Quy trình chuyển đổi một bài toán có lời văn thành một phương trình toán học để tìm ra lời giải.,"Phân tích được các đại lượng, thiết lập được phương trình và giải được bài toán hoàn chỉnh."
+Bài 2: PTBN hai ẩn & Hệ PTBN hai ẩn,LO-C1-04,Khái niệm PTBN hai ẩn,Nhận biết,Định nghĩa phương trình dạng ax + by = c và khái niệm nghiệm của nó.,"Nhận biết được phương trình bậc nhất hai ẩn và kiểm tra được một cặp số (x, y) có phải là nghiệm hay không."
+,LO-C1-05,Tập nghiệm của PTBN hai ẩn,Thông hiểu,Biểu diễn hình học tập nghiệm của phương trình bậc nhất hai ẩn là một đường thẳng trên mặt phẳng tọa độ Oxy.,Biểu diễn được tập nghiệm của phương trình bậc nhất hai ẩn trên mặt phẳng tọa độ.
+,LO-C1-06,Khái niệm Hệ PTBN hai ẩn,Nhận biết,Định nghĩa một hệ gồm hai phương trình bậc nhất hai ẩn và khái niệm nghiệm chung của hệ.,Nhận biết được khái niệm nghiệm của một hệ phương trình.
+,LO-C1-07,Phương pháp thế,Vận dụng,Kỹ thuật rút một ẩn theo ẩn còn lại từ một phương trình và thay thế vào phương trình kia.,Vận dụng được phương pháp thế để tính được nghiệm của một hệ phương trình.
+,LO-C1-08,Phương pháp cộng đại số,Vận dụng,Kỹ thuật nhân các vế của phương trình với hệ số thích hợp để triệt tiêu một ẩn khi cộng hoặc trừ hai phương trình.,Vận dụng được phương pháp cộng đại số để tính được nghiệm của một hệ phương trình.
+,LO-C1-09,Phương pháp đặt ẩn phụ (cho hệ PT),Vận dụng cao,Kỹ thuật đặt ẩn phụ để đưa một số hệ phương trình phức tạp về dạng hệ phương trình bậc nhất hai ẩn cơ bản.,Nhận dạng và giải được các hệ phương trình có thể quy về dạng bậc nhất bằng cách đặt ẩn phụ.
+,LO-C1-10,Sử dụng máy tính cầm tay (giải hệ PT),Thông hiểu,Các bước sử dụng chức năng giải hệ phương trình trên máy tính cầm tay.,Sử dụng thành thạo máy tính cầm tay để kiểm tra hoặc tìm nhanh nghiệm của một hệ phương trình.
+Bài 3: Giải bài toán bằng cách lập Hệ PT,LO-C1-11,Giải toán bằng cách lập hệ phương trình,Vận dụng cao,Quy trình chuyển đổi một bài toán có lời văn (thường có 2 đại lượng chưa biết) thành một hệ hai phương trình bậc nhất hai ẩn.,"Phân tích được các đại lượng, thiết lập được hệ phương trình và giải được bài toán hoàn chỉnh."

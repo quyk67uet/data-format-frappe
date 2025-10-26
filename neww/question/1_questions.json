@@ -1,0 +1,662 @@
+[
+  {
+    "learning_object": "LO-00001",
+    "question_text": "Phương trình nào sau đây là phương trình tích?\nA. \\(2x + 1 = 0\\)\nB. \\(x^2 - 9 = 0\\)\nC. \\((x-1)(2x+3) = 0\\)\nD. \\(\\frac{x}{x+1} = 5\\)",
+    "suggested_solution": "Phương trình tích có dạng \\(A(x) \\cdot B(x) = 0\\).\nTrong các phương án trên, chỉ có phương trình \\((x-1)(2x+3) = 0\\) có dạng này.\n\n**Lời giải:**\n- Bước 1: Nhận dạng các phương trình đã cho.\n- Bước 2: So sánh với dạng tổng quát của phương trình tích là \\(A(x) \\cdot B(x) = 0\\).\n- Bước 3: Kết luận phương trình \\((x-1)(2x+3) = 0\\) là phương trình tích.\n\n**Đáp án đúng là C.**",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00001",
+    "question_text": "Giải phương trình \\(5x(x-7) = 0\\).",
+    "suggested_solution": "Đây là phương trình tích có dạng \\(A(x) \\cdot B(x) = 0\\) với \\(A(x) = 5x\\) và \\(B(x) = x-7\\).\n\n**Lời giải:**\nTa có: \\(5x(x-7) = 0\\)\nTrường hợp 1: \\(5x = 0 \\Leftrightarrow x = 0\\)\nTrường hợp 2: \\(x - 7 = 0 \\Leftrightarrow x = 7\\)\n\nVậy tập nghiệm của phương trình là \\(S = \\{0; 7\\}\\).",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00001",
+    "question_text": "Tìm tập nghiệm của phương trình \\((2x-1)^2 - 25 = 0\\).",
+    "suggested_solution": "Để giải phương trình, ta cần phân tích vế trái thành nhân tử bằng cách sử dụng hằng đẳng thức hiệu hai bình phương \\(A^2 - B^2 = (A-B)(A+B)\\).\n\n**Lời giải:**\nTa có: \\((2x-1)^2 - 25 = 0\\)\n\\(\\Leftrightarrow (2x-1)^2 - 5^2 = 0\\)\n\\(\\Leftrightarrow ((2x-1) - 5)((2x-1) + 5) = 0\\)\n\\(\\Leftrightarrow (2x-6)(2x+4) = 0\\)\n\nTrường hợp 1: \\(2x - 6 = 0 \\Leftrightarrow 2x = 6 \\Leftrightarrow x = 3\\)\nTrường hợp 2: \\(2x + 4 = 0 \\Leftrightarrow 2x = -4 \\Leftrightarrow x = -2\\)\n\nVậy tập nghiệm của phương trình là \\(S = \\{-2; 3\\}\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00001",
+    "question_text": "Giải phương trình \\(x^2(x-3) = 4(x-3)\\).",
+    "suggested_solution": "Đây là dạng phương trình cần chuyển vế để xuất hiện nhân tử chung, tránh chia hai vế cho biểu thức chứa ẩn có thể làm mất nghiệm.\n\n**Lời giải:**\nTa có: \\(x^2(x-3) = 4(x-3)\\)\n\\(\\Leftrightarrow x^2(x-3) - 4(x-3) = 0\\)\n\\(\\Leftrightarrow (x-3)(x^2 - 4) = 0\\)\n\\(\\Leftrightarrow (x-3)(x-2)(x+2) = 0\\)\n\nTrường hợp 1: \\(x - 3 = 0 \\Leftrightarrow x = 3\\)\nTrường hợp 2: \\(x - 2 = 0 \\Leftrightarrow x = 2\\)\nTrường hợp 3: \\(x + 2 = 0 \\Leftrightarrow x = -2\\)\n\nVậy tập nghiệm của phương trình là \\(S = \\{-2; 2; 3\\}\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00001",
+    "question_text": "Giải phương trình \\(x^3 - 2x^2 + 5x - 10 = 0\\).",
+    "suggested_solution": "Ta sẽ phân tích vế trái thành nhân tử bằng phương pháp nhóm hạng tử.\n\n**Lời giải:**\nTa có: \\(x^3 - 2x^2 + 5x - 10 = 0\\)\n\\(\\Leftrightarrow (x^3 - 2x^2) + (5x - 10) = 0\\)\n\\(\\Leftrightarrow x^2(x - 2) + 5(x - 2) = 0\\)\n\\(\\Leftrightarrow (x - 2)(x^2 + 5) = 0\\)\n\nTrường hợp 1: \\(x - 2 = 0 \\Leftrightarrow x = 2\\)\nTrường hợp 2: \\(x^2 + 5 = 0\\). Vì \\(x^2 \\ge 0\\) với mọi \\(x\\), nên \\(x^2 + 5 > 0\\) với mọi \\(x\\). Do đó phương trình này vô nghiệm.\n\nVậy phương trình đã cho có nghiệm duy nhất là \\(x = 2\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00001",
+    "question_text": "Tìm tổng các nghiệm của phương trình \\(x^2 - 8x + 15 = 0\\) bằng cách phân tích thành nhân tử.",
+    "suggested_solution": "Ta sẽ phân tích đa thức vế trái thành nhân tử bằng phương pháp tách hạng tử bậc nhất.\n\n**Lời giải:**\nTa có: \\(x^2 - 8x + 15 = 0\\)\n\\(\\Leftrightarrow x^2 - 3x - 5x + 15 = 0\\)\n\\(\\Leftrightarrow (x^2 - 3x) - (5x - 15) = 0\\)\n\\(\\Leftrightarrow x(x - 3) - 5(x - 3) = 0\\)\n\\(\\Leftrightarrow (x - 3)(x - 5) = 0\\)\n\nPhương trình có hai nghiệm là \\(x_1 = 3\\) và \\(x_2 = 5\\).\nTổng các nghiệm là \\(3 + 5 = 8\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00001",
+    "question_text": "Giải phương trình \\((x+2)^3 - (x+2) = 0\\).",
+    "suggested_solution": "Ta phân tích vế trái thành nhân tử bằng cách đặt nhân tử chung.\n\n**Lời giải:**\nTa có: \\((x+2)^3 - (x+2) = 0\\)\n\\(\\Leftrightarrow (x+2)[(x+2)^2 - 1] = 0\\)\n\\(\\Leftrightarrow (x+2)(x+2-1)(x+2+1) = 0\\)\n\\(\\Leftrightarrow (x+2)(x+1)(x+3) = 0\\)\n\nPhương trình có 3 nghiệm:\n- \\(x + 2 = 0 \\Leftrightarrow x = -2\\)\n- \\(x + 1 = 0 \\Leftrightarrow x = -1\\)\n- \\(x + 3 = 0 \\Leftrightarrow x = -3\\)\n\nVậy tập nghiệm của phương trình là \\(S = \\{-3; -2; -1\\}\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00001",
+    "question_text": "Biết \\(x=1\\) là một nghiệm của phương trình \\(x^3 + 2x^2 - 5x + 2 = 0\\). Tìm các nghiệm còn lại.",
+    "suggested_solution": "Vì \\(x=1\\) là một nghiệm nên đa thức \\(x^3 + 2x^2 - 5x + 2\\) chia hết cho \\((x-1)\\). Ta thực hiện phép chia đa thức hoặc phân tích thành nhân tử.\n\n**Lời giải:**\nTa có: \\(x^3 + 2x^2 - 5x + 2 = 0\\)\n\\(\\Leftrightarrow (x^3 - x^2) + (3x^2 - 3x) - (2x - 2) = 0\\)\n\\(\\Leftrightarrow x^2(x - 1) + 3x(x - 1) - 2(x - 1) = 0\\)\n\\(\\Leftrightarrow (x - 1)(x^2 + 3x - 2) = 0\\)\n\nTa đã biết nghiệm \\(x=1\\). Các nghiệm còn lại là nghiệm của phương trình \\(x^2 + 3x - 2 = 0\\).\nTa có \\(\\Delta = 3^2 - 4(1)(-2) = 9 + 8 = 17 > 0\\).\nPhương trình có hai nghiệm phân biệt:\n\\(x_1 = \\frac{-3 + \\sqrt{17}}{2}\\)\n\\(x_2 = \\frac{-3 - \\sqrt{17}}{2}\\)\n\nVậy các nghiệm còn lại của phương trình là \\(\\frac{-3 + \\sqrt{17}}{2}\\) và \\(\\frac{-3 - \\sqrt{17}}{2}\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00001",
+    "question_text": "Tìm tất cả các giá trị của tham số \\(m\\) để phương trình \\((x-m)(x^2 - 6x + 8) = 0\\) có đúng hai nghiệm phân biệt.",
+    "suggested_solution": "Phương trình đã cho là phương trình tích.\n\n**Lời giải:**\nTa có: \\((x-m)(x^2 - 6x + 8) = 0\\)\n\\(\\Leftrightarrow (x-m)(x-2)(x-4) = 0\\)\nPhương trình có các nghiệm là \\(x=m\\), \\(x=2\\), \\(x=4\\).\n\nĐể phương trình có đúng hai nghiệm phân biệt, nghiệm \\(x=m\\) phải trùng với một trong hai nghiệm còn lại.\n- Trường hợp 1: \\(m = 2\\). Khi đó phương trình có hai nghiệm phân biệt là \\(x=2\\) và \\(x=4\\). (Thỏa mãn)\n- Trường hợp 2: \\(m = 4\\). Khi đó phương trình có hai nghiệm phân biệt là \\(x=2\\) và \\(x=4\\). (Thỏa mãn)\n\nVậy các giá trị của \\(m\\) cần tìm là \\(m=2\\) hoặc \\(m=4\\).",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00001",
+    "question_text": "Giải phương trình \\(x^4 + x^2 + 1 = 0\\).",
+    "suggested_solution": "Ta sẽ phân tích vế trái thành nhân tử bằng phương pháp thêm bớt hạng tử.\n\n**Lời giải:**\nTa có: \\(x^4 + x^2 + 1 = 0\\)\n\\(\\Leftrightarrow (x^4 + 2x^2 + 1) - x^2 = 0\\)\n\\(\\Leftrightarrow (x^2 + 1)^2 - x^2 = 0\\)\n\\(\\Leftrightarrow (x^2 + 1 - x)(x^2 + 1 + x) = 0\\)\n\nTrường hợp 1: \\(x^2 - x + 1 = 0\\)\nTa có \\(\\Delta = (-1)^2 - 4(1)(1) = 1 - 4 = -3 < 0\\). Phương trình này vô nghiệm.\n\nTrường hợp 2: \\(x^2 + x + 1 = 0\\)\nTa có \\(\\Delta = 1^2 - 4(1)(1) = 1 - 4 = -3 < 0\\). Phương trình này vô nghiệm.\n\nVậy phương trình đã cho vô nghiệm.",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00002",
+    "question_text": "Điều kiện xác định của phương trình \\(\\frac{5}{x-4} = 1\\) là gì?",
+    "suggested_solution": "Phương trình chứa ẩn ở mẫu xác định khi tất cả các mẫu thức khác 0.\n\n**Lời giải:**\n- Bước 1: Xác định mẫu thức của phương trình. Mẫu thức là \\(x-4\\).\n- Bước 2: Đặt điều kiện cho mẫu thức khác 0: \\(x - 4 \\ne 0\\).\n- Bước 3: Giải điều kiện: \\(x \\ne 4\\).\n\nVậy điều kiện xác định của phương trình là \\(x \\ne 4\\).",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00002",
+    "question_text": "Để giải phương trình \\(\\frac{1}{x} + \\frac{1}{x+2} = 3\\), ta cần đặt điều kiện xác định là gì?",
+    "suggested_solution": "Phương trình xác định khi tất cả các mẫu thức khác 0.\n\n**Lời giải:**\n- Bước 1: Xác định các mẫu thức của phương trình: \\(x\\) và \\(x+2\\).\n- Bước 2: Đặt điều kiện cho từng mẫu thức khác 0:\n  + \\(x \\ne 0\\)\n  + \\(x + 2 \\ne 0 \\Leftrightarrow x \\ne -2\\)\n\nVậy điều kiện xác định của phương trình là \\(x \\ne 0\\) và \\(x \\ne -2\\).",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00002",
+    "question_text": "Tìm tập nghiệm của phương trình \\(\\frac{2x+1}{x-1} = 3\\).",
+    "suggested_solution": "Đây là bài toán giải phương trình chứa ẩn ở mẫu cơ bản.\n\n**Lời giải:**\n- Bước 1: Tìm điều kiện xác định (ĐKXĐ).\n  \\(x - 1 \\ne 0 \\Leftrightarrow x \\ne 1\\).\n\n- Bước 2: Quy đồng và khử mẫu.\n  \\(\\frac{2x+1}{x-1} = \\frac{3(x-1)}{x-1}\\)\n  \\(\\Rightarrow 2x + 1 = 3(x-1)\\)\n\n- Bước 3: Giải phương trình.\n  \\(2x + 1 = 3x - 3\\)\n  \\(\\Leftrightarrow 3x - 2x = 1 + 3\\)\n  \\(\\Leftrightarrow x = 4\\)\n\n- Bước 4: Đối chiếu với ĐKXĐ.\n  Giá trị \\(x=4\\) thỏa mãn điều kiện \\(x \\ne 1\\).\n\nVậy tập nghiệm của phương trình là \\(S = \\{4\\}\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00002",
+    "question_text": "Giải phương trình \\(\\frac{x^2}{x+3} = \\frac{9}{x+3}\\).",
+    "suggested_solution": "Bài toán này kiểm tra bước đối chiếu nghiệm với điều kiện xác định.\n\n**Lời giải:**\n- Bước 1: Tìm ĐKXĐ.\n  \\(x + 3 \\ne 0 \\Leftrightarrow x \\ne -3\\).\n\n- Bước 2: Khử mẫu.\n  Phương trình có cùng mẫu thức nên ta có: \\(x^2 = 9\\)\n\n- Bước 3: Giải phương trình.\n  \\(x^2 = 9 \\Leftrightarrow x = 3\\) hoặc \\(x = -3\\).\n\n- Bước 4: Đối chiếu với ĐKXĐ.\n  + Nghiệm \\(x = 3\\) thỏa mãn điều kiện \\(x \\ne -3\\) (nhận).\n  + Nghiệm \\(x = -3\\) không thỏa mãn điều kiện \\(x \\ne -3\\) (loại).\n\nVậy phương trình có nghiệm duy nhất là \\(x = 3\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00002",
+    "question_text": "Phương trình \\(\\frac{1}{x-2} + 3 = \\frac{3-x}{x-2}\\) có bao nhiêu nghiệm?",
+    "suggested_solution": "Ta cần giải phương trình và đối chiếu với ĐKXĐ để kết luận số nghiệm.\n\n**Lời giải:**\n- Bước 1: Tìm ĐKXĐ.\n  \\(x - 2 \\ne 0 \\Leftrightarrow x \\ne 2\\).\n\n- Bước 2: Quy đồng và khử mẫu.\n  \\(\\frac{1}{x-2} + \\frac{3(x-2)}{x-2} = \\frac{3-x}{x-2}\\)\n  \\(\\Rightarrow 1 + 3(x-2) = 3-x\\)\n\n- Bước 3: Giải phương trình.\n  \\(1 + 3x - 6 = 3 - x\\)\n  \\(\\Leftrightarrow 3x - 5 = 3 - x\\)\n  \\(\\Leftrightarrow 4x = 8\\)\n  \\(\\Leftrightarrow x = 2\\)\n\n- Bước 4: Đối chiếu với ĐKXĐ.\n  Giá trị \\(x=2\\) không thỏa mãn điều kiện \\(x \\ne 2\\) (loại).\n\nVậy phương trình đã cho vô nghiệm, tức là có 0 nghiệm.",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00002",
+    "question_text": "Giải phương trình \\(\\frac{x}{x-1} - \\frac{2}{x+1} = \\frac{2}{x^2-1}\\).",
+    "suggested_solution": "Đây là phương trình có mẫu thức cần được phân tích thành nhân tử để tìm mẫu thức chung.\n\n**Lời giải:**\n- Bước 1: Tìm ĐKXĐ.\n  Ta có \\(x^2 - 1 = (x-1)(x+1)\\). Vậy ĐKXĐ là \\(x \\ne 1\\) và \\(x \\ne -1\\).\n\n- Bước 2: Quy đồng và khử mẫu. Mẫu thức chung là \\((x-1)(x+1)\\).\n  \\(\\frac{x(x+1)}{(x-1)(x+1)} - \\frac{2(x-1)}{(x-1)(x+1)} = \\frac{2}{(x-1)(x+1)}\\)\n  \\(\\Rightarrow x(x+1) - 2(x-1) = 2\\)\n\n- Bước 3: Giải phương trình.\n  \\(x^2 + x - 2x + 2 = 2\\)\n  \\(\\Leftrightarrow x^2 - x = 0\\)\n  \\(\\Leftrightarrow x(x-1) = 0\\)\n  \\(\\Leftrightarrow x = 0\\) hoặc \\(x = 1\\).\n\n- Bước 4: Đối chiếu với ĐKXĐ.\n  + Nghiệm \\(x = 0\\) thỏa mãn ĐKXĐ (nhận).\n  + Nghiệm \\(x = 1\\) không thỏa mãn ĐKXĐ (loại).\n\nVậy phương trình có nghiệm duy nhất là \\(x = 0\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00002",
+    "question_text": "Tìm tổng các nghiệm của phương trình \\(x + \\frac{1}{x} = \\frac{5}{2}\\).",
+    "suggested_solution": "Đây là phương trình sau khi khử mẫu sẽ trở thành phương trình bậc hai.\n\n**Lời giải:**\n- Bước 1: Tìm ĐKXĐ: \\(x \\ne 0\\).\n\n- Bước 2: Quy đồng và khử mẫu. Mẫu thức chung là \\(2x\\).\n  \\(\\frac{2x^2}{2x} + \\frac{2}{2x} = \\frac{5x}{2x}\\)\n  \\(\\Rightarrow 2x^2 + 2 = 5x\\)\n\n- Bước 3: Giải phương trình bậc hai.\n  \\(2x^2 - 5x + 2 = 0\\)\n  Ta có \\(\\Delta = (-5)^2 - 4(2)(2) = 25 - 16 = 9 > 0\\).\n  Phương trình có hai nghiệm phân biệt:\n  \\(x_1 = \\frac{5 + \\sqrt{9}}{2 \\cdot 2} = \\frac{5+3}{4} = 2\\)\n  \\(x_2 = \\frac{5 - \\sqrt{9}}{2 \\cdot 2} = \\frac{5-3}{4} = \\frac{1}{2}\\)\n\n- Bước 4: Đối chiếu với ĐKXĐ.\n  Cả hai nghiệm \\(x=2\\) và \\(x=\\frac{1}{2}\\) đều thỏa mãn \\(x \\ne 0\\).\n\nTổng các nghiệm là \\(2 + \\frac{1}{2} = \\frac{5}{2}\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00002",
+    "question_text": "Phương trình \\(\\frac{1}{x-1} + \\frac{1}{x-2} = \\frac{1}{x-3}\\) có bao nhiêu nghiệm nguyên?",
+    "suggested_solution": "Đây là bài toán giải phương trình chứa ẩn ở mẫu phức tạp, sau đó kiểm tra tính nguyên của nghiệm.\n\n**Lời giải:**\n- Bước 1: Tìm ĐKXĐ: \\(x \\ne 1; x \\ne 2; x \\ne 3\\).\n\n- Bước 2: Quy đồng và giải phương trình.\n  \\(\\frac{(x-2) + (x-1)}{(x-1)(x-2)} = \\frac{1}{x-3}\\)\n  \\(\\Leftrightarrow \\frac{2x-3}{x^2-3x+2} = \\frac{1}{x-3}\\)\n  \\(\\Rightarrow (2x-3)(x-3) = x^2-3x+2\\)\n  \\(\\Leftrightarrow 2x^2 - 6x - 3x + 9 = x^2 - 3x + 2\\)\n  \\(\\Leftrightarrow x^2 - 6x + 7 = 0\\)\n\n- Bước 3: Tìm nghiệm của phương trình bậc hai.\n  \\(\\Delta' = (-3)^2 - 1(7) = 9 - 7 = 2 > 0\\).\n  Nghiệm của phương trình là \\(x = 3 \\pm \\sqrt{2}\\).\n\n- Bước 4: Đối chiếu và kết luận.\n  Cả hai nghiệm \\(3 + \\sqrt{2}\\) và \\(3 - \\sqrt{2}\\) đều thỏa mãn ĐKXĐ. Tuy nhiên, cả hai nghiệm này đều không phải là số nguyên.\n\nVậy phương trình không có nghiệm nguyên nào.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00002",
+    "question_text": "Tìm tất cả các giá trị của tham số \\(m\\) để phương trình \\(\\frac{x-m}{x-1} = 2\\) vô nghiệm.",
+    "suggested_solution": "Một phương trình chứa ẩn ở mẫu vô nghiệm khi nghiệm tìm được sau khi khử mẫu trùng với giá trị bị loại bởi điều kiện xác định.\n\n**Lời giải:**\n- Bước 1: Tìm ĐKXĐ: \\(x - 1 \\ne 0 \\Leftrightarrow x \\ne 1\\).\n\n- Bước 2: Khử mẫu và giải phương trình theo \\(x\\).\n  \\(x - m = 2(x-1)\\)\n  \\(\\Leftrightarrow x - m = 2x - 2\\)\n  \\(\\Leftrightarrow 2x - x = 2 - m\\)\n  \\(\\Leftrightarrow x = 2 - m\\)\n\n- Bước 3: Biện luận.\n  Phương trình đã cho vô nghiệm khi và chỉ khi nghiệm duy nhất tìm được ở trên vi phạm điều kiện xác định. Tức là:\n  \\(x = 1\\)\n  \\(\\Leftrightarrow 2 - m = 1\\)\n  \\(\\Leftrightarrow m = 1\\)\n\nVậy với \\(m=1\\), phương trình vô nghiệm.",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00002",
+    "question_text": "Giải phương trình \\(\\frac{1}{x^2+3x+2} + \\frac{1}{x^2+5x+6} = \\frac{2}{x^2+4x+3}\\).",
+    "suggested_solution": "Đây là bài toán yêu cầu kỹ năng phân tích các mẫu thức thành nhân tử để tìm mẫu thức chung và giải phương trình.\n\n**Lời giải:**\n- Bước 1: Phân tích các mẫu thức.\n  \\(x^2+3x+2 = (x+1)(x+2)\\)\n  \\(x^2+5x+6 = (x+2)(x+3)\\)\n  \\(x^2+4x+3 = (x+1)(x+3)\\)\n  ĐKXĐ: \\(x \\ne -1; x \\ne -2; x \\ne -3\\).\n\n- Bước 2: Viết lại và giải phương trình.\n  \\(\\frac{1}{(x+1)(x+2)} + \\frac{1}{(x+2)(x+3)} = \\frac{2}{(x+1)(x+3)}\\)\n  Nhận xét vế trái: \\(\\frac{1}{x+1} - \\frac{1}{x+2} + \\frac{1}{x+2} - \\frac{1}{x+3} = \\frac{1}{x+1} - \\frac{1}{x+3}\\) (phân tích thành phân số đơn giản).\n  Vậy phương trình trở thành:\n  \\(\\frac{1}{x+1} - \\frac{1}{x+3} = \\frac{2}{(x+1)(x+3)}\\)\n  \\(\\Leftrightarrow \\frac{(x+3) - (x+1)}{(x+1)(x+3)} = \\frac{2}{(x+1)(x+3)}\\)\n  \\(\\Leftrightarrow \\frac{2}{(x+1)(x+3)} = \\frac{2}{(x+1)(x+3)}\\)\n\n- Bước 3: Kết luận.\n  Phương trình trên luôn đúng với mọi \\(x\\) thỏa mãn ĐKXĐ.\n\nVậy tập nghiệm của phương trình là \\(S = \\mathbb{R} \\setminus \\{-1; -2; -3\\}\\).",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00003",
+    "question_text": "Một hình chữ nhật có chu vi là 100m. Nếu gọi chiều dài là \\(x\\) (m) thì chiều rộng được biểu diễn là \\(50-x\\) (m). Phương trình nào sau đây biểu thị thông tin diện tích của hình chữ nhật đó là 600m²?",
+    "suggested_solution": "Ta có công thức tính diện tích hình chữ nhật là: Diện tích = Chiều dài × Chiều rộng.\n\n**Lời giải:**\n- Bước 1: Xác định các đại lượng đã cho theo ẩn \\(x\\).\n  + Chiều dài: \\(x\\) (m)\n  + Chiều rộng: \\(50-x\\) (m)\n  + Diện tích: 600 m²\n- Bước 2: Lập phương trình biểu thị mối quan hệ giữa các đại lượng.\n  Chiều dài × Chiều rộng = Diện tích\n  \\(\\Rightarrow x(50-x) = 600\\)\n\nVậy phương trình cần tìm là \\(x(50-x) = 600\\).",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00003",
+    "question_text": "Tổng của hai số là 80. Số thứ nhất lớn hơn số thứ hai là 12. Nếu gọi số thứ hai là \\(x\\), phương trình nào sau đây biểu diễn đúng mối quan hệ của bài toán?",
+    "suggested_solution": "Bài toán yêu cầu thiết lập phương trình từ các mối quan hệ cho trước.\n\n**Lời giải:**\n- Bước 1: Gọi ẩn và biểu diễn các đại lượng.\n  + Gọi số thứ hai là \\(x\\).\n  + Vì số thứ nhất lớn hơn số thứ hai là 12, nên số thứ nhất là \\(x+12\\).\n- Bước 2: Lập phương trình dựa trên thông tin tổng hai số.\n  Tổng hai số là 80, nên ta có phương trình:\n  \\((x+12) + x = 80\\)\n  \\(\\Leftrightarrow 2x + 12 = 80\\)",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00003",
+    "question_text": "Một người đi xe máy từ A đến B với vận tốc 35 km/h. Lúc về, người đó đi với vận tốc 45 km/h nên thời gian về ít hơn thời gian đi là 30 phút. Nếu gọi quãng đường AB là \\(x\\) (km), hãy thiết lập phương trình của bài toán.",
+    "suggested_solution": "Đây là bài toán chuyển động, ta cần biểu diễn thời gian đi và về theo quãng đường và vận tốc.\n\n**Lời giải:**\n- Bước 1: Đổi đơn vị thời gian: 30 phút = \\(\\frac{1}{2}\\) giờ.\n- Bước 2: Biểu diễn các đại lượng theo ẩn \\(x\\).\n  + Thời gian đi từ A đến B: \\(t_{đi} = \\frac{x}{35}\\) (giờ)\n  + Thời gian về từ B đến A: \\(t_{về} = \\frac{x}{45}\\) (giờ)\n- Bước 3: Lập phương trình dựa trên mối quan hệ thời gian.\n  Thời gian về ít hơn thời gian đi là \\(\\frac{1}{2}\\) giờ, nên ta có:\n  \\(t_{đi} - t_{về} = \\frac{1}{2}\\)\n  \\(\\Leftrightarrow \\frac{x}{35} - \\frac{x}{45} = \\frac{1}{2}\\)",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00003",
+    "question_text": "Hai vòi nước cùng chảy vào một bể cạn thì sau 12 giờ đầy bể. Nếu chỉ mở vòi thứ nhất thì sau 20 giờ sẽ đầy bể. Gọi \\(x\\) là thời gian để vòi thứ hai chảy một mình đầy bể (đơn vị: giờ). Hãy lập phương trình để tìm \\(x\\).",
+    "suggested_solution": "Đây là bài toán làm chung - làm riêng, ta sẽ lập phương trình dựa trên lượng nước chảy được trong một giờ.\n\n**Lời giải:**\n- Bước 1: Biểu diễn lượng nước chảy trong 1 giờ của mỗi vòi.\n  + Trong 1 giờ, cả hai vòi chảy được: \\(\\frac{1}{12}\\) (bể)\n  + Trong 1 giờ, vòi thứ nhất chảy được: \\(\\frac{1}{20}\\) (bể)\n  + Trong 1 giờ, vòi thứ hai chảy được: \\(\\frac{1}{x}\\) (bể)\n- Bước 2: Lập phương trình.\n  Lượng nước cả hai vòi chảy trong 1 giờ bằng tổng lượng nước mỗi vòi chảy trong 1 giờ:\n  \\(\\frac{1}{20} + \\frac{1}{x} = \\frac{1}{12}\\)",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00003",
+    "question_text": "Một lớp học có 45 học sinh. Trong đợt quyên góp, mỗi bạn nam góp 5 quyển vở, mỗi bạn nữ góp 3 quyển vở. Tổng số vở quyên góp được là 175 quyển. Gọi số học sinh nam là \\(x\\). Hãy lập phương trình để tìm \\(x\\).",
+    "suggested_solution": "Ta cần biểu diễn số học sinh nữ và tổng số vở quyên góp theo ẩn \\(x\\).\n\n**Lời giải:**\n- Bước 1: Biểu diễn các đại lượng theo ẩn \\(x\\).\n  + Số học sinh nam: \\(x\\) (học sinh)\n  + Số học sinh nữ: \\(45 - x\\) (học sinh)\n- Bước 2: Biểu diễn tổng số vở quyên góp được.\n  + Số vở các bạn nam góp: \\(5x\\) (quyển)\n  + Số vở các bạn nữ góp: \\(3(45 - x)\\) (quyển)\n- Bước 3: Lập phương trình.\n  Tổng số vở là 175 quyển, nên ta có phương trình:\n  \\(5x + 3(45 - x) = 175\\)",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00003",
+    "question_text": "Một xưởng may dự định may 1500 chiếc áo trong một thời gian nhất định. Để hoàn thành sớm, mỗi ngày xưởng đã may thêm được 25 chiếc áo so với kế hoạch. Do đó, xưởng đã hoàn thành công việc trước kế hoạch 5 ngày. Hỏi theo kế hoạch, mỗi ngày xưởng phải may bao nhiêu chiếc áo?",
+    "suggested_solution": "Đây là bài toán năng suất, ta sẽ lập phương trình dựa trên sự chênh lệch về thời gian.\n\n**Lời giải:**\n- Bước 1: Gọi ẩn và đặt điều kiện.\n  Gọi số áo mỗi ngày xưởng dự định may là \\(x\\) (chiếc, \\(x \\in \\mathbb{N}^*\\)).\n- Bước 2: Biểu diễn các đại lượng.\n  + Thời gian dự định hoàn thành: \\(\\frac{1500}{x}\\) (ngày)\n  + Số áo thực tế may mỗi ngày: \\(x + 25\\) (chiếc)\n  + Thời gian thực tế hoàn thành: \\(\\frac{1500}{x+25}\\) (ngày)\n- Bước 3: Lập phương trình.\n  Vì hoàn thành sớm hơn 5 ngày, nên thời gian dự định nhiều hơn thời gian thực tế là 5 ngày:\n  \\(\\frac{1500}{x} - \\frac{1500}{x+25} = 5\\)\n- Bước 4: Giải phương trình.\n  ĐKXĐ: \\(x > 0\\). Quy đồng và khử mẫu:\n  \\(1500(x+25) - 1500x = 5x(x+25)\\)\n  \\(\\Leftrightarrow 1500x + 37500 - 1500x = 5x^2 + 125x\\)\n  \\(\\Leftrightarrow 5x^2 + 125x - 37500 = 0\\)\n  \\(\\Leftrightarrow x^2 + 25x - 7500 = 0\\)\n  Giải phương trình bậc hai ta được \\(x = 75\\) (nhận) và \\(x = -100\\) (loại).\n\n- Bước 5: Kết luận.\n  Vậy theo kế hoạch, mỗi ngày xưởng phải may 75 chiếc áo.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00003",
+    "question_text": "Một mảnh đất hình chữ nhật có chiều dài hơn chiều rộng 10m. Nếu tăng chiều rộng thêm 5m và giảm chiều dài đi 8m thì diện tích mảnh đất giảm đi 50m². Tính chu vi của mảnh đất ban đầu.",
+    "suggested_solution": "Toán giải bằng cách lập phương trình.\n\n**Lời giải:**\n\n- **Bước 1: Gọi ẩn và đặt điều kiện.**\n  Gọi chiều rộng ban đầu của mảnh đất là \\(x\\) (m).\n  Điều kiện: \\(x > 0\\).\n  Vì chiều dài hơn chiều rộng 10m, nên chiều dài ban đầu là: \\(x + 10\\) (m).\n\n- **Bước 2: Biểu diễn các đại lượng.**\n  Diện tích ban đầu (\\(A_1\\)) là: \\(A_1 = x(x+10)\\) (m²).\n  Chiều rộng lúc sau (khi tăng 5m) là: \\(x + 5\\) (m).\n  Chiều dài lúc sau (khi giảm 8m) là: \\((x+10) - 8 = x + 2\\) (m).\n  Diện tích lúc sau (\\(A_2\\)) là: \\(A_2 = (x+5)(x+2)\\) (m²).\n\n- **Bước 3: Lập phương trình.**\n  Theo đề bài, diện tích lúc sau giảm đi 50m² so với diện tích ban đầu, nên ta có phương trình:\n  \\(A_1 - A_2 = 50\\)\n  \\(\\Leftrightarrow x(x+10) - (x+5)(x+2) = 50\\)\n\n- **Bước 4: Giải phương trình.**\n  \\(x(x+10) - (x+5)(x+2) = 50\\)\n  \\(\\Leftrightarrow (x^2 + 10x) - (x^2 + 2x + 5x + 10) = 50\\)\n  \\(\\Leftrightarrow (x^2 + 10x) - (x^2 + 7x + 10) = 50\\)\n  \\(\\Leftrightarrow x^2 + 10x - x^2 - 7x - 10 = 50\\)\n  \\(\\Leftrightarrow 3x - 10 = 50\\)\n  \\(\\Leftrightarrow 3x = 60\\)\n  \\(\\Leftrightarrow x = 20\\)\n\n- **Bước 5: Kiểm tra điều kiện và kết luận.**\n  Giá trị \\(x = 20\\) thỏa mãn điều kiện \\(x > 0\\).\n  Vậy, chiều rộng ban đầu của mảnh đất là 20 m.\n  Chiều dài ban đầu của mảnh đất là: \\(20 + 10 = 30\\) m.\n  Chu vi của mảnh đất ban đầu là: \\(P = 2 \\times (\\text{chiều dài} + \\text{chiều rộng}) = 2 \\times (30 + 20) = 100\\) (m).\n\n**Đáp số:** 100 m.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00003",
+    "question_text": "Một ca nô đi xuôi dòng một khúc sông từ A đến B hết 4 giờ và đi ngược dòng từ B về A hết 6 giờ. Tính vận tốc thực của ca nô, biết vận tốc dòng nước là 3 km/h.",
+    "suggested_solution": "Đây là bài toán chuyển động trên dòng nước. Quãng đường xuôi và ngược là như nhau.\n\n**Lời giải:**\n- Bước 1: Gọi ẩn và đặt điều kiện.\n  Gọi vận tốc thực của ca nô là \\(v\\) (km/h, \\(v > 3\\)).\n- Bước 2: Biểu diễn các đại lượng.\n  + Vận tốc xuôi dòng: \\(v + 3\\) (km/h)\n  + Vận tốc ngược dòng: \\(v - 3\\) (km/h)\n  + Quãng đường AB khi xuôi dòng: \\(4(v+3)\\) (km)\n  + Quãng đường AB khi ngược dòng: \\(6(v-3)\\) (km)\n- Bước 3: Lập phương trình.\n  Vì quãng đường AB không đổi, ta có:\n  \\(4(v+3) = 6(v-3)\\)\n- Bước 4: Giải phương trình.\n  \\(4v + 12 = 6v - 18\\)\n  \\(\\Leftrightarrow 2v = 30\\)\n  \\(\\Leftrightarrow v = 15\\)\n- Bước 5: Đối chiếu và kết luận.\n  Giá trị \\(v=15\\) thỏa mãn điều kiện \\(v>3\\).\n  Vậy vận tốc thực của ca nô là 15 km/h.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00003",
+    "question_text": "Một dung dịch chứa 40% muối. Nếu đổ thêm 200g nước vào dung dịch thì được một dung dịch mới có nồng độ 20%. Tính khối lượng của dung dịch ban đầu.",
+    "suggested_solution": "Đây là bài toán về nồng độ dung dịch. Đại lượng không đổi trong quá trình pha loãng là khối lượng muối nguyên chất.\n\n**Lời giải:**\n- Bước 1: Gọi ẩn và đặt điều kiện.\n  Gọi khối lượng dung dịch ban đầu là \\(x\\) (g, \\(x > 0\\)).\n- Bước 2: Biểu diễn các đại lượng.\n  + Khối lượng muối có trong dung dịch ban đầu: \\(0.4x\\) (g)\n  + Khối lượng dung dịch lúc sau (sau khi thêm nước): \\(x + 200\\) (g)\n  + Khối lượng muối có trong dung dịch lúc sau: \\(0.2(x + 200)\\) (g)\n- Bước 3: Lập phương trình.\n  Vì chỉ thêm nước nên khối lượng muối không đổi:\n  \\(0.4x = 0.2(x + 200)\\)\n- Bước 4: Giải phương trình.\n  \\(0.4x = 0.2x + 40\\)\n  \\(\\Leftrightarrow 0.2x = 40\\)\n  \\(\\Leftrightarrow x = \\frac{40}{0.2} = 200\\)\n- Bước 5: Đối chiếu và kết luận.\n  Giá trị \\(x=200\\) thỏa mãn điều kiện. \n  Vậy khối lượng dung dịch ban đầu là 200g.",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00003",
+    "question_text": "Hai đội công nhân cùng sửa một đoạn đường thì sau 24 ngày sẽ xong. Mỗi ngày, phần việc đội A làm được nhiều gấp rưỡi đội B. Hỏi nếu làm một mình thì mỗi đội sẽ sửa xong đoạn đường đó trong bao lâu?",
+    "suggested_solution": "Đây là bài toán làm chung - làm riêng kết hợp với mối quan hệ về năng suất.\n\n**Lời giải:**\n- Bước 1: Gọi ẩn và đặt điều kiện.\n  Gọi thời gian đội B làm một mình xong việc là \\(x\\) (ngày, \\(x > 24\\)).\n- Bước 2: Biểu diễn các đại lượng.\n  + Trong 1 ngày, đội B làm được: \\(\\frac{1}{x}\\) (công việc)\n  + Vì năng suất đội A gấp rưỡi (1.5 lần) đội B, nên trong 1 ngày, đội A làm được: \\(1.5 \\cdot \\frac{1}{x} = \\frac{3}{2x}\\) (công việc)\n  + Trong 1 ngày, cả hai đội làm được: \\(\\frac{1}{24}\\) (công việc)\n- Bước 3: Lập phương trình.\n  Tổng năng suất của hai đội bằng năng suất chung:\n  \\(\\frac{1}{x} + \\frac{3}{2x} = \\frac{1}{24}\\)\n- Bước 4: Giải phương trình.\n  \\(\\frac{2}{2x} + \\frac{3}{2x} = \\frac{1}{24}\\)\n  \\(\\Leftrightarrow \\frac{5}{2x} = \\frac{1}{24}\\)\n  \\(\\Leftrightarrow 2x = 5 \\cdot 24 = 120\\)\n  \\(\\Leftrightarrow x = 60\\)\n- Bước 5: Đối chiếu và kết luận.\n  Giá trị \\(x=60\\) thỏa mãn điều kiện. Vậy đội B làm một mình xong trong 60 ngày.\n  Thời gian đội A làm một mình xong việc là \\(x / 1.5 = 60 / 1.5 = 40\\) ngày.\n\n  **Đáp số:** Đội A: 40 ngày; Đội B: 60 ngày.",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00004",
+    "question_text": "Phương trình nào sau đây là phương trình bậc nhất hai ẩn?\nA. \\(3x^2 + y = 5\\)\nB. \\(2x - 5y = 1\\)\nC. \\(0x + 0y = 0\\)\nD. \\(x + y + z = 10\\)",
+    "suggested_solution": "Phương trình bậc nhất hai ẩn có dạng tổng quát là \\(ax + by = c\\), trong đó \\(a, b, c\\) là các số đã biết, với điều kiện \\(a\\) và \\(b\\) không đồng thời bằng 0.\n\n**Lời giải:**\n- Phương án A sai vì có chứa \\(x^2\\) (bậc hai).\n- Phương án B có dạng \\(ax + by = c\\) với \\(a=2, b=-5, c=1\\) (thỏa mãn).\n- Phương án C sai vì \\(a=0\\) và \\(b=0\\).\n- Phương án D sai vì là phương trình bậc nhất ba ẩn.\n\n**Đáp án đúng là B.**",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00004",
+    "question_text": "Cặp số \\((2; -1)\\) có phải là một nghiệm của phương trình \\(3x + 2y = 4\\) không?",
+    "suggested_solution": "Để kiểm tra một cặp số có phải là nghiệm của phương trình hay không, ta thay các giá trị của cặp số đó vào hai vế của phương trình và so sánh kết quả.\n\n**Lời giải:**\n- Bước 1: Thay \\(x = 2\\) và \\(y = -1\\) vào vế trái của phương trình: \\(3x + 2y\\).\n- Bước 2: Tính giá trị: \\(3(2) + 2(-1) = 6 - 2 = 4\\).\n- Bước 3: So sánh kết quả với vế phải. Ta thấy vế trái (4) bằng vế phải (4).\n\nVậy cặp số \\((2; -1)\\) là một nghiệm của phương trình.",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00004",
+    "question_text": "Trong phương trình \\(x - 7y = 12\\), hãy xác định các hệ số \\(a, b, c\\).",
+    "suggested_solution": "Phương trình bậc nhất hai ẩn có dạng tổng quát là \\(ax + by = c\\). Ta cần đối chiếu phương trình đã cho với dạng tổng quát.\n\n**Lời giải:**\n- Phương trình đã cho: \\(x - 7y = 12\\) có thể viết lại là \\(1 \\cdot x + (-7) \\cdot y = 12\\).\n- So sánh với dạng \\(ax + by = c\\), ta có:\n  + Hệ số của \\(x\\) là \\(a = 1\\).\n  + Hệ số của \\(y\\) là \\(b = -7\\).\n  + Hằng số tự do là \\(c = 12\\).",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00004",
+    "question_text": "Phương trình \\(y = 5x - 3\\) có phải là phương trình bậc nhất hai ẩn không? Vì sao?",
+    "suggested_solution": "Ta cần kiểm tra xem phương trình đã cho có thể đưa về dạng \\(ax + by = c\\) hay không.\n\n**Lời giải:**\n- Bước 1: Chuyển các hạng tử chứa ẩn về một vế và hằng số về vế còn lại.\n  \\(y = 5x - 3 \\Leftrightarrow 5x - y = 3\\).\n- Bước 2: So sánh với dạng tổng quát.\n  Phương trình \\(5x - y = 3\\) có dạng \\(ax + by = c\\) với \\(a=5, b=-1, c=3\\). Các hệ số \\(a, b\\) không đồng thời bằng 0.\n\nVậy \\(y = 5x - 3\\) là một phương trình bậc nhất hai ẩn.",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00004",
+    "question_text": "Cặp số nào sau đây là một nghiệm của phương trình \\(x - 2y = 5\\)?\nA. \\((1; -2)\\)\nB. \\((2; 1)\\)\nC. \\((5; 0)\\)\nD. \\((0; 5)\\)",
+    "suggested_solution": "Ta lần lượt thay tọa độ của từng cặp số vào phương trình để kiểm tra.\n\n**Lời giải:**\n- A. Với \\((1; -2)\\): \\(1 - 2(-2) = 1 + 4 = 5\\). (Đúng)\n- B. Với \\((2; 1)\\): \\(2 - 2(1) = 2 - 2 = 0 \\ne 5\\). (Sai)\n- C. Với \\((5; 0)\\): \\(5 - 2(0) = 5\\). (Đúng)\n- D. Với \\((0; 5)\\): \\(0 - 2(5) = -10 \\ne 5\\). (Sai)\n\n*Lưu ý: Câu hỏi có thể có nhiều đáp án đúng. Trong trường hợp này, cả A và C đều là nghiệm.* \n**Nếu chọn một đáp án, ta chọn A.**",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00004",
+    "question_text": "Tìm \\(y_0\\) để cặp số \\((-3; y_0)\\) là một nghiệm của phương trình \\(2x - 3y = 9\\).",
+    "suggested_solution": "Vì \\((-3; y_0)\\) là một nghiệm của phương trình nên khi thay \\(x = -3\\) và \\(y = y_0\\) vào phương trình, ta phải được một đẳng thức đúng.\n\n**Lời giải:**\n- Bước 1: Thay \\(x = -3\\) và \\(y = y_0\\) vào phương trình:\n  \\(2(-3) - 3y_0 = 9\\)\n- Bước 2: Giải phương trình tìm \\(y_0\\).\n  \\(-6 - 3y_0 = 9\\)\n  \\(\\Leftrightarrow -3y_0 = 15\\)\n  \\(\\Leftrightarrow y_0 = -5\\)\n\nVậy \\(y_0 = -5\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00004",
+    "question_text": "Viết một phương trình bậc nhất hai ẩn có nghiệm là cặp số \\((1; 1)\\).",
+    "suggested_solution": "Ta có thể chọn các hệ số \\(a, b\\) bất kỳ (không đồng thời bằng 0), sau đó tính \\(c\\) bằng cách thay \\(x=1, y=1\\) vào.\n\n**Lời giải:**\n- Bước 1: Chọn \\(a=2, b=3\\).\n- Bước 2: Thay \\(x=1, y=1\\) vào biểu thức \\(ax+by\\) để tìm \\(c\\).\n  \\(c = 2(1) + 3(1) = 5\\).\n- Bước 3: Viết phương trình.\n  Phương trình cần tìm là \\(2x + 3y = 5\\).\n\n*Lưu ý: Có vô số phương trình thỏa mãn yêu cầu. Ví dụ khác: \\(x-y=0\\), \\(4x+y=5\\),...*",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00004",
+    "question_text": "Phương trình \\(mx + 2y = 5\\) nhận cặp số \\((1; -2)\\) làm nghiệm. Tìm giá trị của tham số \\(m\\).",
+    "suggested_solution": "Vì phương trình nhận cặp số đã cho làm nghiệm, ta thay giá trị của \\(x\\) và \\(y\\) vào phương trình để tìm \\(m\\).\n\n**Lời giải:**\n- Bước 1: Thay \\(x = 1\\) và \\(y = -2\\) vào phương trình \\(mx + 2y = 5\\).\n  \\(m(1) + 2(-2) = 5\\)\n- Bước 2: Giải phương trình tìm \\(m\\).\n  \\(m - 4 = 5\\)\n  \\(\\Leftrightarrow m = 9\\)\n\nVậy giá trị của tham số \\(m\\) là 9.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00004",
+    "question_text": "An mua \\(x\\) quyển vở giá 7 nghìn đồng/quyển và \\(y\\) chiếc bút giá 4 nghìn đồng/chiếc. Tổng số tiền An phải trả là 53 nghìn đồng. \na) Lập phương trình bậc nhất hai ẩn \\(x, y\\) biểu thị mối quan hệ trên.\nb) Nếu An mua 3 quyển vở thì An đã mua bao nhiêu chiếc bút?",
+    "suggested_solution": "Đây là bài toán ứng dụng thực tế của phương trình bậc nhất hai ẩn.\n\n**Lời giải:**\na) Lập phương trình:\n- Số tiền mua vở: \\(7x\\) (nghìn đồng)\n- Số tiền mua bút: \\(4y\\) (nghìn đồng)\n- Tổng số tiền là 53 nghìn đồng, vậy phương trình là: \\(7x + 4y = 53\\).\n\nb) Tìm số bút:\n- Nếu An mua 3 quyển vở, tức là \\(x=3\\).\n- Thay \\(x=3\\) vào phương trình: \\(7(3) + 4y = 53\\).\n- Giải tìm \\(y\\): \\(21 + 4y = 53 \\Leftrightarrow 4y = 32 \\Leftrightarrow y = 8\\).\n\nVậy nếu An mua 3 quyển vở thì An đã mua 8 chiếc bút.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00004",
+    "question_text": "Cho phương trình \\((m-1)x + y = 2m\\). Tìm \\(m\\) để phương trình có nghiệm \\((x; y)\\) sao cho \\(x=y\\).",
+    "suggested_solution": "Để phương trình có nghiệm \\(x=y\\), ta có thể thay \\(y\\) bằng \\(x\\) vào phương trình ban đầu để được một phương trình một ẩn theo \\(x\\).\n\n**Lời giải:**\n- Bước 1: Thay \\(y=x\\) vào phương trình đã cho:\n  \\((m-1)x + x = 2m\\)\n- Bước 2: Rút \\(x\\) ra làm nhân tử chung.\n  \\(x(m-1+1) = 2m\\)\n  \\(\\Leftrightarrow mx = 2m\\)\n- Bước 3: Biện luận.\n  + Nếu \\(m \\ne 0\\), phương trình có nghiệm duy nhất \\(x = \\frac{2m}{m} = 2\\). Khi đó \\(y=x=2\\). Cặp nghiệm là \\((2;2)\\).\n  + Nếu \\(m = 0\\), phương trình trở thành \\(0x = 0\\), có vô số nghiệm \\(x\\). Do đó có vô số cặp nghiệm \\((x;x)\\).\n\n*Kết luận tùy theo yêu cầu câu hỏi. Nếu hỏi 'tìm m để có nghiệm thỏa mãn', thì mọi giá trị của m đều thỏa mãn.*",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00005",
+    "question_text": "Tập nghiệm của phương trình bậc nhất hai ẩn \\(ax + by = c\\) (với \\(a, b\\) không đồng thời bằng 0) được biểu diễn hình học bởi một đối tượng nào?",
+    "suggested_solution": "Theo định nghĩa trong sách giáo khoa, mỗi nghiệm \\((x; y)\\) của phương trình bậc nhất hai ẩn là tọa độ của một điểm trên mặt phẳng tọa độ. Tập hợp tất cả các điểm như vậy tạo thành một đường thẳng.\n\n**Lời giải:**\n- Bước 1: Nhớ lại định nghĩa về biểu diễn hình học tập nghiệm của phương trình bậc nhất hai ẩn.\n- Bước 2: Kết luận rằng tập hợp các nghiệm này tạo thành một đường thẳng, được gọi là đường thẳng \\(ax + by = c\\).\n\n**Đáp án:** Một đường thẳng.",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00005",
+    "question_text": "Để vẽ đường thẳng biểu diễn tập nghiệm của phương trình \\(2x - y = 4\\), ta cần xác định tối thiểu bao nhiêu điểm thuộc đường thẳng đó?",
+    "suggested_solution": "Theo tiên đề Euclid, qua hai điểm phân biệt, ta vẽ được một và chỉ một đường thẳng.\n\n**Lời giải:**\n- Bước 1: Nhận biết rằng tập nghiệm của phương trình là một đường thẳng.\n- Bước 2: Áp dụng kiến thức hình học phẳng cơ bản, để vẽ một đường thẳng, ta cần xác định được vị trí của ít nhất hai điểm phân biệt thuộc đường thẳng đó.\n\n**Đáp án:** Tối thiểu 2 điểm.",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00005",
+    "question_text": "Tìm tọa độ giao điểm của đường thẳng \\(d: 3x + 4y = 12\\) với trục tung (Oy).",
+    "suggested_solution": "Một điểm nằm trên trục tung (Oy) có hoành độ \\(x=0\\).\n\n**Lời giải:**\n- Bước 1: Cho \\(x=0\\) vào phương trình đường thẳng \\(d\\).\n  \\(3(0) + 4y = 12\\)\n- Bước 2: Giải phương trình tìm \\(y\\).\n  \\(4y = 12 \\Leftrightarrow y = 3\\)\n\nVậy giao điểm của đường thẳng \\(d\\) với trục tung là điểm có tọa độ \\((0; 3)\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00005",
+    "question_text": "Hãy mô tả đặc điểm của đường thẳng biểu diễn tập nghiệm của phương trình \\(0x + 5y = -10\\).",
+    "suggested_solution": "Ta cần rút gọn phương trình để nhận dạng đường thẳng.\n\n**Lời giải:**\n- Bước 1: Rút gọn phương trình.\n  \\(0x + 5y = -10 \\Leftrightarrow 5y = -10 \\Leftrightarrow y = -2\\).\n- Bước 2: Mô tả đường thẳng.\n  Đường thẳng \\(y = -2\\) là đường thẳng đi qua điểm có tung độ -2 trên trục Oy và song song với trục hoành Ox.\n\n**Đáp án:** Là một đường thẳng song song với trục Ox và cắt trục Oy tại điểm có tung độ -2.",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00005",
+    "question_text": "Điểm \\(M(-2; 1)\\) có thuộc đường thẳng biểu diễn tập nghiệm của phương trình \\(3x - y = 7\\) không? Vì sao?",
+    "suggested_solution": "Để kiểm tra, ta thay tọa độ của điểm M vào phương trình. Nếu được một đẳng thức đúng thì điểm M thuộc đường thẳng, ngược lại thì không.\n\n**Lời giải:**\n- Bước 1: Thay \\(x = -2\\) và \\(y = 1\\) vào vế trái của phương trình:\n  \\(3(-2) - 1 = -6 - 1 = -7\\).\n- Bước 2: So sánh kết quả với vế phải.\n  Vế trái bằng -7, vế phải bằng 7. Vì \\(-7 \\ne 7\\), nên đẳng thức sai.\n\nVậy điểm \\(M(-2; 1)\\) không thuộc đường thẳng đã cho.",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00005",
+    "question_text": "Tìm giá trị của tham số \\(m\\) để đường thẳng biểu diễn tập nghiệm của phương trình \\(2x - my = 4\\) đi qua điểm \\(A(3; 1)\\).",
+    "suggested_solution": "Vì đường thẳng đi qua điểm A nên tọa độ của A phải thỏa mãn phương trình của đường thẳng.\n\n**Lời giải:**\n- Bước 1: Thay tọa độ điểm \\(A(3; 1)\\), tức là \\(x=3\\) và \\(y=1\\), vào phương trình:\n  \\(2(3) - m(1) = 4\\)\n- Bước 2: Giải phương trình tìm \\(m\\).\n  \\(6 - m = 4\\)\n  \\(\\Leftrightarrow m = 6 - 4\\)\n  \\(\\Leftrightarrow m = 2\\)\n\nVậy giá trị cần tìm là \\(m=2\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00005",
+    "question_text": "Tính diện tích của tam giác được tạo bởi đường thẳng \\(d: x + 2y = 6\\) và hai trục tọa độ Ox, Oy.",
+    "suggested_solution": "Tam giác tạo bởi đường thẳng và hai trục tọa độ là một tam giác vuông tại gốc tọa độ O. Hai cạnh góc vuông chính là khoảng cách từ O đến các giao điểm của đường thẳng với hai trục.\n\n**Lời giải:**\n- Bước 1: Tìm giao điểm A của \\(d\\) với trục Ox (cho \\(y=0\\)).\n  \\(x + 2(0) = 6 \\Leftrightarrow x = 6\\). Vậy \\(A(6; 0)\\). Độ dài đoạn OA là 6.\n- Bước 2: Tìm giao điểm B của \\(d\\) với trục Oy (cho \\(x=0\\)).\n  \\(0 + 2y = 6 \\Leftrightarrow y = 3\\). Vậy \\(B(0; 3)\\). Độ dài đoạn OB là 3.\n- Bước 3: Tính diện tích tam giác vuông OAB.\n  \\(S_{OAB} = \\frac{1}{2} OA \\cdot OB = \\frac{1}{2} \\cdot 6 \\cdot 3 = 9\\) (đơn vị diện tích).\n\nVậy diện tích tam giác cần tìm là 9.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00005",
+    "question_text": "Cho đường thẳng \\(d: (m-2)x + my = 4\\). Tìm \\(m\\) để đường thẳng \\(d\\) song song với trục hoành.",
+    "suggested_solution": "Một đường thẳng song song với trục hoành (Ox) có dạng \\(y = k\\) với \\(k \\ne 0\\). Phương trình tổng quát của nó là \\(0x + by = c\\) với \\(b \\ne 0, c \\ne 0\\).\n\n**Lời giải:**\n- Bước 1: Để phương trình \\((m-2)x + my = 4\\) biểu diễn một đường thẳng song song với Ox, hệ số của \\(x\\) phải bằng 0 và hệ số của \\(y\\) phải khác 0.\n  \\(\\begin{cases} m-2 = 0 \\\\ m \\ne 0 \\end{cases}\\)\n- Bước 2: Giải hệ điều kiện.\n  \\(m-2 = 0 \\Leftrightarrow m = 2\\).\n  Giá trị \\(m=2\\) thỏa mãn điều kiện \\(m \\ne 0\\).\n- Bước 3: Kiểm tra lại.\n  Với \\(m=2\\), phương trình trở thành \\(0x + 2y = 4 \\Leftrightarrow y=2\\). Đây là đường thẳng song song với Ox.\n\nVậy giá trị cần tìm là \\(m=2\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00005",
+    "question_text": "Tìm điểm cố định mà họ đường thẳng \\(d_m: (m-1)x + (2-m)y = 3\\) luôn đi qua với mọi giá trị của \\(m\\).",
+    "suggested_solution": "Để tìm điểm cố định, ta cần biến đổi phương trình về dạng \\(m \\cdot A + B = 0\\). Để đẳng thức này đúng với mọi \\(m\\), ta phải có \\(A=0\\) và \\(B=0\\).\n\n**Lời giải:**\n- Bước 1: Biến đổi phương trình, nhóm các hạng tử chứa \\(m\\).\n  \\((m-1)x + (2-m)y = 3\\)\n  \\(\\Leftrightarrow mx - x + 2y - my = 3\\)\n  \\(\\Leftrightarrow m(x - y) + (-x + 2y - 3) = 0\\)\n- Bước 2: Lập luận.\n  Để phương trình này đúng với mọi \\(m\\), các biểu thức trong ngoặc phải đồng thời bằng 0.\n  \\(\\begin{cases} x - y = 0 \\\\ -x + 2y - 3 = 0 \\end{cases}\\)\n- Bước 3: Giải hệ phương trình.\n  Từ \\(x-y=0 \\Rightarrow x=y\\).\n  Thế vào phương trình thứ hai: \\(-x + 2x - 3 = 0 \\Leftrightarrow x - 3 = 0 \\Leftrightarrow x = 3\\).\n  Vì \\(x=y\\), nên \\(y=3\\).\n\nVậy điểm cố định mà họ đường thẳng luôn đi qua là \\(M(3; 3)\\).",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00005",
+    "question_text": "Tìm các giá trị nguyên của \\(m\\) để đường thẳng \\(d: 2x + y = m\\) cắt hai trục tọa độ tại hai điểm A, B sao cho độ dài đoạn AB bằng \\(2\\sqrt{5}\\).",
+    "suggested_solution": "Ta sẽ tìm tọa độ các giao điểm A, B theo \\(m\\), sau đó sử dụng định lý Pitago để tính độ dài AB và giải phương trình tìm \\(m\\).\n\n**Lời giải:**\n- Bước 1: Tìm tọa độ giao điểm.\n  + Giao với Ox (cho \\(y=0\\)): \\(2x = m \\Rightarrow x = m/2\\). Vậy \\(A(m/2; 0)\\). \\(\\Rightarrow OA = |m/2|\\).\n  + Giao với Oy (cho \\(x=0\\)): \\(y = m\\). Vậy \\(B(0; m)\\). \\(\\Rightarrow OB = |m|\\).\n  (Điều kiện để cắt tại 2 điểm phân biệt là \\(m \\ne 0\\)).\n- Bước 2: Áp dụng định lý Pitago trong tam giác vuông OAB.\n  \\(AB^2 = OA^2 + OB^2\\)\n  \\(\\Leftrightarrow (2\\sqrt{5})^2 = (\\frac{m}{2})^2 + m^2\\)\n- Bước 3: Giải phương trình tìm \\(m\\).\n  \\(20 = \\frac{m^2}{4} + m^2\\)\n  \\(\\Leftrightarrow 20 = \\frac{5m^2}{4}\\)\n  \\(\\Leftrightarrow m^2 = 20 \\cdot \\frac{4}{5} = 16\\)\n  \\(\\Leftrightarrow m = 4\\) hoặc \\(m = -4\\).\n- Bước 4: Kết luận.\n  Cả hai giá trị \\(m=4\\) và \\(m=-4\\) đều là số nguyên.\n\nVậy các giá trị nguyên của \\(m\\) cần tìm là \\(4\\) và \\(-4\\).",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00006",
+    "question_text": "Một cặp số \\((x_0; y_0)\\) được gọi là một nghiệm của hệ phương trình \\(\\begin{cases} ax + by = c \\\\ a'x + b'y = c' \\end{cases}\\) khi nào?",
+    "suggested_solution": "Theo định nghĩa, một cặp số là nghiệm của một hệ phương trình khi nó thỏa mãn (là nghiệm đúng) của tất cả các phương trình trong hệ.\n\n**Lời giải:**\nMột cặp số \\((x_0; y_0)\\) được gọi là một nghiệm của hệ phương trình khi thay \\(x = x_0\\) và \\(y = y_0\\) vào cả hai phương trình của hệ, ta đều được các đẳng thức đúng.\nNghĩa là: \\(\\begin{cases} ax_0 + by_0 = c \\\\ a'x_0 + b'y_0 = c' \\end{cases}\\)",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00006",
+    "question_text": "Cặp số \\((2; 1)\\) có phải là nghiệm của hệ phương trình \\(\\begin{cases} x + y = 3 \\\\ 2x - y = 3 \\end{cases}\\) không?",
+    "suggested_solution": "Ta cần thay cặp số \\((2; 1)\\) vào từng phương trình của hệ để kiểm tra.\n\n**Lời giải:**\n- Thay \\(x=2, y=1\\) vào phương trình thứ nhất: \\(2 + 1 = 3\\). (Đúng)\n- Thay \\(x=2, y=1\\) vào phương trình thứ hai: \\(2(2) - 1 = 4 - 1 = 3\\). (Đúng)\n\nVì cặp số \\((2; 1)\\) thỏa mãn cả hai phương trình nên nó là một nghiệm của hệ.",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00006",
+    "question_text": "Điền vào chỗ trống: Một cặp số là nghiệm của một hệ phương trình nếu nó là nghiệm của ... các phương trình trong hệ.",
+    "suggested_solution": "Một cặp số là nghiệm của một hệ phương trình nếu nó là nghiệm của **tất cả** các phương trình trong hệ.\n\n**Lời giải:**\nTheo định nghĩa, nghiệm của hệ phương trình phải thỏa mãn đồng thời tất cả các phương trình. Do đó, từ cần điền là \"tất cả\" hoặc \"cả hai\".",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00006",
+    "question_text": "Cho hệ phương trình \\(\\begin{cases} x - 3y = 2 \\\\ 2x + y = 11 \\end{cases}\\). Biết cặp số \\((5; y_0)\\) là một nghiệm của hệ. Tìm \\(y_0\\).",
+    "suggested_solution": "Vì \\((5; y_0)\\) là nghiệm của hệ, nó phải thỏa mãn cả hai phương trình. Ta có thể thay \\(x=5\\) vào một trong hai phương trình để tìm \\(y_0\\) và kiểm tra lại bằng phương trình còn lại.\n\n**Lời giải:**\n- Thay \\(x=5\\) vào phương trình thứ hai: \\(2(5) + y_0 = 11 \\Leftrightarrow 10 + y_0 = 11 \\Leftrightarrow y_0 = 1\\).\n- Kiểm tra lại với phương trình thứ nhất: Thay \\(x=5, y=1\\) vào \\(x - 3y\\), ta được \\(5 - 3(1) = 2\\). (Đúng)\n\nVậy \\(y_0 = 1\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00006",
+    "question_text": "Bạn An kiểm tra xem cặp số \\((3; -1)\\) có phải là nghiệm của hệ \\(\\begin{cases} 2x + y = 5 \\\\ x - 2y = 4 \\end{cases}\\) và kết luận là 'Phải'. Bạn An đã làm đúng chưa? Vì sao?",
+    "suggested_solution": "Ta cần kiểm tra lại kết luận của bạn An bằng cách thay cặp số vào cả hai phương trình.\n\n**Lời giải:**\n- Kiểm tra phương trình thứ nhất: Thay \\(x=3, y=-1\\) vào \\(2x+y\\), ta được \\(2(3) + (-1) = 6 - 1 = 5\\). (Đúng)\n- Kiểm tra phương trình thứ hai: Thay \\(x=3, y=-1\\) vào \\(x-2y\\), ta được \\(3 - 2(-1) = 3 + 2 = 5\\). (Sai, vì vế phải là 4)\n\nVì cặp số \\((3; -1)\\) không thỏa mãn phương trình thứ hai, nên nó không phải là nghiệm của hệ. Bạn An đã kết luận sai.",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00006",
+    "question_text": "Tìm các giá trị của \\(a\\) và \\(b\\) để hệ phương trình \\(\\begin{cases} ax + 2y = 4 \\\\ x - by = 3 \\end{cases}\\) có nghiệm là \\((2; 1)\\).",
+    "suggested_solution": "Vì \\((2; 1)\\) là nghiệm của hệ, tọa độ của nó phải thỏa mãn cả hai phương trình. Ta thay \\(x=2, y=1\\) vào hệ để tạo ra một hệ phương trình mới với hai ẩn là \\(a\\) và \\(b\\).\n\n**Lời giải:**\n- Thay \\(x=2, y=1\\) vào phương trình thứ nhất:\n  \\(a(2) + 2(1) = 4 \\Leftrightarrow 2a + 2 = 4 \\Leftrightarrow 2a = 2 \\Leftrightarrow a = 1\\).\n- Thay \\(x=2, y=1\\) vào phương trình thứ hai:\n  \\(2 - b(1) = 3 \\Leftrightarrow 2 - b = 3 \\Leftrightarrow b = -1\\).\n\nVậy \\(a=1\\) và \\(b=-1\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00006",
+    "question_text": "Sắp xếp các bước để kiểm tra xem cặp số \\((x_0; y_0)\\) có phải là nghiệm của hệ phương trình \\(\\begin{cases} ax + by = c \\\\ a'x + b'y = c' \\end{cases}\\) hay không.",
+    "suggested_solution": "Đây là quy trình chuẩn để xác định một cặp số có phải là nghiệm của hệ phương trình hay không.\n\n**Lời giải:**\nThứ tự đúng của các bước là:\n1. Thay \\(x = x_0\\) và \\(y = y_0\\) vào vế trái của phương trình thứ nhất.\n2. So sánh kết quả với vế phải \\(c\\). Nếu không bằng, kết luận ngay cặp số không phải là nghiệm.\n3. Nếu bằng, tiếp tục thay \\(x = x_0\\) và \\(y = y_0\\) vào vế trái của phương trình thứ hai.\n4. So sánh kết quả với vế phải \\(c'\\). Nếu bằng, kết luận cặp số là nghiệm. Nếu không bằng, kết luận cặp số không phải là nghiệm.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00006",
+    "question_text": "Để kiểm tra xem cặp số \\((1; 4)\\) có phải là nghiệm của hệ \\(\\begin{cases} 3x - y = -1 \\\\ x + y = 5 \\end{cases}\\) hay không, ta đã thay \\(x=1, y=4\\) vào phương trình đầu tiên và thấy \\(3(1) - 4 = -1\\) (đúng). Bước tiếp theo cần làm là gì?",
+    "suggested_solution": "Sau khi kiểm tra và thấy một phương trình được thỏa mãn, ta bắt buộc phải kiểm tra tiếp phương trình còn lại.\n\n**Lời giải:**\nBước tiếp theo là thay \\(x=1\\) và \\(y=4\\) vào phương trình thứ hai (\\(x+y=5\\)) để kiểm tra xem nó có được thỏa mãn hay không.\nTa có: \\(1 + 4 = 5\\) (đúng).\nVì cặp số thỏa mãn cả hai phương trình, ta có thể kết luận nó là nghiệm của hệ.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00006",
+    "question_text": "Biết hệ phương trình \\(\\begin{cases} 2x + 3y = 13 \\\\ 4x - y = 5 \\end{cases}\\) có nghiệm duy nhất là \\((x_0; y_0)\\). Không cần giải hệ, hãy tính giá trị của biểu thức \\(A = 6x_0 + 2y_0\\).",
+    "suggested_solution": "Câu hỏi này kiểm tra sự hiểu biết sâu sắc về ý nghĩa của nghiệm. Ta có thể tạo ra biểu thức \\(6x_0 + 2y_0\\) bằng cách thực hiện các phép toán trên hai phương trình của hệ.\n\n**Lời giải:**\n- Vì \\((x_0; y_0)\\) là nghiệm của hệ, nên ta có:\n  \\(2x_0 + 3y_0 = 13\\) (1)\n  \\(4x_0 - y_0 = 5\\) (2)\n- Nhận thấy \\(6x_0 + 2y_0 = (2x_0 + 3y_0) + (4x_0 - y_0)\\).\n- Cộng vế theo vế của (1) và (2), ta được:\n  \\((2x_0 + 4x_0) + (3y_0 - y_0) = 13 + 5\\)\n  \\(\\Leftrightarrow 6x_0 + 2y_0 = 18\\)\n\nVậy giá trị của biểu thức \\(A\\) là 18.",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00006",
+    "question_text": "Tìm \\(m\\) để hệ phương trình \\(\\begin{cases} mx + y = 3 \\\\ 2x - y = m \\end{cases}\\) có nghiệm \\((x; y)\\) sao cho \\(x=1\\).",
+    "suggested_solution": "Nếu hệ có nghiệm với \\(x=1\\), ta có thể thay \\(x=1\\) vào cả hai phương trình để tìm \\(y\\) và \\(m\\).\n\n**Lời giải:**\n- Bước 1: Thay \\(x=1\\) vào hệ phương trình, ta được:\n  \\(\\begin{cases} m(1) + y = 3 \\\\ 2(1) - y = m \\end{cases} \\Leftrightarrow \\begin{cases} m + y = 3 \\\\ 2 - y = m \\end{cases}\\)\n- Bước 2: Giải hệ phương trình hai ẩn \\(m, y\\).\n  Từ phương trình thứ nhất, rút ra \\(y = 3 - m\\).\n  Thế vào phương trình thứ hai:\n  \\(2 - (3 - m) = m\\)\n  \\(\\Leftrightarrow 2 - 3 + m = m\\)\n  \\(\\Leftrightarrow -1 + m = m\\)\n  \\(\\Leftrightarrow -1 = 0\\) (Vô lý).\n\nĐiều này có nghĩa là không tồn tại giá trị nào của \\(m\\) để hệ có nghiệm với \\(x=1\\).\n\nVậy không có giá trị \\(m\\) nào thỏa mãn yêu cầu.",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00007",
+    "question_text": "Trong phương pháp thế để giải hệ phương trình \\(\\begin{cases} x + 2y = 5 \\\\ 3x - y = 1 \\end{cases}\\), bước đầu tiên là biểu diễn một ẩn theo ẩn còn lại. Nếu rút \\(x\\) từ phương trình thứ nhất, ta được biểu thức nào?",
+    "suggested_solution": "Phương pháp thế yêu cầu ta biểu diễn một ẩn từ một phương trình theo ẩn còn lại.\n\n**Lời giải:**\n- Bước 1: Xét phương trình thứ nhất: \\(x + 2y = 5\\).\n- Bước 2: Chuyển vế để biểu diễn \\(x\\) theo \\(y\\).\n  \\(x = 5 - 2y\\)\n\n**Đáp án:** Ta được biểu thức \\(x = 5 - 2y\\).",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00007",
+    "question_text": "Cho hệ phương trình \\(\\begin{cases} y = 2x - 1 \\\\ x + y = 5 \\end{cases}\\). Hãy thực hiện phép thế để có được một phương trình mới chỉ chứa ẩn \\(x\\).",
+    "suggested_solution": "Phương pháp thế là thay thế biểu thức của một ẩn từ phương trình này vào phương trình kia.\n\n**Lời giải:**\n- Bước 1: Nhận thấy phương trình thứ nhất đã cho sẵn \\(y = 2x - 1\\).\n- Bước 2: Thế biểu thức \\((2x - 1)\\) vào vị trí của \\(y\\) trong phương trình thứ hai.\n  \\(x + (2x - 1) = 5\\)\n- Bước 3: Rút gọn phương trình mới.\n  \\(3x - 1 = 5\\)\n\n**Đáp án:** Phương trình mới chỉ chứa ẩn \\(x\\) là \\(3x - 1 = 5\\).",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00007",
+    "question_text": "Sử dụng phương pháp thế, hãy tìm nghiệm của hệ phương trình: \\(\\begin{cases} x = y + 3 \\\\ 2x - 3y = 4 \\end{cases}\\).",
+    "suggested_solution": "Ta sẽ thế biểu thức của \\(x\\) từ phương trình thứ nhất vào phương trình thứ hai.\n\n**Lời giải:**\n- Bước 1: Thế \\(x = y + 3\\) vào phương trình thứ hai:\n  \\(2(y + 3) - 3y = 4\\)\n- Bước 2: Giải phương trình tìm \\(y\\).\n  \\(2y + 6 - 3y = 4\\)\n  \\(\\Leftrightarrow -y = -2\\)\n  \\(\\Leftrightarrow y = 2\\)\n- Bước 3: Thay \\(y = 2\\) vào biểu thức \\(x = y + 3\\) để tìm \\(x\\).\n  \\(x = 2 + 3 = 5\\)\n\nVậy nghiệm của hệ phương trình là \\((x; y) = (5; 2)\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00007",
+    "question_text": "Cho hệ phương trình \\(\\begin{cases} 2x + y = 5 \\\\ 3x - 2y = 4 \\end{cases}\\). Một học sinh giải bằng phương pháp thế như sau:\nBước 1: Từ (1) rút ra \\(y = 5 - 2x\\).\nBước 2: Thế vào (2) được \\(3x - 2(5 - 2x) = 4\\).\nBước 3: Giải phương trình: \\(3x - 10 - 4x = 4 \\Leftrightarrow -x = 14 \\Leftrightarrow x = -14\\).\nLời giải trên sai ở bước nào?",
+    "suggested_solution": "Ta cần kiểm tra lại các phép biến đổi đại số trong từng bước.\n\n**Lời giải:**\n- Bước 1: Rút \\(y = 5 - 2x\\) từ phương trình (1) là đúng.\n- Bước 2: Thế \\(y = 5 - 2x\\) vào phương trình (2) được \\(3x - 2(5 - 2x) = 4\\) là đúng.\n- Bước 3: Khai triển dấu ngoặc: \\(-2(5 - 2x) = -10 + 4x\\). Do đó, phương trình phải là \\(3x - 10 + 4x = 4\\). Học sinh đã viết thành \\(3x - 10 - 4x = 4\\), sai dấu của \\(4x\\).\n\nVậy lời giải sai ở Bước 3.",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00007",
+    "question_text": "Giải hệ phương trình sau bằng phương pháp thế: \\(\\begin{cases} x - 4y = 7 \\\\ 2x - 5y = 8 \\end{cases}\\).",
+    "suggested_solution": "Ta nên rút \\(x\\) từ phương trình thứ nhất vì hệ số của nó là 1, sẽ không tạo ra phân số.\n\n**Lời giải:**\n- Bước 1: Từ phương trình thứ nhất, ta rút ra \\(x = 7 + 4y\\).\n- Bước 2: Thế biểu thức của \\(x\\) vào phương trình thứ hai:\n  \\(2(7 + 4y) - 5y = 8\\)\n- Bước 3: Giải phương trình tìm \\(y\\).\n  \\(14 + 8y - 5y = 8\\)\n  \\(\\Leftrightarrow 3y = -6\\)\n  \\(\\Leftrightarrow y = -2\\)\n- Bước 4: Thay \\(y = -2\\) vào biểu thức \\(x = 7 + 4y\\) để tìm \\(x\\).\n  \\(x = 7 + 4(-2) = 7 - 8 = -1\\)\n\nVậy nghiệm của hệ phương trình là \\((x; y) = (-1; -2)\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00007",
+    "question_text": "Giải hệ phương trình bằng phương pháp thế: \\(\\begin{cases} 2x + 3y = 7 \\\\ 3x + 2y = 8 \\end{cases}\\).",
+    "suggested_solution": "Trong trường hợp này, rút ẩn nào cũng sẽ dẫn đến biểu thức có chứa phân số. Ta cần thực hiện cẩn thận.\n\n**Lời giải:**\n- Bước 1: Từ phương trình thứ nhất, rút ra \\(y\\):\n  \\(3y = 7 - 2x \\Leftrightarrow y = \\frac{7 - 2x}{3}\\).\n- Bước 2: Thế biểu thức của \\(y\\) vào phương trình thứ hai:\n  \\(3x + 2\\left(\\frac{7 - 2x}{3}\\right) = 8\\)\n- Bước 3: Giải phương trình tìm \\(x\\). Nhân cả hai vế với 3 để khử mẫu:\n  \\(9x + 2(7 - 2x) = 24\\)\n  \\(\\Leftrightarrow 9x + 14 - 4x = 24\\)\n  \\(\\Leftrightarrow 5x = 10\\)\n  \\(\\Leftrightarrow x = 2\\)\n- Bước 4: Thay \\(x = 2\\) vào biểu thức \\(y = \\frac{7 - 2x}{3}\\) để tìm \\(y\\).\n  \\(y = \\frac{7 - 2(2)}{3} = \\frac{7 - 4}{3} = \\frac{3}{3} = 1\\)\n\nVậy nghiệm của hệ phương trình là \\((x; y) = (2; 1)\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00007",
+    "question_text": "Sử dụng phương pháp thế để xác định số nghiệm của hệ phương trình: \\(\\begin{cases} x - 3y = 5 \\\\ -2x + 6y = -10 \\end{cases}\\).",
+    "suggested_solution": "Khi giải hệ bằng phương pháp thế, nếu ta nhận được một đẳng thức luôn đúng (ví dụ 0 = 0) thì hệ có vô số nghiệm.\n\n**Lời giải:**\n- Bước 1: Từ phương trình thứ nhất, rút ra \\(x = 5 + 3y\\).\n- Bước 2: Thế vào phương trình thứ hai:\n  \\(-2(5 + 3y) + 6y = -10\\)\n- Bước 3: Giải phương trình ẩn \\(y\\).\n  \\(-10 - 6y + 6y = -10\\)\n  \\(\\Leftrightarrow -10 = -10\\) (Luôn đúng)\n\nVì ta nhận được một đẳng thức luôn đúng, điều này chứng tỏ phương trình thứ hai là hệ quả của phương trình thứ nhất. Mọi nghiệm của phương trình thứ nhất đều là nghiệm của phương trình thứ hai.\n\nVậy hệ phương trình có vô số nghiệm.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00007",
+    "question_text": "Tìm tọa độ giao điểm của hai đường thẳng \\(d_1: y = 3x - 5\\) và \\(d_2: 2x + 3y = 8\\) bằng phương pháp thế.",
+    "suggested_solution": "Tọa độ giao điểm của hai đường thẳng chính là nghiệm của hệ phương trình tạo bởi phương trình của hai đường thẳng đó.\n\n**Lời giải:**\n- Bước 1: Xét hệ phương trình:\n  \\(\\begin{cases} y = 3x - 5 \\\\ 2x + 3y = 8 \\end{cases}\\)\n- Bước 2: Thế \\(y = 3x - 5\\) từ phương trình thứ nhất vào phương trình thứ hai:\n  \\(2x + 3(3x - 5) = 8\\)\n- Bước 3: Giải phương trình tìm \\(x\\).\n  \\(2x + 9x - 15 = 8\\)\n  \\(\\Leftrightarrow 11x = 23\\)\n  \\(\\Leftrightarrow x = \\frac{23}{11}\\)\n- Bước 4: Thay \\(x = \\frac{23}{11}\\) vào \\(y = 3x - 5\\) để tìm \\(y\\).\n  \\(y = 3\\left(\\frac{23}{11}\\right) - 5 = \\frac{69}{11} - \\frac{55}{11} = \\frac{14}{11}\\)\n\nVậy tọa độ giao điểm là \\(\\left(\\frac{23}{11}; \\frac{14}{11}\\right)\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00007",
+    "question_text": "Cho hệ phương trình \\(\\begin{cases} x + my = 3 \\\\ 2x - y = 1 \\end{cases}\\). Tìm \\(m\\) để hệ có nghiệm \\((x; y)\\) thỏa mãn \\(x - y = 2\\).",
+    "suggested_solution": "Ta sẽ giải hệ phương trình để tìm nghiệm \\(x, y\\) theo \\(m\\), sau đó thay vào điều kiện \\(x - y = 2\\) để tìm \\(m\\).\n\n**Lời giải:**\n- Bước 1: Từ phương trình thứ hai, rút ra \\(y = 2x - 1\\).\n- Bước 2: Thế vào phương trình thứ nhất:\n  \\(x + m(2x - 1) = 3\\)\n  \\(\\Leftrightarrow x + 2mx - m = 3\\)\n  \\(\\Leftrightarrow x(1 + 2m) = m + 3\\)\n  \\(\\Rightarrow x = \\frac{m+3}{1+2m}\\) (với \\(m \\ne -1/2\\))\n- Bước 3: Tìm \\(y\\) theo \\(m\\).\n  \\(y = 2x - 1 = 2\\left(\\frac{m+3}{1+2m}\\right) - 1 = \\frac{2m+6 - (1+2m)}{1+2m} = \\frac{5}{1+2m}\\)\n- Bước 4: Thay \\(x, y\\) vào điều kiện \\(x - y = 2\\).\n  \\(\\frac{m+3}{1+2m} - \\frac{5}{1+2m} = 2\\)\n  \\(\\Leftrightarrow \\frac{m-2}{1+2m} = 2\\)\n  \\(\\Rightarrow m-2 = 2(1+2m)\\)\n  \\(\\Leftrightarrow m-2 = 2+4m\\)\n  \\(\\Leftrightarrow 3m = -4 \\Leftrightarrow m = -\\frac{4}{3}\\)\n- Bước 5: Kiểm tra điều kiện \\(m \\ne -1/2\\). Giá trị \\(m = -4/3\\) thỏa mãn.\n\nVậy \\(m = -\\frac{4}{3}\\).",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00007",
+    "question_text": "Giải hệ phương trình sau bằng phương pháp thế: \\(\\begin{cases} \\frac{1}{x} + \\frac{2}{y} = 3 \\\\ \\frac{3}{x} - \\frac{1}{y} = 2 \\end{cases}\\).",
+    "suggested_solution": "Đây là hệ phương trình có thể đưa về dạng bậc nhất bằng cách đặt ẩn phụ. Sau đó, ta có thể dùng phương pháp thế để giải hệ mới.\n\n**Lời giải:**\n- Bước 1: Đặt ẩn phụ và điều kiện.\n  ĐKXĐ: \\(x \\ne 0, y \\ne 0\\).\n  Đặt \\(u = \\frac{1}{x}\\) và \\(v = \\frac{1}{y}\\). Hệ phương trình trở thành:\n  \\(\\begin{cases} u + 2v = 3 \\\\ 3u - v = 2 \\end{cases}\\)\n- Bước 2: Giải hệ mới bằng phương pháp thế.\n  Từ phương trình thứ hai, rút ra \\(v = 3u - 2\\).\n  Thế vào phương trình thứ nhất:\n  \\(u + 2(3u - 2) = 3\\)\n  \\(\\Leftrightarrow u + 6u - 4 = 3\\)\n  \\(\\Leftrightarrow 7u = 7 \\Leftrightarrow u = 1\\).\n  Suy ra \\(v = 3(1) - 2 = 1\\).\n- Bước 3: Trả lại biến cũ.\n  + Với \\(u = 1\\), ta có \\(\\frac{1}{x} = 1 \\Leftrightarrow x = 1\\).\n  + Với \\(v = 1\\), ta có \\(\\frac{1}{y} = 1 \\Leftrightarrow y = 1\\).\n- Bước 4: Đối chiếu ĐKXĐ và kết luận.\n  Nghiệm \\((1; 1)\\) thỏa mãn ĐKXĐ.\n\nVậy nghiệm của hệ phương trình là \\((x; y) = (1; 1)\\).",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00008",
+    "question_text": "Cho hệ phương trình \\(\\begin{cases} x + y = 5 \\\\ 2x - y = 4 \\end{cases}\\). Nếu ta cộng vế theo vế hai phương trình này, ta sẽ được phương trình mới nào?",
+    "suggested_solution": "Phương pháp cộng đại số dựa trên việc cộng hoặc trừ các vế tương ứng của hai phương trình để khử đi một ẩn.\n\n**Lời giải:**\n- Bước 1: Viết lại hai phương trình của hệ:\n  (1) \\(x + y = 5\\)\n  (2) \\(2x - y = 4\\)\n- Bước 2: Nhận thấy hệ số của ẩn \\(y\\) trong hai phương trình là \\(1\\) và \\(-1\\) (hai số đối nhau).\n- Bước 3: Cộng vế theo vế của (1) và (2):\n  \\((x + 2x) + (y - y) = 5 + 4\\)\n  \\(\\Leftrightarrow 3x + 0 = 9\\)\n  \\(\\Leftrightarrow 3x = 9\\)\n\n**Đáp án:** Ta được phương trình mới là \\(3x = 9\\).",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00008",
+    "question_text": "Để giải hệ phương trình \\(\\begin{cases} 2x + 3y = 8 \\\\ 2x - y = 4 \\end{cases}\\) bằng phương pháp cộng đại số, ta nên thực hiện phép toán nào (cộng hay trừ) để khử ẩn \\(x\\)?",
+    "suggested_solution": "Để khử một ẩn, hệ số của nó trong hai phương trình cần phải đối nhau (để thực hiện phép cộng) hoặc bằng nhau (để thực hiện phép trừ).\n\n**Lời giải:**\n- Bước 1: Quan sát hệ số của các ẩn trong hệ.\n  + Hệ số của \\(x\\) đều là 2.\n  + Hệ số của \\(y\\) là 3 và -1.\n- Bước 2: Để khử ẩn \\(x\\), ta có thể lấy phương trình thứ nhất trừ đi phương trình thứ hai vế theo vế.\n  \\((2x - 2x) + (3y - (-y)) = 8 - 4\\)\n  \\(\\Leftrightarrow 4y = 4\\)\n\n**Đáp án:** Ta nên thực hiện phép **trừ** vế theo vế.",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00008",
+    "question_text": "Giải hệ phương trình sau bằng phương pháp cộng đại số: \\(\\begin{cases} 3x + 2y = 7 \\\\ x - 2y = 1 \\end{cases}\\).",
+    "suggested_solution": "Hệ phương trình này có hệ số của ẩn \\(y\\) đối nhau, ta có thể cộng vế theo vế để khử \\(y\\).\n\n**Lời giải:**\n- Bước 1: Cộng vế theo vế hai phương trình của hệ:\n  \\((3x + x) + (2y - 2y) = 7 + 1\\)\n  \\(\\Leftrightarrow 4x = 8\\)\n  \\(\\Leftrightarrow x = 2\\)\n- Bước 2: Thay \\(x = 2\\) vào một trong hai phương trình ban đầu để tìm \\(y\\). Thay vào phương trình thứ hai:\n  \\(2 - 2y = 1\\)\n  \\(\\Leftrightarrow -2y = -1\\)\n  \\(\\Leftrightarrow y = \\frac{1}{2}\\)\n\nVậy nghiệm của hệ phương trình là \\((x; y) = (2; \\frac{1}{2})\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00008",
+    "question_text": "Giải hệ phương trình bằng phương pháp cộng đại số: \\(\\begin{cases} 4x + y = 5 \\\\ 3x + y = 3 \\end{cases}\\).",
+    "suggested_solution": "Hệ phương trình này có hệ số của ẩn \\(y\\) bằng nhau, ta có thể trừ vế theo vế để khử \\(y\\).\n\n**Lời giải:**\n- Bước 1: Lấy phương trình thứ nhất trừ đi phương trình thứ hai vế theo vế:\n  \\((4x - 3x) + (y - y) = 5 - 3\\)\n  \\(\\Leftrightarrow x = 2\\)\n- Bước 2: Thay \\(x = 2\\) vào phương trình thứ nhất để tìm \\(y\\):\n  \\(4(2) + y = 5\\)\n  \\(\\Leftrightarrow 8 + y = 5\\)\n  \\(\\Leftrightarrow y = -3\\)\n\nVậy nghiệm của hệ phương trình là \\((x; y) = (2; -3)\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00008",
+    "question_text": "Để giải hệ phương trình \\(\\begin{cases} 2x - 3y = 1 \\\\ x + 2y = 4 \\end{cases}\\) bằng phương pháp cộng đại số, ta cần nhân phương trình thứ hai với số nào để có thể khử ẩn \\(x\\)?",
+    "suggested_solution": "Để khử ẩn \\(x\\), hệ số của \\(x\\) trong hai phương trình phải bằng nhau hoặc đối nhau. Hệ số của \\(x\\) ở phương trình thứ nhất là 2.\n\n**Lời giải:**\n- Bước 1: Quan sát hệ số của \\(x\\) trong hai phương trình: 2 và 1.\n- Bước 2: Để hệ số của \\(x\\) ở phương trình thứ hai trở thành -2 (số đối của 2), ta cần nhân cả hai vế của phương trình thứ hai với -2.\n  Khi đó hệ trở thành: \\(\\begin{cases} 2x - 3y = 1 \\\\ -2x - 4y = -8 \\end{cases}\\). Bây giờ ta có thể cộng hai vế để khử \\(x\\).\n\n**Đáp án:** Cần nhân phương trình thứ hai với -2.",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00008",
+    "question_text": "Giải hệ phương trình bằng phương pháp cộng đại số: \\(\\begin{cases} 3x + 2y = 1 \\\\ 2x - 5y = 7 \\end{cases}\\).",
+    "suggested_solution": "Hệ số của cả hai ẩn đều không bằng nhau hoặc đối nhau, ta cần nhân cả hai phương trình với các số thích hợp.\n\n**Lời giải:**\n- Bước 1: Chọn ẩn để khử, ví dụ ẩn \\(x\\). Bội chung nhỏ nhất của 3 và 2 là 6. Ta sẽ biến đổi hệ số của \\(x\\) thành 6 và -6.\n  + Nhân hai vế của phương trình thứ nhất với 2: \\(6x + 4y = 2\\) (1')\n  + Nhân hai vế của phương trình thứ hai với -3: \\(-6x + 15y = -21\\) (2')\n- Bước 2: Cộng vế theo vế của (1') và (2'):\n  \\((6x - 6x) + (4y + 15y) = 2 - 21\\)\n  \\(\\Leftrightarrow 19y = -19\\)\n  \\(\\Leftrightarrow y = -1\\)\n- Bước 3: Thay \\(y = -1\\) vào phương trình thứ nhất ban đầu:\n  \\(3x + 2(-1) = 1\\)\n  \\(\\Leftrightarrow 3x - 2 = 1\\)\n  \\(\\Leftrightarrow 3x = 3 \\Leftrightarrow x = 1\\)\n\nVậy nghiệm của hệ phương trình là \\((x; y) = (1; -1)\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00008",
+    "question_text": "Sử dụng phương pháp cộng đại số để xác định số nghiệm của hệ phương trình: \\(\\begin{cases} 3x - y = 2 \\\\ -6x + 2y = 1 \\end{cases}\\).",
+    "suggested_solution": "Khi giải hệ bằng phương pháp cộng đại số, nếu ta nhận được một đẳng thức vô lý (ví dụ 0 = 5) thì hệ vô nghiệm.\n\n**Lời giải:**\n- Bước 1: Nhân hai vế của phương trình thứ nhất với 2 để làm đối nhau hệ số của \\(x\\).\n  Hệ trở thành: \\(\\begin{cases} 6x - 2y = 4 \\\\ -6x + 2y = 1 \\end{cases}\\)\n- Bước 2: Cộng vế theo vế hai phương trình của hệ mới:\n  \\((6x - 6x) + (-2y + 2y) = 4 + 1\\)\n  \\(\\Leftrightarrow 0x + 0y = 5\\)\n  \\(\\Leftrightarrow 0 = 5\\) (Vô lý)\n\nVì ta nhận được một đẳng thức vô lý, nên không có cặp số \\((x; y)\\) nào thỏa mãn hệ.\n\nVậy hệ phương trình vô nghiệm.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00008",
+    "question_text": "Tìm nghiệm \\((x; y)\\) của hệ phương trình \\(\\begin{cases} 2(x+1) - 3(y-1) = 1 \\\\ 3(x+1) + 2(y-1) = 8 \\end{cases}\\).",
+    "suggested_solution": "Ta có thể giải hệ này bằng cách đặt ẩn phụ \\(u = x+1\\) và \\(v = y-1\\) để đưa về hệ phương trình bậc nhất hai ẩn quen thuộc.\n\n**Lời giải:**\n\n- **Bước 1: Đặt ẩn phụ và viết lại hệ phương trình.**\n  Đặt \\(u = x+1\\) và \\(v = y-1\\).\n  Hệ phương trình đã cho trở thành:\n  \\(\\begin{cases} 2u - 3v = 1 \\\\ 3u + 2v = 8 \\end{cases}\\) (Hệ I)\n\n- **Bước 2: Giải hệ phương trình (I).**\n  Ta giải hệ (I) bằng phương pháp cộng đại số:\n  Nhân hai vế của phương trình thứ nhất với 2, và nhân hai vế của phương trình thứ hai với 3, ta được:\n  \\(\\begin{cases} 4u - 6v = 2 \\\\ 9u + 6v = 24 \\end{cases}\\)\n  Cộng vế theo vế hai phương trình này, ta được:\n  \\((4u + 9u) + (-6v + 6v) = 2 + 24\\)\n  \\(\\Leftrightarrow 13u = 26\\)\n  \\(\\Leftrightarrow u = 2\\)\n  Thay \\(u = 2\\) vào phương trình \\(2u - 3v = 1\\), ta có:\n  \\(2(2) - 3v = 1 \\)\n  \\(\\Leftrightarrow 4 - 3v = 1 \\)\n  \\(\\Leftrightarrow 3v = 3 \\)\n  \\(\\Leftrightarrow v = 1\\)\n\n- **Bước 3: Trả lại biến (x, y) ban đầu.**\n  + Với \\(u = 2\\), ta có: \\(x+1 = 2 \\Rightarrow x = 1\\).\n  + Với \\(v = 1\\), ta có: \\(y-1 = 1 \\Rightarrow y = 2\\).\n\n- **Bước 4: Kết luận.**\n  Vậy nghiệm của hệ phương trình đã cho là \\((x; y) = (1; 2)\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00008",
+    "question_text": "Cho hệ phương trình \\(\\begin{cases} 2x + y = m+1 \\\\ 3x - 2y = m-4 \\end{cases}\\). Tìm \\(m\\) để hệ có nghiệm duy nhất \\((x; y)\\) sao cho \\(x+y=3\\).",
+    "suggested_solution": "Ta sẽ giải hệ để tìm \\(x, y\\) theo \\(m\\), sau đó thay vào điều kiện \\(x+y=3\\).\n\n**Lời giải:**\n- Bước 1: Giải hệ phương trình theo \\(m\\). Nhân phương trình thứ nhất với 2:\n  \\(\\begin{cases} 4x + 2y = 2m+2 \\\\ 3x - 2y = m-4 \\end{cases}\\)\n  Cộng vế theo vế, ta được: \\(7x = 3m - 2 \\Leftrightarrow x = \\frac{3m-2}{7}\\).\n- Bước 2: Tìm \\(y\\) theo \\(m\\). Từ \\(y = m+1 - 2x\\):\n  \\(y = m+1 - 2\\left(\\frac{3m-2}{7}\\right) = \\frac{7(m+1) - 2(3m-2)}{7} = \\frac{7m+7-6m+4}{7} = \\frac{m+11}{7}\\).\n- Bước 3: Thay \\(x, y\\) vào điều kiện \\(x+y=3\\).\n  \\(\\frac{3m-2}{7} + \\frac{m+11}{7} = 3\\)\n  \\(\\Leftrightarrow \\frac{4m+9}{7} = 3\\)\n  \\(\\Leftrightarrow 4m+9 = 21\\)\n  \\(\\Leftrightarrow 4m = 12 \\Leftrightarrow m = 3\\).\n\nVậy giá trị cần tìm là \\(m=3\\).",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00008",
+    "question_text": "Biết hệ phương trình \\(\\begin{cases} ax + by = 5 \\\\ bx - ay = 10 \\end{cases}\\) có nghiệm là \\((x; y) = (1; 2)\\). Tính giá trị của \\(a^2 + b^2\\).",
+    "suggested_solution": "Ta thay nghiệm \\((1; 2)\\) vào hệ để được một hệ mới với ẩn là \\(a, b\\). Sau đó, ta có thể giải hệ đó hoặc tìm cách tính \\(a^2+b^2\\) một cách thông minh.\n\n**Lời giải:**\n- Bước 1: Thay \\(x=1, y=2\\) vào hệ, ta được:\n  \\(\\begin{cases} a(1) + b(2) = 5 \\\\ b(1) - a(2) = 10 \\end{cases} \\Leftrightarrow \\begin{cases} a + 2b = 5 \\\\ -2a + b = 10 \\end{cases}\\)\n- Bước 2: Giải hệ tìm \\(a, b\\).\n  Nhân phương trình thứ hai với -2: \\(4a - 2b = -20\\).\n  Cộng với phương trình thứ nhất: \\((a+4a) + (2b-2b) = 5-20 \\Rightarrow 5a = -15 \\Rightarrow a = -3\\).\n  Thay \\(a=-3\\) vào \\(a+2b=5\\): \\(-3 + 2b = 5 \\Rightarrow 2b = 8 \\Rightarrow b = 4\\).\n- Bước 3: Tính \\(a^2 + b^2\\).\n  \\(a^2 + b^2 = (-3)^2 + 4^2 = 9 + 16 = 25\\).\n\n**Cách khác:**\nTừ hệ \\(\\begin{cases} a + 2b = 5 \\\\ b - 2a = 10 \\end{cases}\\), bình phương hai vế của mỗi phương trình:\n\\((a+2b)^2 = 25 \\Rightarrow a^2 + 4ab + 4b^2 = 25\\)\n\\((b-2a)^2 = 100 \\Rightarrow b^2 - 4ab + 4a^2 = 100\\)\nCộng vế theo vế hai phương trình mới này:\n\\((a^2+4a^2) + (4b^2+b^2) + (4ab-4ab) = 25+100\\)\n\\(\\Leftrightarrow 5a^2 + 5b^2 = 125 \\Leftrightarrow a^2 + b^2 = 25\\).",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00009",
+    "question_text": "Khi giải một hệ phương trình, ta nên nghĩ đến việc sử dụng phương pháp đặt ẩn phụ trong trường hợp nào?",
+    "suggested_solution": "Ta nên sử dụng phương pháp đặt ẩn phụ khi trong hệ phương trình có chứa các biểu thức phức tạp lặp đi lặp lại. Bằng cách đặt các biểu thức đó làm ẩn mới (ví dụ: u, v), ta có thể đưa hệ phương trình về dạng hệ phương trình bậc nhất hai ẩn quen thuộc.\n\n**Ví dụ:** Với hệ \\(\\begin{cases} \\frac{2}{x} + \\frac{3}{y} = 5 \\\\ \\frac{1}{x} - \\frac{1}{y} = 1 \\end{cases}\\), ta thấy \\(\\frac{1}{x}\\) và \\(\\frac{1}{y}\\) lặp lại.",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00009",
+    "question_text": "Để giải hệ phương trình \\(\\begin{cases} \\frac{2}{x-3} + |y-1| = 4 \\\\ \\frac{5}{x-3} - 2|y-1| = 1 \\end{cases}\\), ta cần đặt ẩn phụ như thế nào và điều kiện của ẩn phụ là gì?",
+    "suggested_solution": "Ta nhận thấy các biểu thức \\(\\frac{1}{x-3}\\) và \\(|y-1|\\) lặp lại trong hệ.\n\n**Lời giải:**\n- Bước 1: Đặt ẩn phụ.\n  Đặt \\(u = \\frac{1}{x-3}\\) và \\(v = |y-1|\\).\n- Bước 2: Tìm điều kiện của ẩn phụ.\n  + Vì \\(x-3\\) ở mẫu nên \\(x \\ne 3\\), \\(u\\) có thể nhận giá trị bất kỳ khác 0.\n  + Vì \\(|y-1|\\) là giá trị tuyệt đối nên \\(|y-1| \\ge 0\\). Do đó, \\(v \\ge 0\\).\n\n**Đáp án:** Đặt \\(u = \\frac{1}{x-3}\\) và \\(v = |y-1|\\), với điều kiện \\(v \\ge 0\\).",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00009",
+    "question_text": "Giải hệ phương trình: \\(\\begin{cases} \\frac{1}{x} + \\frac{1}{y} = 2 \\\\ \\frac{3}{x} - \\frac{2}{y} = 1 \\end{cases}\\).",
+    "suggested_solution": "Đây là dạng hệ phương trình cơ bản giải bằng cách đặt ẩn phụ.\n\n**Lời giải:**\n- Bước 1: ĐKXĐ: \\(x \\ne 0, y \\ne 0\\). Đặt \\(u = \\frac{1}{x}\\), \\(v = \\frac{1}{y}\\). Hệ trở thành:\n  \\(\\begin{cases} u + v = 2 \\\\ 3u - 2v = 1 \\end{cases}\\)\n- Bước 2: Giải hệ mới. Nhân phương trình thứ nhất với 2:\n  \\(\\begin{cases} 2u + 2v = 4 \\\\ 3u - 2v = 1 \\end{cases}\\)\n  Cộng vế theo vế ta được \\(5u = 5 \\Leftrightarrow u = 1\\). Suy ra \\(1 + v = 2 \\Leftrightarrow v = 1\\).\n- Bước 3: Trả lại biến cũ.\n  + \\(u = \\frac{1}{x} = 1 \\Leftrightarrow x = 1\\)\n  + \\(v = \\frac{1}{y} = 1 \\Leftrightarrow y = 1\\)\n- Bước 4: Đối chiếu ĐKXĐ và kết luận.\n  Nghiệm \\((1; 1)\\) thỏa mãn. Vậy nghiệm của hệ là \\((x; y) = (1; 1)\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00009",
+    "question_text": "Sắp xếp các bước giải hệ phương trình \\(\\begin{cases} \\frac{4}{x+y} + \\frac{1}{x-y} = 2 \\\\ \\frac{2}{x+y} - \\frac{3}{x-y} = 7 \\end{cases}\\).",
+    "suggested_solution": "Đây là quy trình chuẩn để giải một hệ phương trình bằng phương pháp đặt ẩn phụ.\n\n**Lời giải:**\nThứ tự đúng của các bước là:\n1. Tìm điều kiện xác định: \\(x+y \\ne 0\\) và \\(x-y \\ne 0\\).\n2. Đặt ẩn phụ: Đặt \\(u = \\frac{1}{x+y}\\) và \\(v = \\frac{1}{x-y}\\).\n3. Viết lại hệ phương trình theo ẩn phụ: \\(\\begin{cases} 4u + v = 2 \\\\ 2u - 3v = 7 \\end{cases}\\).\n4. Giải hệ phương trình với ẩn \\(u, v\\) để tìm được \\(u=1, v=-2\\).\n5. Trả lại biến cũ và giải hệ tìm \\(x, y\\): \\(\\begin{cases} \\frac{1}{x+y} = 1 \\\\ \\frac{1}{x-y} = -2 \\end{cases} \\Leftrightarrow \\begin{cases} x+y = 1 \\\\ x-y = -\\frac{1}{2} \\end{cases}\\).\n6. Giải hệ cuối cùng để tìm nghiệm \\((x; y) = (\\frac{1}{4}; \\frac{3}{4})\\) và kết luận.",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00009",
+    "question_text": "Để giải hệ \\(\\begin{cases} \\frac{1}{x} + \\frac{1}{y} = 3 \\\\ \\frac{2}{x} - \\frac{3}{y} = 1 \\end{cases}\\), một học sinh đặt \\(u = \\frac{1}{x}, v = \\frac{1}{y}\\) và giải ra \\(u=2, v=1\\). Sau đó kết luận nghiệm của hệ là \\((2; 1)\\). Lời giải sai ở đâu?",
+    "suggested_solution": "Lời giải sai ở bước cuối cùng, sau khi đã tìm ra giá trị của các ẩn phụ \\(u\\) và \\(v\\).\n\n**Lời giải:**\n- Lỗi sai: Học sinh đã kết luận nghiệm là giá trị của ẩn phụ \\((u; v)\\) thay vì nghiệm của hệ ban đầu \\((x; y)\\).\n- Sửa lại cho đúng: Sau khi tìm được \\(u=2, v=1\\), cần thực hiện bước trả lại biến cũ:\n  + \\(u = \\frac{1}{x} = 2 \\Rightarrow x = \\frac{1}{2}\\)\n  + \\(v = \\frac{1}{y} = 1 \\Rightarrow y = 1\\)\n  Vậy nghiệm đúng của hệ là \\((x; y) = (\\frac{1}{2}; 1)\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00009",
+    "question_text": "Giải hệ phương trình: \\(\\begin{cases} 2\\sqrt{x} + 3\\sqrt{y} = 8 \\\\ \\sqrt{x} - \\sqrt{y} = -1 \\end{cases}\\).",
+    "suggested_solution": "Ta sẽ đặt ẩn phụ cho các căn thức để đưa về hệ bậc nhất.\n\n**Lời giải:**\n- Bước 1: ĐKXĐ: \\(x \\ge 0, y \\ge 0\\). Đặt \\(u = \\sqrt{x}\\), \\(v = \\sqrt{y}\\) (với \\(u, v \\ge 0\\)). Hệ trở thành:\n  \\(\\begin{cases} 2u + 3v = 8 \\\\ u - v = -1 \\end{cases}\\)\n- Bước 2: Giải hệ mới. Từ (2) suy ra \\(u = v - 1\\). Thế vào (1):\n  \\(2(v - 1) + 3v = 8 \\Leftrightarrow 2v - 2 + 3v = 8 \\Leftrightarrow 5v = 10 \\Leftrightarrow v = 2\\).\n  Suy ra \\(u = 2 - 1 = 1\\).\n- Bước 3: Đối chiếu điều kiện ẩn phụ.\n  \\(u=1, v=2\\) đều thỏa mãn \\(u, v \\ge 0\\).\n- Bước 4: Trả lại biến cũ.\n  + \\(\\sqrt{x} = 1 \\Leftrightarrow x = 1\\)\n  + \\(\\sqrt{y} = 2 \\Leftrightarrow y = 4\\)\n\nVậy nghiệm của hệ là \\((x; y) = (1; 4)\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00009",
+    "question_text": "Cho hệ phương trình \\(\\begin{cases} \\frac{x}{x-1} + \\frac{y}{y+1} = 3 \\\\ \\frac{2x}{x-1} - \\frac{y}{y+1} = 0 \\end{cases}\\). Sau khi đặt \\(u = \\frac{x}{x-1}\\) và \\(v = \\frac{y}{y+1}\\), ta được hệ \\(\\begin{cases} u+v=3 \\\\ 2u-v=0 \\end{cases}\\). Bước tiếp theo là gì?",
+    "suggested_solution": "Sau khi có hệ phương trình bậc nhất hai ẩn \\(u, v\\), bước tiếp theo là giải hệ này để tìm giá trị của \\(u\\) và \\(v\\).\n\n**Lời giải:**\nBước tiếp theo là giải hệ \\(\\begin{cases} u+v=3 \\\\ 2u-v=0 \\end{cases}\\).\nCộng vế theo vế hai phương trình, ta được: \\(3u = 3 \\Leftrightarrow u = 1\\).\nThay \\(u=1\\) vào phương trình thứ hai: \\(2(1) - v = 0 \\Leftrightarrow v = 2\\).\nSau đó, ta sẽ thực hiện bước trả lại biến cũ để tìm \\(x, y\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00009",
+    "question_text": "Tìm nghiệm của hệ phương trình: \\(\\begin{cases} x+y=5 \\\\ \\frac{1}{x} + \\frac{1}{y} = \\frac{5}{6} \\end{cases}\\).",
+    "suggested_solution": "Ta có thể biến đổi phương trình thứ hai trước khi đặt ẩn phụ hoặc sử dụng định lý Vi-ét đảo.\n\n**Lời giải:**\n- Bước 1: ĐKXĐ: \\(x \\ne 0, y \\ne 0\\).\n- Bước 2: Biến đổi phương trình thứ hai:\n  \\(\\frac{x+y}{xy} = \\frac{5}{6}\\)\n- Bước 3: Thế \\(x+y=5\\) từ phương trình thứ nhất vào:\n  \\(\\frac{5}{xy} = \\frac{5}{6} \\Leftrightarrow xy = 6\\).\n- Bước 4: Tìm \\(x, y\\).\n  Ta có \\(x+y=5\\) và \\(xy=6\\). Theo định lý Vi-ét đảo, \\(x\\) và \\(y\\) là hai nghiệm của phương trình:\n  \\(t^2 - 5t + 6 = 0\\)\n  Giải phương trình này ta được \\(t=2\\) hoặc \\(t=3\\).\n\nVậy hệ có hai nghiệm là \\((2; 3)\\) và \\((3; 2)\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00009",
+    "question_text": "Giải hệ phương trình: \\(\\begin{cases} 2x^2 + \\frac{3}{y-1} = 5 \\\\ x^2 - \\frac{1}{y-1} = 1 \\end{cases}\\).",
+    "suggested_solution": "Ta sẽ đặt ẩn phụ cho \\(x^2\\) và \\(\\frac{1}{y-1}\\), lưu ý điều kiện của ẩn phụ.\n\n**Lời giải:**\n- Bước 1: ĐKXĐ: \\(y \\ne 1\\). Đặt \\(u = x^2\\) và \\(v = \\frac{1}{y-1}\\). Điều kiện: \\(u \\ge 0\\). Hệ trở thành:\n  \\(\\begin{cases} 2u + 3v = 5 \\\\ u - v = 1 \\end{cases}\\)\n- Bước 2: Giải hệ mới. Từ (2) suy ra \\(u = v+1\\). Thế vào (1):\n  \\(2(v+1) + 3v = 5 \\Leftrightarrow 2v+2+3v=5 \\Leftrightarrow 5v=3 \\Leftrightarrow v = \\frac{3}{5}\\).\n  Suy ra \\(u = \\frac{3}{5} + 1 = \\frac{8}{5}\\).\n- Bước 3: Đối chiếu điều kiện ẩn phụ.\n  \\(u = \\frac{8}{5} \\ge 0\\) (Thỏa mãn).\n- Bước 4: Trả lại biến cũ.\n  + \\(x^2 = \\frac{8}{5} \\Leftrightarrow x = \\pm \\sqrt{\\frac{8}{5}} = \\pm \\frac{2\\sqrt{10}}{5}\\).\n  + \\(\\frac{1}{y-1} = \\frac{3}{5} \\Leftrightarrow 3(y-1) = 5 \\Leftrightarrow 3y-3=5 \\Leftrightarrow 3y=8 \\Leftrightarrow y = \\frac{8}{3}\\).\n\nVậy hệ có hai nghiệm là \\((\\frac{2\\sqrt{10}}{5}; \\frac{8}{3})\\) và \\((-\\frac{2\\sqrt{10}}{5}; \\frac{8}{3})\\).",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00009",
+    "question_text": "Giải hệ phương trình: \\(\\begin{cases} \\frac{1}{x} + \\frac{1}{y} + \\frac{1}{z} = 6 \\\\ \\frac{2}{x} - \\frac{1}{y} + \\frac{3}{z} = 9 \\\\ \\frac{3}{x} + \\frac{2}{y} - \\frac{1}{z} = 4 \\end{cases}\\).",
+    "suggested_solution": "Đây là hệ ba phương trình bậc nhất ba ẩn có thể giải bằng cách đặt ẩn phụ.\n\n**Lời giải:**\n- Bước 1: ĐKXĐ: \\(x, y, z \\ne 0\\). Đặt \\(a = \\frac{1}{x}, b = \\frac{1}{y}, c = \\frac{1}{z}\\). Hệ trở thành:\n  \\(\\begin{cases} a + b + c = 6 \\\\ 2a - b + 3c = 9 \\\\ 3a + 2b - c = 4 \\end{cases}\\)\n- Bước 2: Giải hệ mới. Cộng (1) và (2): \\(3a + 4c = 15\\) (4).\n  Cộng (1) và (3): \\(4a + 3b = 10\\). Cách này không khử được.\n  Nhân (1) với 2 rồi trừ đi (3): \\((2a-3a) + (2b-2b) + (2c - (-c)) = 12-4 \\Rightarrow -a+3c=8\\) (5).\n- Bước 3: Giải hệ (4) và (5):\n  \\(\\begin{cases} 3a + 4c = 15 \\\\ -a + 3c = 8 \\end{cases}\\). Từ (5) \\(\\Rightarrow a = 3c-8\\). Thế vào (4):\n  \\(3(3c-8) + 4c = 15 \\Leftrightarrow 9c-24+4c=15 \\Leftrightarrow 13c=39 \\Leftrightarrow c=3\\).\n  Suy ra \\(a = 3(3)-8 = 1\\).\n  Thay \\(a=1, c=3\\) vào (1): \\(1+b+3=6 \\Rightarrow b=2\\).\n- Bước 4: Trả lại biến cũ.\n  + \\(a = \\frac{1}{x} = 1 \\Rightarrow x = 1\\)\n  + \\(b = \\frac{1}{y} = 2 \\Rightarrow y = \\frac{1}{2}\\)\n  + \\(c = \\frac{1}{z} = 3 \\Rightarrow z = \\frac{1}{3}\\)\n\nVậy nghiệm của hệ là \\((x; y; z) = (1; \\frac{1}{2}; \\frac{1}{3})\\).",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00010",
+    "question_text": "Để vào chế độ giải hệ phương trình bậc nhất hai ẩn trên máy tính Casio, bạn cần bấm những phím nào?",
+    "suggested_solution": "Các dòng máy tính Casio phổ biến có cách truy cập khác nhau.\n\n**Lời giải:**\n- **Đối với máy Casio FX-570VN PLUS:** Bấm `MODE` -> `5` (EQN) -> `1` (anX + bnY = cn).\n- **Đối với máy Casio fx-580VN X:** Bấm `MENU` -> `9` (Phương trình/Hệ PT) -> `1` (Hệ phương trình) -> `2` (2 ẩn).",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00010",
+    "question_text": "Khi sử dụng máy tính cầm tay để giải hệ \\(\\begin{cases} 2x - 5y = 1 \\\\ x + 3y = 9 \\end{cases}\\), bạn cần nhập các hệ số theo thứ tự nào?",
+    "suggested_solution": "Máy tính yêu cầu nhập các hệ số \\(a, b, c\\) của từng phương trình theo đúng thứ tự.\n\n**Lời giải:**\nBạn cần nhập các hệ số theo thứ tự sau:\n- Phương trình 1: Nhập `2`, bấm `=`, nhập `-5`, bấm `=`, nhập `1`, bấm `=`.\n- Phương trình 2: Nhập `1`, bấm `=`, nhập `3`, bấm `=`, nhập `9`, bấm `=`.\nSau đó bấm `=` để xem kết quả.",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00010",
+    "question_text": "Để nhập phương trình \\(4x = 12\\) vào máy tính cầm tay trong một hệ hai ẩn, bạn cần nhập các hệ số \\(a, b, c\\) tương ứng là bao nhiêu?",
+    "suggested_solution": "Phương trình \\(4x = 12\\) có thể được viết lại dưới dạng đầy đủ là \\(4x + 0y = 12\\).\n\n**Lời giải:**\n- Hệ số của \\(x\\) là \\(a = 4\\).\n- Vì không có hạng tử chứa \\(y\\), hệ số của \\(y\\) là \\(b = 0\\).\n- Hằng số tự do là \\(c = 12\\).\n\nVậy bạn cần nhập các hệ số là `4`, `0`, `12`.",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00010",
+    "question_text": "Khi giải hệ phương trình bằng máy tính cầm tay, nếu màn hình hiển thị \"Vô số nghiệm\" (Infinite sol) hoặc \"Vô nghiệm\" (No solution), điều đó có ý nghĩa hình học là gì?",
+    "suggested_solution": "Số nghiệm của hệ phương trình tương ứng với số điểm chung của hai đường thẳng biểu diễn tập nghiệm của mỗi phương trình.\n\n**Lời giải:**\n- **\"Vô số nghiệm\"**: Hai đường thẳng biểu diễn hai phương trình của hệ **trùng nhau**.\n- **\"Vô nghiệm\"**: Hai đường thẳng biểu diễn hai phương trình của hệ **song song** với nhau.",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00010",
+    "question_text": "Bạn An muốn giải hệ \\(\\begin{cases} 3x = 2y + 1 \\\\ 5y = 4x - 2 \\end{cases}\\) bằng máy tính. An đã nhập các hệ số của phương trình đầu tiên là `3`, `2`, `1`. Lỗi sai của An là gì?",
+    "suggested_solution": "Lỗi sai của An là chưa đưa phương trình về dạng chuẩn \\(ax + by = c\\) trước khi nhập hệ số.\n\n**Lời giải:**\n- Phương trình đầu tiên \\(3x = 2y + 1\\) cần được chuyển vế thành \\(3x - 2y = 1\\).\n- Do đó, các hệ số đúng phải là \\(a=3, b=-2, c=1\\).\n- An đã nhập \\(b=2\\) thay vì \\(b=-2\\).",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00010",
+    "question_text": "Sử dụng máy tính cầm tay để tìm nghiệm của hệ phương trình: \\(\\begin{cases} 0.5x - 1.2y = -4.1 \\\\ 1.5x + 0.8y = 4.9 \\end{cases}\\).",
+    "suggested_solution": "Ta sẽ nhập trực tiếp các hệ số thập phân vào máy tính để giải.\n\n**Lời giải:**\n- Bước 1: Vào chế độ giải hệ phương trình 2 ẩn.\n- Bước 2: Nhập các hệ số:\n  + PT1: \\(a=0.5, b=-1.2, c=-4.1\\)\n  + PT2: \\(a=1.5, b=0.8, c=4.9\\)\n- Bước 3: Bấm phím `=` để nhận kết quả.\n  Máy tính sẽ hiển thị \\(x = 1\\) và \\(y = 3.8333...\\) hoặc \\(y = \\frac{23}{6}\\).\n\nVậy nghiệm của hệ là \\((x; y) = (1; \\frac{23}{6})\\).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00010",
+    "question_text": "Một trang trại có 30 con gà và thỏ. Tổng số chân đếm được là 80 chân. Sử dụng máy tính cầm tay để tìm số gà và số thỏ.",
+    "suggested_solution": "Ta cần lập một hệ phương trình bậc nhất hai ẩn từ dữ kiện bài toán, sau đó dùng máy tính để giải.\n\n**Lời giải:**\n- Bước 1: Gọi \\(x\\) là số gà, \\(y\\) là số thỏ (\\(x, y\\) nguyên dương).\n- Bước 2: Lập hệ phương trình:\n  + Tổng số con: \\(x + y = 30\\)\n  + Tổng số chân (gà có 2 chân, thỏ có 4 chân): \\(2x + 4y = 80\\)\n  Ta có hệ: \\(\\begin{cases} x + y = 30 \\\\ 2x + 4y = 80 \\end{cases}\\)\n- Bước 3: Dùng máy tính cầm tay giải hệ trên.\n  Nhập các hệ số: `1, 1, 30` và `2, 4, 80`.\n- Bước 4: Đọc kết quả.\n  Máy tính hiển thị \\(x = 20\\) và \\(y = 10\\).\n\nVậy trang trại có 20 con gà và 10 con thỏ.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00010",
+    "question_text": "Sắp xếp các bước sử dụng máy tính cầm tay để tìm tọa độ giao điểm của hai đường thẳng \\(d_1: y = 5x - 4\\) và \\(d_2: y = -2x + 10\\).",
+    "suggested_solution": "Tọa độ giao điểm là nghiệm của hệ phương trình tạo bởi hai đường thẳng. Ta cần đưa hệ về dạng chuẩn trước khi dùng máy tính.\n\n**Lời giải:**\n1. Viết hệ phương trình tương ứng với hai đường thẳng: \\(\\begin{cases} y = 5x - 4 \\\\ y = -2x + 10 \\end{cases}\\).\n2. Chuyển hệ về dạng chuẩn \\(ax+by=c\\): \\(\\begin{cases} -5x + y = -4 \\\\ 2x + y = 10 \\end{cases}\\).\n3. Mở chế độ giải hệ phương trình 2 ẩn trên máy tính.\n4. Nhập các hệ số của hệ phương trình đã chuyển đổi: `-5, 1, -4` và `2, 1, 10`.\n5. Bấm phím `=` để đọc kết quả hoành độ \\(x\\) và tung độ \\(y\\) của giao điểm. (Kết quả: x=2, y=6).",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00010",
+    "question_text": "Bạn có hệ phương trình \\(\\begin{cases} \\frac{2}{x} + \\frac{5}{y} = -1 \\\\ \\frac{3}{x} - \\frac{1}{y} = 7 \\end{cases}\\). Bạn đặt \\(u = \\frac{1}{x}, v = \\frac{1}{y}\\) và được hệ mới \\(\\begin{cases} 2u + 5v = -1 \\\\ 3u - v = 7 \\end{cases}\\). Bước tiếp theo để tìm \\(x, y\\) bằng máy tính là gì?",
+    "suggested_solution": "Sau khi đặt ẩn phụ, ta dùng máy tính để giải hệ mới theo \\(u, v\\), sau đó phải tính ngược lại để tìm \\(x, y\\).\n\n**Lời giải:**\nBước tiếp theo là sử dụng máy tính cầm tay để giải hệ phương trình \\(\\begin{cases} 2u + 5v = -1 \\\\ 3u - v = 7 \\end{cases}\\).\nNhập các hệ số `2, 5, -1` và `3, -1, 7`, máy tính sẽ cho kết quả \\(u=2\\) và \\(v=-1\\). Cuối cùng, ta tính \\(x = \\frac{1}{u} = \\frac{1}{2}\\) và \\(y = \\frac{1}{v} = -1\\).",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00010",
+    "question_text": "Sử dụng máy tính cầm tay để tìm nghiệm của hệ phương trình ba ẩn: \\(\\begin{cases} x + y + z = 6 \\\\ 2x - y + z = 3 \\\\ x + 2y - 3z = 2 \\end{cases}\\).",
+    "suggested_solution": "Các máy tính Casio FX-570VN PLUS và fx-580VN X đều hỗ trợ giải hệ phương trình bậc nhất ba ẩn.\n\n**Lời giải:**\n- **Đối với máy Casio FX-570VN PLUS:** Bấm `MODE` -> `5` (EQN) -> `2` (anX + bnY + cnZ = dn).\n- **Đối với máy Casio fx-580VN X:** Bấm `MENU` -> `9` (Phương trình/Hệ PT) -> `1` (Hệ phương trình) -> `3` (3 ẩn).\n\nSau đó, nhập lần lượt các hệ số:\n- PT1: `1, 1, 1, 6`\n- PT2: `2, -1, 1, 3`\n- PT3: `1, 2, -3, 2`\n\nBấm `=` để đọc kết quả: \\(x=1, y=2, z=3\\).\nVậy nghiệm của hệ là \\((1; 2; 3)\\).",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+    "learning_object": "LO-00011",
+    "question_text": "Hai số có tổng bằng 59. Hai lần số thứ nhất lớn hơn ba lần số thứ hai là 7. Nếu gọi số thứ nhất là \\(x\\) và số thứ hai là \\(y\\), hệ phương trình nào sau đây biểu diễn đúng bài toán?",
+    "suggested_solution": "Ta cần chuyển các mệnh đề của bài toán thành các phương trình toán học.\n\n**Lời giải:**\n- \"Hai số có tổng bằng 59\" được biểu diễn bởi phương trình: \\(x + y = 59\\).\n- \"Hai lần số thứ nhất lớn hơn ba lần số thứ hai là 7\" được biểu diễn bởi phương trình: \\(2x - 3y = 7\\).\n\nVậy hệ phương trình của bài toán là: \\(\\begin{cases} x + y = 59 \\\\ 2x - 3y = 7 \\end{cases}\\)",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00011",
+    "question_text": "Một hình chữ nhật có chu vi là 80m. Chiều dài hơn chiều rộng 10m. Gọi chiều dài là \\(x\\) (m) và chiều rộng là \\(y\\) (m). Hãy lập hệ phương trình của bài toán.",
+    "suggested_solution": "Ta cần biểu diễn chu vi và mối quan hệ giữa hai cạnh thành các phương trình.\n\n**Lời giải:**\n- Chu vi là 80m, ta có phương trình: \\(2(x+y) = 80 \\Leftrightarrow x + y = 40\\).\n- Chiều dài hơn chiều rộng 10m, ta có phương trình: \\(x - y = 10\\).\n\nVậy hệ phương trình của bài toán là: \\(\\begin{cases} x + y = 40 \\\\ x - y = 10 \\end{cases}\\)",
+    "difficulty": "Nhận biết"
+  },
+  {
+    "learning_object": "LO-00011",
+    "question_text": "Trong tháng đầu, hai tổ sản xuất được 800 chi tiết máy. Sang tháng thứ hai, tổ I vượt mức 15%, tổ II vượt mức 20%, do đó cả hai tổ sản xuất được 945 chi tiết máy. Gọi \\(x, y\\) lần lượt là số chi tiết máy tổ I và tổ II sản xuất được trong tháng đầu. Hãy lập hệ phương trình biểu diễn bài toán.",
+    "suggested_solution": "Ta cần lập một phương trình cho tháng đầu và một phương trình cho tháng thứ hai.\n\n**Lời giải:**\n- Tháng đầu, hai tổ sản xuất được 800 chi tiết: \\(x + y = 800\\).\n- Tháng hai:\n  + Tổ I sản xuất được: \\(x + 15\\%x = 1.15x\\)\n  + Tổ II sản xuất được: \\(y + 20\\%y = 1.20y\\)\n  + Cả hai tổ sản xuất được 945 chi tiết: \\(1.15x + 1.20y = 945\\).\n\nVậy hệ phương trình là: \\(\\begin{cases} x + y = 800 \\\\ 1.15x + 1.2y = 945 \\end{cases}\\)",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00011",
+    "question_text": "Hiện nay tuổi của cha gấp 3 lần tuổi của con cộng thêm 4. Năm năm trước, tuổi của cha bằng 4 lần tuổi của con. Gọi tuổi của cha hiện nay là \\(x\\) và tuổi của con hiện nay là \\(y\\). Hãy lập hệ phương trình của bài toán.",
+    "suggested_solution": "Ta cần lập một phương trình cho tuổi hiện nay và một phương trình cho tuổi của 5 năm trước.\n\n**Lời giải:**\n- Mối quan hệ tuổi hiện nay: \\(x = 3y + 4 \\Leftrightarrow x - 3y = 4\\).\n- Mối quan hệ tuổi 5 năm trước:\n  + Tuổi cha 5 năm trước: \\(x - 5\\)\n  + Tuổi con 5 năm trước: \\(y - 5\\)\n  + Phương trình: \\(x - 5 = 4(y - 5) \\Leftrightarrow x - 4y = -15\\).\n\nVậy hệ phương trình là: \\(\\begin{cases} x - 3y = 4 \\\\ x - 4y = -15 \\end{cases}\\)",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00011",
+    "question_text": "Một ca nô chạy trên sông trong 3 giờ, xuôi dòng 48 km và ngược dòng 30 km. Biết vận tốc dòng nước là 2 km/h. Gọi vận tốc thực của ca nô là \\(x\\) (km/h) và thời gian ca nô xuôi dòng là \\(y\\) (giờ). Hãy lập hệ phương trình của bài toán.",
+    "suggested_solution": "Đây là bài toán chuyển động trên dòng nước, cần phân biệt vận tốc xuôi và ngược dòng.\n\n**Lời giải:**\n- Vận tốc xuôi dòng: \\(x+2\\) km/h. Vận tốc ngược dòng: \\(x-2\\) km/h.\n- Thời gian xuôi dòng là \\(y\\) giờ, thời gian ngược dòng là \\(3-y\\) giờ.\n- Phương trình quãng đường xuôi dòng: \\(y(x+2) = 48\\).\n- Phương trình quãng đường ngược dòng: \\((3-y)(x-2) = 30\\).\n\nVậy hệ phương trình là: \\(\\begin{cases} y(x+2) = 48 \\\\ (3-y)(x-2) = 30 \\end{cases}\\). Đây là một hệ không tuyến tính, cho thấy sự phức tạp trong việc chọn ẩn.",
+    "difficulty": "Thông hiểu"
+  },
+  {
+    "learning_object": "LO-00011",
+    "question_text": "Hai vòi nước cùng chảy vào một bể cạn thì sau 4 giờ 48 phút sẽ đầy bể. Nếu vòi thứ nhất chảy trong 4 giờ và vòi thứ hai chảy trong 3 giờ thì cả hai vòi chảy được \\(\\frac{3}{4}\\) bể. Hỏi nếu chảy một mình thì mỗi vòi cần bao lâu để đầy bể?",
+    "suggested_solution": "Đây là bài toán năng suất (làm chung - làm riêng).\n\n**Lời giải:**\n- Bước 1: Đổi đơn vị: 4 giờ 48 phút = \\(4 + \\frac{48}{60} = 4.8 = \\frac{24}{5}\\) giờ.\n- Bước 2: Gọi ẩn.\n  Gọi thời gian vòi 1 và vòi 2 chảy một mình đầy bể lần lượt là \\(x, y\\) (giờ, \\(x, y > 24/5\\)).\n  Trong 1 giờ, vòi 1 chảy được \\(\\frac{1}{x}\\) bể, vòi 2 chảy được \\(\\frac{1}{y}\\) bể.\n- Bước 3: Lập hệ phương trình.\n  + Cả hai vòi cùng chảy 1 giờ được \\(1 : \\frac{24}{5} = \\frac{5}{24}\\) bể: \\(\\frac{1}{x} + \\frac{1}{y} = \\frac{5}{24}\\) (1)\n  + Vòi 1 chảy 4 giờ, vòi 2 chảy 3 giờ được \\(\\frac{3}{4}\\) bể: \\(4 \\cdot \\frac{1}{x} + 3 \\cdot \\frac{1}{y} = \\frac{3}{4}\\) (2)\n- Bước 4: Giải hệ. Đặt \\(u = 1/x, v = 1/y\\). Ta có hệ: \\(\\begin{cases} u + v = 5/24 \\\\ 4u + 3v = 3/4 \\end{cases}\\).\n  Giải hệ này ta được \\(u = 1/8, v = 1/12\\).\n- Bước 5: Trả lại biến cũ và kết luận.\n  + \\(1/x = 1/8 \\Rightarrow x = 8\\)\n  + \\(1/y = 1/12 \\Rightarrow y = 12\\)\n  Vậy vòi 1 chảy một mình hết 8 giờ, vòi 2 chảy một mình hết 12 giờ.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00011",
+    "question_text": "Hai xe khởi hành cùng lúc từ hai địa điểm A và B cách nhau 150 km, đi ngược chiều nhau và gặp nhau sau 2 giờ. Nếu xe đi từ A khởi hành trước xe đi từ B 1 giờ thì chúng sẽ gặp nhau sau 1 giờ 36 phút kể từ lúc xe B khởi hành. Tính vận tốc của mỗi xe.",
+    "suggested_solution": "Đây là bài toán chuyển động ngược chiều.\n\n**Lời giải:**\n- Bước 1: Đổi đơn vị: 1 giờ 36 phút = \\(1 + \\frac{36}{60} = 1.6\\) giờ.\n- Bước 2: Gọi ẩn.\n  Gọi vận tốc xe đi từ A là \\(x\\) (km/h) và vận tốc xe đi từ B là \\(y\\) (km/h) (\\(x, y > 0\\)).\n- Bước 3: Lập hệ phương trình.\n  + Trường hợp 1 (khởi hành cùng lúc): Tổng quãng đường hai xe đi được sau 2 giờ là 150 km.\n    \\(2x + 2y = 150 \\Leftrightarrow x + y = 75\\) (1)\n  + Trường hợp 2 (xe A đi trước 1 giờ): Xe A đi trong \\(1 + 1.6 = 2.6\\) giờ, xe B đi trong 1.6 giờ. Tổng quãng đường là 150 km.\n    \\(2.6x + 1.6y = 150\\) (2)\n- Bước 4: Giải hệ phương trình (1) và (2).\n  Từ (1) \\(\\Rightarrow y = 75 - x\\). Thế vào (2):\n  \\(2.6x + 1.6(75 - x) = 150\\)\n  \\(\\Leftrightarrow 2.6x + 120 - 1.6x = 150\\)\n  \\(\\Leftrightarrow x = 30\\).\n  Suy ra \\(y = 75 - 30 = 45\\).\n- Bước 5: Kết luận.\n  Vận tốc xe đi từ A là 30 km/h, vận tốc xe đi từ B là 45 km/h.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00011",
+    "question_text": "Một phòng họp có 360 ghế được xếp thành các dãy có số ghế ở mỗi dãy bằng nhau. Nếu bớt đi 3 dãy và mỗi dãy còn lại thêm 4 ghế thì số ghế trong phòng không đổi. Hỏi ban đầu phòng họp có bao nhiêu dãy ghế?",
+    "suggested_solution": "Đây là bài toán về sắp xếp, có thể giải bằng cách lập hệ phương trình.\n\n**Lời giải:**\n- Bước 1: Gọi ẩn.\n  Gọi số dãy ghế ban đầu là \\(x\\) (dãy) và số ghế mỗi dãy ban đầu là \\(y\\) (ghế/dãy) (\\(x, y \\in \\mathbb{N}^*\\)).\n- Bước 2: Lập hệ phương trình.\n  + Tổng số ghế ban đầu: \\(xy = 360\\) (1)\n  + Thay đổi cách xếp: Số dãy lúc sau là \\(x-3\\), số ghế mỗi dãy lúc sau là \\(y+4\\). Tổng số ghế không đổi:\n    \\((x-3)(y+4) = 360\\) (2)\n- Bước 3: Giải hệ phương trình.\n  Từ (2): \\(xy + 4x - 3y - 12 = 360\\).\n  Thế (1) vào: \\(360 + 4x - 3y - 12 = 360 \\Leftrightarrow 4x - 3y = 12\\).\n  Từ (1) rút ra \\(y = \\frac{360}{x}\\). Thế vào phương trình vừa rút gọn:\n  \\(4x - 3\\left(\\frac{360}{x}\\right) = 12 \\Leftrightarrow 4x^2 - 1080 = 12x \\Leftrightarrow x^2 - 3x - 270 = 0\\).\n  Giải phương trình bậc hai ta được \\(x = 18\\) (nhận) và \\(x = -15\\) (loại).\n- Bước 4: Kết luận.\n  Vậy ban đầu phòng họp có 18 dãy ghế.",
+    "difficulty": "Vận dụng"
+  },
+  {
+    "learning_object": "LO-00011",
+    "question_text": "Có hai loại dung dịch muối với nồng độ lần lượt là 5% và 30%. Cần phải trộn bao nhiêu gam mỗi loại dung dịch để thu được 500g dung dịch muối có nồng độ 25%?",
+    "suggested_solution": "Đây là bài toán pha trộn dung dịch. Ta sẽ lập một phương trình cho tổng khối lượng dung dịch và một phương trình cho tổng khối lượng muối nguyên chất.\n\n**Lời giải:**\n- Bước 1: Gọi ẩn.\n  Gọi khối lượng dung dịch 5% cần dùng là \\(x\\) (g).\n  Gọi khối lượng dung dịch 30% cần dùng là \\(y\\) (g).\n  (Điều kiện: \\(x, y > 0\\)).\n- Bước 2: Lập hệ phương trình.\n  + Phương trình về tổng khối lượng dung dịch:\n    \\(x + y = 500\\) (1)\n  + Phương trình về khối lượng muối nguyên chất:\n    Khối lượng muối trong dung dịch 5%: \\(0.05x\\)\n    Khối lượng muối trong dung dịch 30%: \\(0.30y\\)\n    Khối lượng muối trong dung dịch 25% cuối cùng: \\(0.25 \\times 500 = 125\\) (g)\n    Ta có phương trình: \\(0.05x + 0.30y = 125\\) (2)\n- Bước 3: Giải hệ phương trình (1) và (2).\n  Từ (1) \\(\\Rightarrow x = 500 - y\\). Thế vào (2):\n  \\(0.05(500 - y) + 0.30y = 125\\)\n  \\(\\Leftrightarrow 25 - 0.05y + 0.30y = 125\\)\n  \\(\\Leftrightarrow 0.25y = 100\\)\n  \\(\\Leftrightarrow y = 400\\).\n  Suy ra \\(x = 500 - 400 = 100\\).\n- Bước 4: Kết luận.\n  Cần trộn 100g dung dịch 5% và 400g dung dịch 30%.",
+    "difficulty": "Vận dụng cao"
+  },
+  {
+  "learning_object": "LO-00011",
+  "question_text": "Một đội xe dự định dùng một số xe cùng loại để chở 120 tấn hàng. Lúc sắp làm việc, do có 5 xe bị điều đi làm việc khác, nên để hoàn thành công việc, mỗi xe còn lại phải chở thêm 2 tấn hàng so với dự định. Hỏi lúc đầu đội xe có bao nhiêu chiếc?",
+  "suggested_solution": "Đây là bài toán năng suất, giải bằng cách lập hệ phương trình.\n\n**Lời giải:**\n\n- **Bước 1: Gọi ẩn và đặt điều kiện.**\n  Gọi số xe lúc đầu là \\(x\\) (chiếc).\n  Gọi số tấn hàng mỗi xe dự định chở là \\(y\\) (tấn/xe).\n  Điều kiện: \\(x\\) nguyên dương, \\(x > 5\\), \\(y > 0\\).\n\n- **Bước 2: Lập hệ phương trình.**\n  Theo dự định, đội xe chở 120 tấn hàng, ta có phương trình:\n  \\(xy = 120\\) (1)\n  Thực tế, số xe là \\(x-5\\) (chiếc) và mỗi xe phải chở \\(y+2\\) (tấn).\n  Ta có phương trình:\n  \\((x-5)(y+2) = 120\\) (2)\n\n- **Bước 3: Giải hệ phương trình.**\n  Từ (2) ta có: \\(xy + 2x - 5y - 10 = 120\\) (3)\n  Thế (1) vào (3), ta được:\n  \\(120 + 2x - 5y - 10 = 120\\)\n  \\(\\Leftrightarrow 2x - 5y = 10\\)\n  \\(\\Leftrightarrow 2x = 10 + 5y \\Leftrightarrow x = \\frac{10 + 5y}{2}\\)\n\n  Thế biểu thức của \\(x\\) vào phương trình (1):\n  \\(\\left( \\frac{10 + 5y}{2} \\right) y = 120\\)\n  \\(\\Leftrightarrow (10 + 5y)y = 240\\)\n  \\(\\Leftrightarrow 10y + 5y^2 = 240\\)\n  \\(\\Leftrightarrow 5y^2 + 10y - 240 = 0\\)\n  \\(\\Leftrightarrow y^2 + 2y - 48 = 0\\)\n\n- **Bước 4: Giải phương trình bậc hai cho y.**\n  Ta có \\(\\Delta' = 1^2 - 1(-48) = 1 + 48 = 49 = 7^2\\).\n  Phương trình có hai nghiệm phân biệt:\n  \\(y_1 = \\frac{-1 + 7}{1} = 6\\) (Thỏa mãn điều kiện \\(y > 0\\))\n  \\(y_2 = \\frac{-1 - 7}{1} = -8\\) (Loại vì \\(y < 0\\))\n\n- **Bước 5: Tìm x và kết luận.**\n  Với \\(y = 6\\), ta tìm \\(x\\) từ (1):\n  \\(x = \\frac{120}{y} = \\frac{120}{6} = 20\\).\n  Giá trị \\(x = 20\\) thỏa mãn điều kiện \\(x > 5\\).\n\n  **Đáp số:** Lúc đầu đội xe có 20 chiếc.",
+  "difficulty": "Vận dụng cao"
+  }
+]

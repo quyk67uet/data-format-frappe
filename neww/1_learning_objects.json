@@ -1,0 +1,90 @@
+[
+  {
+    "custom_lo_id": "LO-C1-01",
+    "learning_object_title": "Phương trình tích",
+    "cognitive_level": "Vận dụng",
+    "description": "Phân tích một vế của phương trình thành nhân tử để đưa về dạng A(x) * B(x) = 0.",
+    "objective": "Áp dụng được các phương pháp phân tích để giải được phương trình tích cơ bản.",
+    "lesson_title": "LESSON-00001"
+  },
+  {
+    "custom_lo_id": "LO-C1-02",
+    "learning_object_title": "Phương trình chứa ẩn ở mẫu",
+    "cognitive_level": "Vận dụng",
+    "description": "Các bước giải phương trình có chứa ẩn ở mẫu, bao gồm tìm điều kiện xác định và khử mẫu.",
+    "objective": "Xác định được điều kiện của phương trình và giải được phương trình sau khi khử mẫu.",
+    "lesson_title": "LESSON-00001"
+  },
+  {
+    "custom_lo_id": "LO-C1-03",
+    "learning_object_title": "Giải toán bằng cách lập phương trình",
+    "cognitive_level": "Vận dụng cao",
+    "description": "Quy trình chuyển đổi một bài toán có lời văn thành một phương trình toán học để tìm ra lời giải.",
+    "objective": "Phân tích được các đại lượng, thiết lập được phương trình và giải được bài toán hoàn chỉnh.",
+    "lesson_title": "LESSON-00001"
+  },
+  {
+    "custom_lo_id": "LO-C1-04",
+    "learning_object_title": "Khái niệm PTBN hai ẩn",
+    "cognitive_level": "Nhận biết",
+    "description": "Định nghĩa phương trình dạng ax + by = c và khái niệm nghiệm của nó.",
+    "objective": "Nhận biết được phương trình bậc nhất hai ẩn và kiểm tra được một cặp số (x, y) có phải là nghiệm hay không.",
+    "lesson_title": "LESSON-00002"
+  },
+  {
+    "custom_lo_id": "LO-C1-05",
+    "learning_object_title": "Tập nghiệm của PTBN hai ẩn",
+    "cognitive_level": "Thông hiểu",
+    "description": "Biểu diễn hình học tập nghiệm của phương trình bậc nhất hai ẩn là một đường thẳng trên mặt phẳng tọa độ Oxy.",
+    "objective": "Biểu diễn được tập nghiệm của phương trình bậc nhất hai ẩn trên mặt phẳng tọa độ.",
+    "lesson_title": "LESSON-00002"
+  },
+  {
+    "custom_lo_id": "LO-C1-06",
+    "learning_object_title": "Khái niệm Hệ PTBN hai ẩn",
+    "cognitive_level": "Nhận biết",
+    "description": "Định nghĩa một hệ gồm hai phương trình bậc nhất hai ẩn và khái niệm nghiệm chung của hệ.",
+    "objective": "Nhận biết được khái niệm nghiệm của một hệ phương trình.",
+    "lesson_title": "LESSON-00002"
+  },
+  {
+    "custom_lo_id": "LO-C1-07",
+    "learning_object_title": "Phương pháp thế",
+    "cognitive_level": "Vận dụng",
+    "description": "Kỹ thuật rút một ẩn theo ẩn còn lại từ một phương trình và thay thế vào phương trình kia.",
+    "objective": "Vận dụng được phương pháp thế để tính được nghiệm của một hệ phương trình.",
+    "lesson_title": "LESSON-00002"
+  },
+  {
+    "custom_lo_id": "LO-C1-08",
+    "learning_object_title": "Phương pháp cộng đại số",
+    "cognitive_level": "Vận dụng",
+    "description": "Kỹ thuật nhân các vế của phương trình với hệ số thích hợp để triệt tiêu một ẩn khi cộng hoặc trừ hai phương trình.",
+    "objective": "Vận dụng được phương pháp cộng đại số để tính được nghiệm của một hệ phương trình.",
+    "lesson_title": "LESSON-00002"
+  },
+  {
+    "custom_lo_id": "LO-C1-09",
+    "learning_object_title": "Phương pháp đặt ẩn phụ (cho hệ PT)",
+    "cognitive_level": "Vận dụng",
+    "description": "Kỹ thuật đặt ẩn phụ để đưa một số hệ phương trình phức tạp về dạng hệ phương trình bậc nhất hai ẩn cơ bản.",
+    "objective": "Nhận dạng và giải được các hệ phương trình có thể quy về dạng bậc nhất bằng cách đặt ẩn phụ.",
+    "lesson_title": "LESSON-00002"
+  },
+  {
+    "custom_lo_id": "LO-C1-10",
+    "learning_object_title": "Sử dụng máy tính cầm tay (giải hệ PT)",
+    "cognitive_level": "Vận dụng",
+    "description": "Các bước sử dụng chức năng giải hệ phương trình trên máy tính cầm tay.",
+    "objective": "Sử dụng thành thạo máy tính cầm tay để kiểm tra hoặc tìm nhanh nghiệm của một hệ phương trình.",
+    "lesson_title": "LESSON-00002"
+  },
+  {
+    "custom_lo_id": "LO-C1-11",
+    "learning_object_title": "Giải toán bằng cách lập hệ phương trình",
+    "cognitive_level": "Vận dụng cao",
+    "description": "Quy trình chuyển đổi một bài toán có lời văn (thường có 2 đại lượng chưa biết) thành một hệ hai phương trình bậc nhất hai ẩn.",
+    "objective": "Phân tích được các đại lượng, thiết lập được hệ phương trình và giải được bài toán hoàn chỉnh.",
+    "lesson_title": "LESSON-00003"
+  }
+]

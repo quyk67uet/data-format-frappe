@@ -1,0 +1,138 @@
+[
+  {
+    "custom_lo_id": "LO-C3-01",
+    "learning_object_title": "Khái niệm căn bậc hai và căn bậc ba của số thực.",
+    "cognitive_level": "Nhận biết",
+    "description": "Khái niệm về căn bậc hai của số thực không âm và căn bậc ba của số thực.",
+    "objective": "Nhận biết được khái niệm về căn bậc hai của số thực không âm và căn bậc ba của số thực.",
+    "lesson_title": "Bài 1: Căn bậc hai và căn bậc ba của số thực."
+  },
+  {
+    "custom_lo_id": "LO-C3-02",
+    "learning_object_title": "Tìm căn bậc hai, căn bậc ba.",
+    "cognitive_level": "Thông hiểu",
+    "description": "Xác định giá trị căn bậc hai hoặc căn bậc ba của một số thực cho trước.",
+    "objective": "Tìm được căn bậc hai của số thực không âm và căn bậc ba của một số thực. Tính được giá trị (đúng hoặc gần đúng) căn bậc hai của một số hữu tỉ bằng máy tính cầm tay.",
+    "lesson_title": "Bài 1: Căn bậc hai và căn bậc ba của số thực."
+  },
+  {
+    "custom_lo_id": "LO-C3-03",
+    "learning_object_title": "So sánh căn bậc hai, căn bậc ba.",
+    "cognitive_level": "Thông hiểu",
+    "description": "Khi so sánh hai căn bậc hai hoặc hai căn bậc ba, ta có thể so sánh trực tiếp các số nằm trong căn.",
+    "objective": "So sánh được căn bậc hai của số thực không âm và so sánh được căn bậc ba của số thực.",
+    "lesson_title": "Bài 1: Căn bậc hai và căn bậc ba của số thực."
+  },
+  {
+    "custom_lo_id": "LO-C3-04",
+    "learning_object_title": "Căn bậc hai của một bình phương.",
+    "cognitive_level": "Thông hiểu",
+    "description": "Với mọi số thực a, căn bậc hai của bình phương của a bằng giá trị tuyệt đối của a.",
+    "objective": "Thực hiện được một số phép tính đơn giản về căn bậc hai của một bình phương.",
+    "lesson_title": "Bài 2: Một số phép tính về căn thức bậc hai của số thực."
+  },
+  {
+    "custom_lo_id": "LO-C3-05",
+    "learning_object_title": "Căn bậc hai của một tích.",
+    "cognitive_level": "Thông hiểu",
+    "description": "Căn bậc hai của một tích bằng tích các căn bậc hai của từng thừa số.",
+    "objective": "Thực hiện được một số phép tính đơn giản về căn bậc hai của một tích.",
+    "lesson_title": "Bài 2: Một số phép tính về căn thức bậc hai của số thực."
+  },
+  {
+    "custom_lo_id": "LO-C3-06",
+    "learning_object_title": "Căn bậc hai của một thương.",
+    "cognitive_level": "Thông hiểu",
+    "description": "Căn thức bậc hai của một thương bằng thương các căn thức bậc hai của tử và mẫu.",
+    "objective": "Thực hiện được một số phép tính đơn giản về căn bậc hai của một thương.",
+    "lesson_title": "Bài 2: Một số phép tính về căn thức bậc hai của số thực."
+  },
+  {
+    "custom_lo_id": "LO-C3-07",
+    "learning_object_title": "Đưa thừa số ra ngoài dấu căn bậc hai.",
+    "cognitive_level": "Thông hiểu",
+    "description": "Tách phần bình phương hoàn chỉnh khỏi biểu thức trong căn để rút gọn căn thức.",
+    "objective": "Thực hiện được một số phép tính đơn giản về đưa thừa số ra ngoài dấu căn bậc hai.",
+    "lesson_title": "Bài 2: Một số phép tính về căn thức bậc hai của số thực."
+  },
+  {
+    "custom_lo_id": "LO-C3-08",
+    "learning_object_title": "Đưa thừa số vào trong dấu căn bậc hai.",
+    "cognitive_level": "Thông hiểu",
+    "description": "Biến đổi ngược lại: chuyển thừa số ngoài căn vào trong dấu căn để thuận tiện tính toán.",
+    "objective": "Thực hiện được một số phép tính đơn giản về đưa thừa số vào trong dấu căn bậc hai.",
+    "lesson_title": "Bài 2: Một số phép tính về căn thức bậc hai của số thực."
+  },
+  {
+    "custom_lo_id": "LO-C3-09",
+    "learning_object_title": "Ứng dụng.",
+    "cognitive_level": "Vận dụng",
+    "description": "Đưa được bài toán thực tế về một phương trình toán và sử dụng một số phép tính đơn giản về căn bậc hai của số thực không âm (căn bậc hai của một bình phương, căn bậc hai của một tích, căn bậc hai của một thương, đưa thừa số ra ngoài dấu căn bậc hai, đưa thừa số vào trong dấu căn bậc hai) làm cho phương trình đó trở nên đơn giản hơn.",
+    "objective": "Vận dụng được một số phép tính đơn giản về căn bậc hai của số thực không âm (căn bậc hai của một bình phương, căn bậc hai của một tích, căn bậc hai của một thương, đưa thừa số ra ngoài dấu căn bậc hai, đưa thừa số vào trong dấu căn bậc hai) để giải quyết các bài toán thực tế.",
+    "lesson_title": "Bài 2: Một số phép tính về căn thức bậc hai của số thực."
+  },
+  {
+    "custom_lo_id": "LO-C3-10",
+    "learning_object_title": "Tính giá trị biểu thức tại giá trị cho trước.",
+    "cognitive_level": "Thông hiểu",
+    "description": "Thay giá trị cụ thể vào căn thức để tính giá trị biểu thức đại số có chứa căn.",
+    "objective": "Nhận biết được khái niệm về căn thức bậc hai và căn thức bậc ba của một biểu thức đại số. Tính được giá trị biểu thức tại giá trị cho trước.",
+    "lesson_title": "Bài 3: Căn thức bậc hai và căn thức bậc ba của biểu thức đại số."
+  },
+  {
+    "custom_lo_id": "LO-C3-11",
+    "learning_object_title": "Tìm điều kiện để căn thức bậc hai có nghĩa.",
+    "cognitive_level": "Thông hiểu",
+    "description": "Điều kiện để căn thức bậc hai có nghĩa: biểu thức dưới dấu căn phải không âm.",
+    "objective": "Tìm được điều kiện xác định của căn thức bậc hai hoặc căn thức bậc ba.",
+    "lesson_title": "Bài 3: Căn thức bậc hai và căn thức bậc ba của biểu thức đại số."
+  },
+  {
+    "custom_lo_id": "LO-C3-12",
+    "learning_object_title": "Căn thức bậc hai của một bình phương.",
+    "cognitive_level": "Vận dụng",
+    "description": "Căn thức bậc hai của 1 bình phương bằng chính số đó nếu số đó không âm, và bằng số đối của nó nếu số đó âm.",
+    "objective": "Thực hiện được một số phép tính đơn giản về căn bậc hai của một bình phương.",
+    "lesson_title": "Bài 4: Một số phép biến đổi căn thức bậc hai của biểu thức đại số."
+  },
+  {
+    "custom_lo_id": "LO-C3-13",
+    "learning_object_title": "Căn thức bậc hai của một tích.",
+    "cognitive_level": "Vận dụng",
+    "description": "Căn thức bậc hai của một tích bằng tích các căn thức bậc hai của từng thừa số.",
+    "objective": "Thực hiện được một số phép tính đơn giản về căn bậc hai của một tích.",
+    "lesson_title": "Bài 4: Một số phép biến đổi căn thức bậc hai của biểu thức đại số."
+  },
+  {
+    "custom_lo_id": "LO-C3-14",
+    "learning_object_title": "Căn thức bậc hai của một thương.",
+    "cognitive_level": "Vận dụng",
+    "description": "Căn thức bậc hai của một thương bằng thương các căn thức bậc hai của tử và mẫu.",
+    "objective": "Thực hiện được một số phép tính đơn giản về căn bậc hai của một thương.",
+    "lesson_title": "Bài 4: Một số phép biến đổi căn thức bậc hai của biểu thức đại số."
+  },
+  {
+    "custom_lo_id": "LO-C3-15",
+    "learning_object_title": "Trục căn thức ở mẫu.",
+    "cognitive_level": "Vận dụng",
+    "description": "Để trục căn thức ở mẫu của một phân thức, ta nhân cả tử và mẫu của phân thức đó với lượng liên hợp của mẫu.",
+    "objective": "Thực hiện được một số phép tính đơn giản về trục căn thức ở mẫu.",
+    "lesson_title": "Bài 4: Một số phép biến đổi căn thức bậc hai của biểu thức đại số."
+  },
+  {
+    "custom_lo_id": "LO-C3-16",
+    "learning_object_title": "Rút gọn biểu thức.",
+    "cognitive_level": "Vận dụng",
+    "description": "Thực hiện các phép biến đổi căn thức bậc hai của biểu thức đại số.",
+    "objective": "Vận dụng được các phéo biến đổi căn thức bậc hai của biểu thức đại số để rút gọn biểu thức.",
+    "lesson_title": "Bài 4: Một số phép biến đổi căn thức bậc hai của biểu thức đại số."
+  },
+  {
+    "custom_lo_id": "LO-C3-17",
+    "learning_object_title": "Ứng dụng.",
+    "cognitive_level": "Vận dụng",
+    "description": "Đưa được bài toán thực tế thành biểu thức đại số và sử dụng một số phép tính đơn giản về căn bậc hai của số thực không âm (căn bậc hai của một bình phương, căn bậc hai của một tích, căn bậc hai của một thương, đưa thừa số ra ngoài dấu căn bậc hai, đưa thừa số vào trong dấu căn bậc hai) làm cho biểu thức đó trở nên đơn giản hơn.",
+    "objective": "Vận dụng được một số phép tính đơn giản về căn bậc hai của số thực không âm (căn bậc hai của một bình phương, căn bậc hai của một tích, căn bậc hai của một thương, đưa thừa số ra ngoài dấu căn bậc hai, đưa thừa số vào trong dấu căn bậc hai) để giải quyết các bài toán thực tế.",
+    "lesson_title": "Bài 4: Một số phép biến đổi căn thức bậc hai của biểu thức đại số."
+  }
+]
