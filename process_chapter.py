@@ -86,13 +86,13 @@ def process_chapter_data(csv_file_path, master_lessons_filepath):
         chapter_prefix = chapter_num_match.group(1) if chapter_num_match else "output"
 
         # Ghi tệp lessons cho chương hiện tại
-        lessons_output_filename = f"{chapter_prefix}-lessons.json"
+        lessons_output_filename = f"/content/drive/MyDrive/isy_data/{chapter_prefix}-lessons.json"
         with open(lessons_output_filename, 'w', encoding='utf-8') as f:
             json.dump(lessons_for_this_chapter, f, ensure_ascii=False, indent=2)
         print(f"Tạo thành công tệp '{lessons_output_filename}'")
 
         # Ghi tệp learning objects đã được ánh xạ
-        lo_output_filename = f"{chapter_prefix}-learning_object.json"
+        lo_output_filename = f"/content/drive/MyDrive/isy_data/{chapter_prefix}-learning_object.json"
         with open(lo_output_filename, 'w', encoding='utf-8') as f:
             json.dump(learning_objects, f, ensure_ascii=False, indent=2)
         print(f"Tạo thành công tệp '{lo_output_filename}' với lesson_id đã được ánh xạ.")
@@ -105,10 +105,10 @@ def process_chapter_data(csv_file_path, master_lessons_filepath):
 # --- Sử dụng ---
 
 # Đường dẫn đến tệp CSV của chương bạn muốn xử lý
-csv_input_path = 'chuong-8.csv' 
+csv_input_path = '/content/drive/MyDrive/isy_data/chuong-1.csv' 
 
 # Đường dẫn đến tệp JSON "tổng" chứa tất cả ID của các bài học
-master_lessons_file = 'lessons_with_ids.json'
+master_lessons_file = '/content/drive/MyDrive/isy_data/lessons_with_ids.json'
 
 # Gọi hàm để xử lý tệp
 process_chapter_data(csv_input_path, master_lessons_file)

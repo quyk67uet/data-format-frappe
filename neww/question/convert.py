@@ -37,6 +37,6 @@ def convert_questions_json_to_csv(json_file_path, csv_file_path):
 
 
 # Ví dụ về cách gọi hàm
-json_input_path = '2_questions.json'
-csv_output_path = 'questions_2.csv'
+json_input_path = '8_questions.json'
+csv_output_path = 'questions_8.csv'
 convert_questions_json_to_csv(json_input_path, csv_output_path)

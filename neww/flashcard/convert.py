@@ -79,6 +79,6 @@ def convert_json_to_csv_for_frappe(json_file_path, csv_file_path):
         print(f"Đã xảy ra lỗi: {e}")
 
 # --- Hướng dẫn sử dụng ---
-json_input_path = '2_flashcards.json'
-csv_output_path = 'flashcard_2.csv'
+json_input_path = '8_flashcards.json'
+csv_output_path = 'flashcard_8.csv'
 convert_json_to_csv_for_frappe(json_input_path, csv_output_path)

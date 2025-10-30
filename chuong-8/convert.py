@@ -2,8 +2,8 @@ import json
 import csv
 
 # File đầu vào và đầu ra
-input_file = "questions.json"
-output_file = "questions.csv"
+input_file = "8-lessons.json"
+output_file = "8-lessons.csv"
 
 # Đọc dữ liệu từ JSON
 with open(input_file, "r", encoding="utf-8") as f:

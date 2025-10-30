@@ -1,0 +1,884 @@
+[
+  {
+    "flashcard_type": "Khái niệm/Định lý/Công thức",
+    "topic_id": 8,
+    "learning_object": "LO-C8-01",
+    "level": "Nhận biết",
+    "question": "Đường tròn đi qua ba đỉnh của một tam giác được gọi là gì?",
+    "answer": "Đường tròn đi qua ba đỉnh của một tam giác được gọi là đường tròn ngoại tiếp tam giác đó.",
+    "explanation": "Đây là định nghĩa cơ bản về đường tròn ngoại tiếp một tam giác. Khi đó, ta cũng nói tam giác đó nội tiếp đường tròn.",
+    "hint": "Tên của đường tròn này có liên quan đến vị trí của nó so với tam giác."
+  },
+  {
+    "flashcard_type": "Điền vào chỗ trống",
+    "topic_id": 8,
+    "learning_object": "LO-C8-01",
+    "level": "Nhận biết",
+    "question": "Tâm đường tròn ngoại tiếp tam giác là giao điểm ba đường __________ của tam giác đó.",
+    "answer": "trung trực",
+    "explanation": "Vì tâm đường tròn ngoại tiếp cách đều ba đỉnh của tam giác, nên nó phải nằm trên đường trung trực của mỗi cạnh. Do đó, nó là giao điểm của cả ba đường trung trực.",
+    "hint": "Đường thẳng nào vuông góc với một cạnh tại trung điểm của cạnh đó?"
+  },
+  {
+    "flashcard_type": "Khái niệm/Định lý/Công thức",
+    "topic_id": 8,
+    "learning_object": "LO-C8-01",
+    "level": "Nhận biết",
+    "question": "Đối với tam giác vuông, tâm của đường tròn ngoại tiếp nằm ở đâu và bán kính được tính như thế nào?",
+    "answer": "Đường tròn ngoại tiếp tam giác vuông có tâm là trung điểm của cạnh huyền và bán kính bằng nửa cạnh huyền.",
+    "explanation": "Đây là một tính chất đặc biệt của tam giác vuông nội tiếp đường tròn. Góc vuông là góc nội tiếp chắn nửa đường tròn, do đó cạnh huyền chính là đường kính.",
+    "hint": "Hãy nhớ lại mối quan hệ giữa góc nội tiếp \\(90^\\circ\\) và cung bị chắn."
+  },
+  {
+    "flashcard_type": "Khái niệm/Định lý/Công thức",
+    "topic_id": 8,
+    "learning_object": "LO-C8-01",
+    "level": "Nhận biết",
+    "question": "Công thức tính bán kính \\(R\\) của đường tròn ngoại tiếp tam giác đều cạnh \\(a\\) là gì?",
+    "answer": "\\[R = \\frac{{a\\sqrt 3 }}{3}\\]",
+    "explanation": "Trong tam giác đều, tâm đường tròn ngoại tiếp trùng với trọng tâm. Khoảng cách từ trọng tâm đến mỗi đỉnh bằng \\(\\frac{2}{3}\\) độ dài đường trung tuyến. Đường trung tuyến trong tam giác đều cạnh \\(a\\) là \\(\\frac{{a\\sqrt 3 }}{2}\\), do đó \\(R = \\frac{2}{3} \\cdot \\frac{{a\\sqrt 3 }}{2} = \\frac{{a\\sqrt 3 }}{3}\\).",
+    "hint": "Bán kính này bằng 2/3 độ dài đường cao của tam giác đều."
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-01",
+    "level": "Thông hiểu",
+    "question": "Cho tam giác \\(ABC\\) vuông tại \\(A\\) có cạnh huyền \\(BC = 12\\) cm. Tìm tâm và bán kính của đường tròn ngoại tiếp tam giác \\(ABC\\).",
+    "answer": "Tâm của đường tròn ngoại tiếp tam giác \\(ABC\\) là trung điểm của cạnh huyền \\(BC\\).\nBán kính của đường tròn là:\n\\(R = \\frac{{BC}}{2} = \\frac{{12}}{2} = 6\\) (cm).",
+    "explanation": "Áp dụng tính chất đặc biệt của đường tròn ngoại tiếp tam giác vuông: tâm là trung điểm cạnh huyền, bán kính bằng nửa cạnh huyền.",
+    "hint": "Cạnh huyền của tam giác vuông có vai trò gì trong đường tròn ngoại tiếp?"
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-01",
+    "level": "Thông hiểu",
+    "question": "Tính bán kính đường tròn ngoại tiếp một tam giác đều có độ dài cạnh là \\(6\\) cm.",
+    "answer": "Áp dụng công thức tính bán kính đường tròn ngoại tiếp tam giác đều cạnh \\(a\\), ta có:\n\\(R = \\frac{{a\\sqrt 3 }}{3} = \\frac{{6\\sqrt 3 }}{3} = 2\\sqrt 3\\) (cm).",
+    "explanation": "Thay độ dài cạnh \\(a = 6\\) cm vào công thức \\(R = \\frac{{a\\sqrt 3 }}{3}\\) để tìm bán kính.",
+    "hint": "Sử dụng công thức tính nhanh bán kính đường tròn ngoại tiếp tam giác đều."
+  },
+  {
+    "flashcard_type": "Bước tiếp theo là gì?",
+    "topic_id": 8,
+    "learning_object": "LO-C8-01",
+    "level": "Thông hiểu",
+    "question": "Để xác định tâm \\(O\\) của đường tròn ngoại tiếp tam giác \\(ABC\\), bạn An đã dùng thước và compa vẽ đường trung trực của cạnh \\(AB\\). Bước tiếp theo bạn An cần làm là gì?",
+    "answer": "Bước tiếp theo là vẽ đường trung trực của một cạnh khác, ví dụ cạnh \\(AC\\). Giao điểm của hai đường trung trực này chính là tâm \\(O\\) cần tìm.",
+    "explanation": "Tâm đường tròn ngoại tiếp là giao điểm của ba đường trung trực. Tuy nhiên, ta chỉ cần xác định giao điểm của hai trong ba đường là đủ.",
+    "hint": "Tâm \\(O\\) phải nằm trên tất cả các đường trung trực, vậy ta cần ít nhất mấy đường để xác định giao điểm?"
+  },
+  {
+    "flashcard_type": "Tìm lỗi sai",
+    "topic_id": 8,
+    "learning_object": "LO-C8-01",
+    "level": "Thông hiểu",
+    "question": "Để tìm bán kính đường tròn ngoại tiếp tam giác đều cạnh \\(a\\), một bạn lập luận: \"Bán kính bằng khoảng cách từ tâm đến trung điểm một cạnh\". Lập luận này đúng hay sai?",
+    "answer": "Sai.",
+    "explanation": "Bán kính đường tròn ngoại tiếp tam giác bằng khoảng cách từ tâm đến mỗi đỉnh của tam giác. Khoảng cách từ tâm đến trung điểm một cạnh là bán kính đường tròn nội tiếp tam giác đều.",
+    "hint": "Bán kính đường tròn ngoại tiếp được tính từ tâm đến đâu của tam giác?"
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-01",
+    "level": "Vận dụng",
+    "question": "Cho tam giác \\(ABC\\) vuông tại \\(A\\), biết \\(AB = 6\\) cm và \\(AC = 8\\) cm. Tính bán kính \\(R\\) của đường tròn ngoại tiếp tam giác này.",
+    "answer": "Xét tam giác \\(ABC\\) vuông tại A, áp dụng định lí Pythagore:\n\\(B{C^2} = A{B^2} + A{C^2}\\)\n\\(B{C^2} = {6^2} + {8^2} = 36 + 64 = 100\\)\n\\(BC = \\sqrt{100} = 10\\) (cm)\nVì tam giác \\(ABC\\) vuông tại \\(A\\) nên bán kính đường tròn ngoại tiếp là:\n\\(R = \\frac{{BC}}{2} = \\frac{{10}}{2} = 5\\) (cm).",
+    "explanation": "Đầu tiên, ta cần tìm độ dài cạnh huyền bằng định lí Pythagore. Sau đó, áp dụng công thức tính bán kính đường tròn ngoại tiếp tam giác vuông.",
+    "hint": "Làm thế nào để tính cạnh huyền khi biết hai cạnh góc vuông?"
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-01",
+    "level": "Vận dụng",
+    "question": "Một mảnh vườn hình tam giác đều có khoảng cách từ trọng tâm đến mỗi đỉnh là \\(5\\sqrt{3}\\) m. Tính chu vi của mảnh vườn đó.",
+    "answer": "Trong tam giác đều, trọng tâm cũng là tâm đường tròn ngoại tiếp. Khoảng cách từ trọng tâm đến mỗi đỉnh chính là bán kính \\(R\\) của đường tròn ngoại tiếp.\nTa có \\(R = 5\\sqrt{3}\\) m.\nÁp dụng công thức \\(R = \\frac{{a\\sqrt 3 }}{3}\\), ta có:\n\\(5\\sqrt 3  = \\frac{{a\\sqrt 3 }}{3}\\)\n\\(5 = \\frac{a}{3}\\)\n\\(a = 15\\) (m)\nChu vi của mảnh vườn là:\n\\(P = 3a = 3 \\cdot 15 = 45\\) (m).",
+    "explanation": "Từ bán kính đường tròn ngoại tiếp cho trước, ta sử dụng công thức \\(R = \\frac{{a\\sqrt 3 }}{3}\\) để tìm độ dài cạnh \\(a\\) của tam giác đều. Sau đó, tính chu vi bằng cách nhân độ dài cạnh với 3.",
+    "hint": "Trong tam giác đều, trọng tâm có trùng với tâm đường tròn ngoại tiếp không?"
+  },
+  {
+    "flashcard_type": "Khái niệm/Định lý/Công thức",
+    "topic_id": 8,
+    "learning_object": "LO-C8-02",
+    "level": "Nhận biết",
+    "question": "Thế nào là đường tròn nội tiếp một tam giác?",
+    "answer": "Đường tròn tiếp xúc với ba cạnh của một tam giác được gọi là đường tròn nội tiếp tam giác đó.",
+    "explanation": "Đây là định nghĩa được nêu trong Sách giáo khoa. 'Nội tiếp' có nghĩa là nằm bên trong và tiếp xúc với các cạnh.",
+    "hint": "Vị trí của đường tròn này so với ba cạnh của tam giác là gì?"
+  },
+  {
+    "flashcard_type": "Điền vào chỗ trống",
+    "topic_id": 8,
+    "learning_object": "LO-C8-02",
+    "level": "Nhận biết",
+    "question": "Tâm đường tròn nội tiếp tam giác là giao điểm của ba đường __________ của các góc trong tam giác đó.",
+    "answer": "phân giác",
+    "explanation": "Tâm đường tròn nội tiếp cách đều ba cạnh của tam giác. Theo tính chất đường phân giác của một góc, điểm nằm trên đường phân giác thì cách đều hai cạnh tạo thành góc đó. Do đó, giao điểm ba đường phân giác sẽ cách đều cả ba cạnh.",
+    "hint": "Đường nào chia một góc thành hai góc bằng nhau?"
+  },
+  {
+    "flashcard_type": "Khái niệm/Định lý/Công thức",
+    "topic_id": 8,
+    "learning_object": "LO-C8-02",
+    "level": "Nhận biết",
+    "question": "Trong một tam giác đều, tâm đường tròn nội tiếp có trùng với trọng tâm của tam giác không?",
+    "answer": "Có. Trong một tam giác đều, trọng tâm của tam giác đồng thời là tâm đường tròn nội tiếp tam giác đó.",
+    "explanation": "Do tính đối xứng của tam giác đều, các đường trung tuyến, đường cao, đường phân giác, đường trung trực đều trùng nhau. Vì vậy, trọng tâm, trực tâm, tâm đường tròn nội tiếp và tâm đường tròn ngoại tiếp đều trùng nhau.",
+    "hint": "Hãy nhớ lại các tính chất đặc biệt của tam giác đều."
+  },
+  {
+    "flashcard_type": "Khái niệm/Định lý/Công thức",
+    "topic_id": 8,
+    "learning_object": "LO-C8-02",
+    "level": "Nhận biết",
+    "question": "Nêu công thức tính bán kính \\(r\\) của đường tròn nội tiếp một tam giác đều có độ dài cạnh là \\(a\\).",
+    "answer": "Công thức tính bán kính đường tròn nội tiếp tam giác đều cạnh \\(a\\) là:\n\\[r = \\frac{{a\\sqrt 3 }}{6}\\]",
+    "explanation": "Trong tam giác đều, bán kính đường tròn nội tiếp bằng 1/3 độ dài đường trung tuyến (cũng là đường cao). Mà đường trung tuyến của tam giác đều cạnh \\(a\\) là \\(\\frac{{a\\sqrt 3 }}{2}\\). Do đó \\(r = \\frac{1}{3} \\cdot \\frac{{a\\sqrt 3 }}{2} = \\frac{{a\\sqrt 3 }}{6}\\).",
+    "hint": "Bán kính này bằng một phần ba độ dài đường cao của tam giác."
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-02",
+    "level": "Thông hiểu",
+    "question": "Tính bán kính đường tròn nội tiếp của một tam giác đều có cạnh là 12 m.",
+    "answer": "Áp dụng công thức tính bán kính đường tròn nội tiếp tam giác đều cạnh \\(a = 12\\) m:\n\\[r = \\frac{{12\\sqrt 3 }}{6}\\]\n\\[r = 2\\sqrt 3 \\; (m)\\]",
+    "explanation": "Ta thay độ dài cạnh \\(a = 12\\) vào công thức \\(r = \\frac{{a\\sqrt 3 }}{6}\\) và rút gọn để được kết quả.",
+    "hint": "Sử dụng công thức tính bán kính đường tròn nội tiếp tam giác đều đã học."
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-02",
+    "level": "Thông hiểu",
+    "question": "Cho bán kính đường tròn nội tiếp một tam giác đều bằng \\(4\\) cm. Tính độ dài cạnh của tam giác đều đó.",
+    "answer": "Gọi \\(a\\) là độ dài cạnh của tam giác đều. Ta có công thức:\n\\(r = \\frac{{a\\sqrt 3 }}{6}\\)\nThay \\(r = 4\\) cm vào công thức, ta có:\n\\(4 = \\frac{{a\\sqrt 3 }}{6}\\)\n\\(a\\sqrt 3 = 4 \\cdot 6\\)\n\\(a\\sqrt 3 = 24\\)\n\\(a = \\frac{{24}}{{\\sqrt 3 }} = 8\\sqrt 3\\) (cm).\nVậy cạnh của tam giác đều đó là \\(8\\sqrt 3\\) cm.",
+    "explanation": "Từ công thức tính bán kính \\(r\\) theo cạnh \\(a\\), ta có thể suy ra công thức tính cạnh \\(a\\) theo bán kính \\(r\\). Sau đó thay giá trị của \\(r\\) vào để tìm \\(a\\).",
+    "hint": "Sử dụng công thức \\(r = \\frac{{a\\sqrt 3 }}{6}\\) và giải phương trình để tìm \\(a\\)."
+  },
+  {
+    "flashcard_type": "Bước tiếp theo là gì?",
+    "topic_id": 8,
+    "learning_object": "LO-C8-02",
+    "level": "Thông hiểu",
+    "question": "Để vẽ đường tròn nội tiếp tam giác ABC, bạn đã xác định được tâm I là giao điểm hai đường phân giác của góc B và góc C. Bước tiếp theo để vẽ đường tròn là gì?",
+    "answer": "Bước tiếp theo là dùng ê ke vẽ đường vuông góc \\(IM\\) từ \\(I\\) đến một cạnh bất kỳ (ví dụ cạnh \\(BC\\)). Sau đó, dùng compa vẽ đường tròn tâm \\(I\\) bán kính \\(IM\\).",
+    "explanation": "Sau khi có tâm \\(I\\), ta cần xác định bán kính \\(r\\). Bán kính đường tròn nội tiếp là khoảng cách từ tâm đến một cạnh. Do đó, ta cần kẻ đường vuông góc từ \\(I\\) xuống một cạnh để xác định bán kính này.",
+    "hint": "Làm thế nào để xác định bán kính sau khi đã có tâm?"
+  },
+  {
+    "flashcard_type": "Tìm lỗi sai",
+    "topic_id": 8,
+    "learning_object": "LO-C8-02",
+    "level": "Thông hiểu",
+    "question": "Một bạn học sinh nói rằng: \"Bán kính đường tròn nội tiếp tam giác là khoảng cách từ tâm đến một đỉnh của tam giác\". Phát biểu này đúng hay sai? Vì sao?",
+    "answer": "Phát biểu này sai.",
+    "explanation": "Bán kính đường tròn nội tiếp tam giác là khoảng cách từ tâm đến mỗi cạnh của tam giác. Khoảng cách từ tâm đến một đỉnh là bán kính của đường tròn ngoại tiếp tam giác.",
+    "hint": "Đường tròn nội tiếp tiếp xúc với đỉnh hay với cạnh của tam giác?"
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-02",
+    "level": "Thông hiểu",
+    "question": "Làm thế nào để xác định tâm của đường tròn nội tiếp một tam giác bất kì bằng thước và compa?",
+    "answer": "Để xác định tâm đường tròn nội tiếp tam giác, ta làm như sau:\n- Dùng compa và thước để vẽ đường phân giác của hai góc bất kì trong tam giác.\n- Giao điểm của hai đường phân giác đó chính là tâm của đường tròn nội tiếp.",
+    "explanation": "Tâm đường tròn nội tiếp là giao điểm của ba đường phân giác. Ta chỉ cần vẽ hai đường là đủ để xác định giao điểm của chúng.",
+    "hint": "Tâm đường tròn nội tiếp là giao điểm của các đường đặc biệt nào trong tam giác?"
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-02",
+    "level": "Thông hiểu",
+    "question": "Cho tam giác đều \\(ABC\\) nội tiếp đường tròn tâm \\(O\\). Đường tròn này có phải là đường tròn nội tiếp của một tam giác nào khác không?",
+    "answer": "Không. Đường tròn tâm \\(O\\) là đường tròn ngoại tiếp tam giác \\(ABC\\). Đường tròn nội tiếp tam giác \\(ABC\\) cũng có tâm \\(O\\) nhưng bán kính nhỏ hơn và tiếp xúc với ba cạnh của tam giác.",
+    "explanation": "Cần phân biệt rõ hai khái niệm: đường tròn nội tiếp (tiếp xúc với 3 cạnh) và đường tròn ngoại tiếp (đi qua 3 đỉnh). Mặc dù trong tam giác đều chúng có cùng tâm nhưng là hai đường tròn khác nhau.",
+    "hint": "Đường tròn đi qua ba đỉnh của tam giác \\(ABC\\) được gọi là gì?"
+  },
+  {
+    "flashcard_type": "Khái niệm/Định lý/Công thức",
+    "topic_id": 8,
+    "learning_object": "LO-C8-03",
+    "level": "Nhận biết",
+    "question": "Trong một tam giác đều, tâm đường tròn ngoại tiếp, tâm đường tròn nội tiếp và trọng tâm của tam giác có mối quan hệ với nhau như thế nào?",
+    "answer": "Trong một tam giác đều, trọng tâm của tam giác đồng thời là tâm đường tròn ngoại tiếp và tâm đường tròn nội tiếp tam giác đó.",
+    "explanation": "Do tính đối xứng đặc biệt của tam giác đều, các đường trung tuyến, đường phân giác, đường trung trực, đường cao đều trùng nhau. Do đó, giao điểm của chúng (trọng tâm, tâm nội tiếp, tâm ngoại tiếp, trực tâm) cũng trùng nhau.",
+    "hint": "Hãy nhớ lại các đường đồng quy đặc biệt trong tam giác đều."
+  },
+  {
+    "flashcard_type": "Khái niệm/Định lý/Công thức",
+    "topic_id": 8,
+    "learning_object": "LO-C8-03",
+    "level": "Nhận biết",
+    "question": "Với một tam giác đều cạnh \\(a\\), bán kính đường tròn ngoại tiếp \\(R\\) và bán kính đường tròn nội tiếp \\(r\\) liên hệ với nhau theo tỉ lệ nào?",
+    "answer": "\\(R = 2r\\)",
+    "explanation": "Ta có công thức \\(R = \\frac{{a\\sqrt 3 }}{3}\\) và \\(r = \\frac{{a\\sqrt 3 }}{6}\\). Lập tỉ số, ta có \\(\\frac{R}{r} = \\frac{{\\frac{{a\\sqrt 3 }}{3}}}{{\\frac{{a\\sqrt 3 }}{6}}} = 2\\).",
+    "hint": "Hãy so sánh hai công thức tính \\(R\\) và \\(r\\) của tam giác đều."
+  },
+  {
+    "flashcard_type": "Điền vào chỗ trống",
+    "topic_id": 8,
+    "learning_object": "LO-C8-03",
+    "level": "Nhận biết",
+    "question": "Tâm của đường tròn ngoại tiếp tam giác vuông là __________ của cạnh huyền.",
+    "answer": "trung điểm",
+    "explanation": "Trong một tam giác vuông, góc vuông là góc nội tiếp chắn nửa đường tròn. Do đó, cạnh đối diện với góc vuông (cạnh huyền) chính là đường kính của đường tròn ngoại tiếp. Tâm của đường tròn là trung điểm của đường kính.",
+    "hint": "Cạnh huyền của tam giác vuông có vai trò gì đối với đường tròn ngoại tiếp?"
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-03",
+    "level": "Nhận biết",
+    "question": "Quan sát một tam giác tù được vẽ trong sách giáo khoa, hãy cho biết tâm của đường tròn ngoại tiếp tam giác tù nằm ở vị trí nào so với tam giác đó (bên trong, trên cạnh hay bên ngoài)?",
+    "answer": "Tâm của đường tròn ngoại tiếp tam giác tù nằm ở bên ngoài tam giác đó.",
+    "explanation": "Đối với tam giác tù, giao điểm của ba đường trung trực (tâm đường tròn ngoại tiếp) luôn nằm ở phía ngoài của tam giác.",
+    "hint": "Hãy xem lại hình vẽ về cách xác định tâm đường tròn ngoại tiếp cho tam giác có góc tù."
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-03",
+    "level": "Thông hiểu",
+    "question": "Cho tam giác \\(ABC\\) vuông tại \\(A\\) có cạnh huyền \\(BC = 15\\) cm. Đường tròn \\((O)\\) ngoại tiếp tam giác \\(ABC\\). Tính độ dài đoạn thẳng \\(OA\\).",
+    "answer": "Tâm \\(O\\) của đường tròn ngoại tiếp tam giác vuông \\(ABC\\) là trung điểm của cạnh huyền \\(BC\\).\nBán kính của đường tròn là \\(R = OA = OB = OC\\).\nTa có:\n\\(R = \\frac{{BC}}{2} = \\frac{{15}}{2} = 7,5\\) (cm).\nVậy \\(OA = 7,5\\) cm.",
+    "explanation": "Đoạn thẳng \\(OA\\) là khoảng cách từ tâm \\(O\\) đến đỉnh \\(A\\), chính là bán kính của đường tròn ngoại tiếp. Trong tam giác vuông, bán kính này bằng một nửa cạnh huyền.",
+    "hint": "Đoạn thẳng nối tâm đường tròn ngoại tiếp với một đỉnh của tam giác là gì?"
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-03",
+    "level": "Thông hiểu",
+    "question": "Một tam giác đều \\(ABC\\) có bán kính đường tròn ngoại tiếp \\(R = 6\\) cm. Tính độ dài cạnh của tam giác đó.",
+    "answer": "Gọi \\(a\\) là độ dài cạnh của tam giác đều \\(ABC\\).\nTa có công thức bán kính đường tròn ngoại tiếp:\n\\(R = \\frac{{a\\sqrt 3 }}{3}\\)\nThay \\(R = 6\\) cm vào công thức:\n\\(6 = \\frac{{a\\sqrt 3 }}{3}\\)\n\\(a\\sqrt 3 = 18\\)\n\\(a = \\frac{{18}}{{\\sqrt 3 }} = 6\\sqrt 3\\) (cm).\nVậy cạnh của tam giác đều là \\(6\\sqrt 3\\) cm.",
+    "explanation": "Sử dụng công thức liên hệ giữa bán kính đường tròn ngoại tiếp và cạnh của tam giác đều, ta có thể tìm được độ dài cạnh khi biết bán kính.",
+    "hint": "Công thức tính \\(R\\) theo \\(a\\) trong tam giác đều là gì?"
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-03",
+    "level": "Thông hiểu",
+    "question": "Một mảnh vườn hình tam giác đều \\(ABC\\) cạnh \\(12\\) m. Người ta trồng hoa trên phần đất là hình tròn nội tiếp tam giác. Tính diện tích phần đất trồng hoa đó.",
+    "answer": "Gọi \\(r\\) là bán kính đường tròn nội tiếp tam giác đều.\nTa có công thức:\n\\(r = \\frac{{a\\sqrt 3 }}{6} = \\frac{{12\\sqrt 3 }}{6} = 2\\sqrt 3\\) (m).\nDiện tích phần đất trồng hoa là diện tích hình tròn bán kính \\(r\\):\n\\(S = \\pi {r^2} = \\pi {\\left( {2\\sqrt 3 } \\right)^2} = 12\\pi \\; ({m^2})\\).",
+    "explanation": "Để tính diện tích hình tròn, trước hết ta cần tìm bán kính \\(r\\) của nó. Ta sử dụng công thức tính bán kính đường tròn nội tiếp tam giác đều cạnh \\(a\\). Sau đó áp dụng công thức tính diện tích hình tròn \\(S = \\pi r^2\\).",
+    "hint": "Bạn cần tính gì trước khi có thể tính diện tích hình tròn?"
+  },
+  {
+    "flashcard_type": "Tìm lỗi sai",
+    "topic_id": 8,
+    "learning_object": "LO-C8-03",
+    "level": "Vận dụng",
+    "question": "Để tính cạnh của một tam giác đều ngoại tiếp đường tròn có bán kính \\(r = 2\\) cm, một bạn đã làm như sau:\n\\(r = \\frac{{a\\sqrt 3 }}{3}\\)\n\\(2 = \\frac{{a\\sqrt 3 }}{3}\\)\n\\(a = \\frac{6}{{\\sqrt 3 }} = 2\\sqrt 3\\) (cm).\nLập luận của bạn sai ở đâu?",
+    "answer": "Bạn đã áp dụng sai công thức.",
+    "explanation": "Công thức \\(r = \\frac{{a\\sqrt 3 }}{3}\\) là công thức tính bán kính đường tròn ngoại tiếp (R). Công thức đúng cho bán kính đường tròn nội tiếp là \\(r = \\frac{{a\\sqrt 3 }}{6}\\).\nSửa lại:\n\\(2 = \\frac{{a\\sqrt 3 }}{6}\\)\n\\(a\\sqrt 3 = 12\\)\n\\(a = \\frac{{12}}{{\\sqrt 3 }} = 4\\sqrt 3\\) (cm).",
+    "hint": "Hãy kiểm tra lại công thức tính bán kính đường tròn nội tiếp và ngoại tiếp tam giác đều."
+  },
+  {
+    "flashcard_type": "Sắp xếp các bước",
+    "topic_id": 8,
+    "learning_object": "LO-C8-03",
+    "level": "Vận dụng",
+    "question": "Sắp xếp các bước sau để tính diện tích hình tròn ngoại tiếp một tam giác vuông có hai cạnh góc vuông là 3 cm và 4 cm.",
+    "answer": "Thứ tự đúng của các bước đảm bảo quy trình giải toán logic, đi từ các yếu tố đã biết đến kết quả cuối cùng.",
+    "explanation": "Để tính diện tích hình tròn, ta cần biết bán kính của nó. Để tính bán kính đường tròn ngoại tiếp tam giác vuông, ta cần biết độ dài cạnh huyền. Do đó, quy trình hợp lí là:\n1. Tính cạnh huyền.\n2. Từ cạnh huyền, suy ra bán kính.\n3. Từ bán kính, tính diện tích hình tròn.",
+    "hint": "Để tính diện tích hình tròn, bạn cần biết thông số nào đầu tiên?",
+    "ordering_steps_items": [
+      {
+        "step_content": "Tính bán kính \\(R = \\frac{5}{2} = 2,5\\) cm.",
+        "correct_order": 2
+      },
+      {
+        "step_content": "Tính diện tích hình tròn \\(S = \\pi R^2 = \\pi \\cdot (2,5)^2 = 6,25\\pi\\) cm².",
+        "correct_order": 3
+      },
+      {
+        "step_content": "Dùng định lí Pythagore tính cạnh huyền: \\(\\sqrt{3^2 + 4^2} = 5\\) cm.",
+        "correct_order": 1
+      }
+    ]
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-03",
+    "level": "Vận dụng",
+    "question": "Cho tam giác đều \\(ABC\\) cạnh \\(a\\). Gọi \\((O; R)\\) là đường tròn ngoại tiếp và \\((O; r)\\) là đường tròn nội tiếp. Tính diện tích của hình vành khuyên giới hạn bởi hai đường tròn này theo \\(a\\).",
+    "answer": "Bán kính đường tròn ngoại tiếp là \\(R = \\frac{{a\\sqrt 3 }}{3}\\).\nBán kính đường tròn nội tiếp là \\(r = \\frac{{a\\sqrt 3 }}{6}\\).\nDiện tích hình vành khuyên là hiệu diện tích của hai hình tròn:\n\\(S = \\pi {R^2} - \\pi {r^2} = \\pi ({R^2} - {r^2})\\)\n\\(S = \\pi \\left[ {{{\\left( {\\frac{{a\\sqrt 3 }}{3}} \\right)}^2} - {{\\left( {\\frac{{a\\sqrt 3 }}{6}} \\right)}^2}} \\right]\\)\n\\(S = \\pi \\left( {\\frac{{3{a^2}}}{9} - \\frac{{3{a^2}}}{{36}}} \\right) = \\pi \\left( {\\frac{{{a^2}}}{3} - \\frac{{{a^2}}}{{12}}} \\right)\\)\n\\(S = \\pi \\left( {\\frac{{4{a^2} - {a^2}}}{{12}}} \\right) = \\frac{{3\\pi {a^2}}}{{12}} = \\frac{{\\pi {a^2}}}{4}\\).",
+    "explanation": "Bài toán yêu cầu tính diện tích hình vành khuyên, tức là lấy diện tích hình tròn lớn (ngoại tiếp) trừ đi diện tích hình tròn nhỏ (nội tiếp). Ta cần áp dụng công thức tính \\(R\\) và \\(r\\) theo \\(a\\) của tam giác đều, sau đó thay vào công thức tính diện tích.",
+    "hint": "Diện tích hình vành khuyên được tính như thế nào từ diện tích hai hình tròn?"
+  },
+  {
+    "flashcard_type": "Khái niệm/Định lý/Công thức",
+    "topic_id": 8,
+    "learning_object": "LO-C8-04",
+    "level": "Nhận biết",
+    "question": "Nêu định lí về tính chất của một tứ giác nội tiếp đường tròn.",
+    "answer": "Trong một tứ giác nội tiếp đường tròn, tổng số đo hai góc đối diện bằng \\(180^\\circ\\).",
+    "explanation": "Đây là tính chất cơ bản và quan trọng nhất của tứ giác nội tiếp, cho phép ta tìm được số đo các góc khi biết một số thông tin nhất định.",
+    "hint": "Tính chất này liên quan đến tổng của các cặp góc nào trong tứ giác?"
+  },
+  {
+    "flashcard_type": "Điền vào chỗ trống",
+    "topic_id": 8,
+    "learning_object": "LO-C8-04",
+    "level": "Nhận biết",
+    "question": "Nếu tứ giác \\(ABCD\\) nội tiếp một đường tròn thì \\(\\widehat A + \\widehat C = ...\\) và \\(\\widehat B + \\widehat D = ...\\)",
+    "answer": "\\(180^\\circ\\) và \\(180^\\circ\\)",
+    "explanation": "Theo định lí về tứ giác nội tiếp, tổng số đo của hai góc đối diện luôn bằng \\(180^\\circ\\).",
+    "hint": "Tổng số đo hai góc đối diện trong một tứ giác nội tiếp là bao nhiêu?"
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-04",
+    "level": "Nhận biết",
+    "question": "Một hình chữ nhật có phải là một tứ giác nội tiếp không? Vì sao?",
+    "answer": "Có. Mọi hình chữ nhật là một tứ giác nội tiếp đường tròn.",
+    "explanation": "Hình chữ nhật có bốn góc vuông. Tổng hai góc đối diện bất kỳ đều bằng \\(90^\\circ + 90^\\circ = 180^\\circ\\), thỏa mãn dấu hiệu nhận biết tứ giác nội tiếp.",
+    "hint": "Tổng hai góc đối của hình chữ nhật bằng bao nhiêu độ?"
+  },
+  {
+    "flashcard_type": "Khái niệm/Định lý/Công thức",
+    "topic_id": 8,
+    "learning_object": "LO-C8-04",
+    "level": "Nhận biết",
+    "question": "Thế nào là một tứ giác nội tiếp?",
+    "answer": "Tứ giác có bốn đỉnh thuộc một đường tròn được gọi là tứ giác nội tiếp đường tròn.",
+    "explanation": "Đây là định nghĩa cơ bản. Điều này có nghĩa là có một đường tròn duy nhất đi qua cả bốn đỉnh của tứ giác đó.",
+    "hint": "Các đỉnh của tứ giác này có vị trí như thế nào so với một đường tròn?"
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-04",
+    "level": "Thông hiểu",
+    "question": "Cho tứ giác \\(ABCD\\) nội tiếp đường tròn. Biết \\(\\widehat B = 115^\\circ\\). Tính số đo góc \\(\\widehat D\\).",
+    "answer": "Vì \\(ABCD\\) là tứ giác nội tiếp nên ta có:\n\\(\\widehat B + \\widehat D = 180^\\circ\\)\n\\(115^\\circ + \\widehat D = 180^\\circ\\)\n\\(\\widehat D = 180^\\circ - 115^\\circ\\)\n\\(\\widehat D = 65^\\circ\\)",
+    "explanation": "Áp dụng định lí về tổng hai góc đối diện của tứ giác nội tiếp bằng \\(180^\\circ\\) để tìm số đo góc còn lại.",
+    "hint": "Góc \\(\\widehat B\\) và góc \\(\\widehat D\\) có mối quan hệ gì?"
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-04",
+    "level": "Thông hiểu",
+    "question": "Cho tứ giác nội tiếp \\(MNPQ\\) có \\(\\widehat M = 70^\\circ\\) và \\(\\widehat N = 100^\\circ\\). Tính số đo các góc \\(\\widehat P\\) và \\(\\widehat Q\\).",
+    "answer": "Vì \\(MNPQ\\) là tứ giác nội tiếp nên:\n\\(\\widehat M + \\widehat P = 180^\\circ\\)\n\\(70^\\circ + \\widehat P = 180^\\circ\\)\n\\(\\widehat P = 110^\\circ\\)\n\n\\(\\widehat N + \\widehat Q = 180^\\circ\\)\n\\(100^\\circ + \\widehat Q = 180^\\circ\\)\n\\(\\widehat Q = 80^\\circ\\)",
+    "explanation": "Ta áp dụng tính chất tổng hai góc đối bằng \\(180^\\circ\\) cho cả hai cặp góc đối diện (\\(\\widehat M, \\widehat P\\) và \\(\\widehat N, \\widehat Q\\)) để tìm các góc còn lại.",
+    "hint": "Xác định các cặp góc đối diện trong tứ giác \\(MNPQ\\)."
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-04",
+    "level": "Thông hiểu",
+    "question": "Một tứ giác nội tiếp có số đo một góc là \\(\\alpha\\). Tìm số đo góc đối diện với nó theo \\(\\alpha\\).",
+    "answer": "Số đo góc đối diện với nó là \\(180^\\circ - \\alpha\\).",
+    "explanation": "Theo định lí, tổng số đo hai góc đối diện của một tứ giác nội tiếp luôn bằng \\(180^\\circ\\). Do đó, nếu một góc là \\(\\alpha\\), góc đối diện phải là \\(180^\\circ - \\alpha\\).",
+    "hint": "Tổng của góc đã cho và góc cần tìm bằng bao nhiêu?"
+  },
+  {
+    "flashcard_type": "Tìm lỗi sai",
+    "topic_id": 8,
+    "learning_object": "LO-C8-04",
+    "level": "Thông hiểu",
+    "question": "Một bạn học sinh tính số đo góc \\(\\widehat C\\) của tứ giác nội tiếp \\(ABCD\\) khi biết \\(\\widehat B = 80^\\circ\\) như sau: \"Vì \\(ABCD\\) là tứ giác nội tiếp nên hai góc kề bù, suy ra \\(\\widehat C = 180^\\circ - 80^\\circ = 100^\\circ\\)\". Lập luận này sai ở đâu?",
+    "answer": "Lập luận sai ở chỗ cho rằng hai góc kề là bù nhau.",
+    "explanation": "Tính chất của tứ giác nội tiếp là hai góc đối diện bù nhau, không phải hai góc kề nhau. Để tìm \\(\\widehat C\\), ta cần biết số đo của góc đối diện với nó là \\(\\widehat A\\).",
+    "hint": "Tính chất của tứ giác nội tiếp áp dụng cho cặp góc nào?"
+  },
+  {
+    "flashcard_type": "Bước tiếp theo là gì?",
+    "topic_id": 8,
+    "learning_object": "LO-C8-04",
+    "level": "Thông hiểu",
+    "question": "Cho tứ giác \\(ABCD\\) nội tiếp đường tròn. Để tìm số đo của góc \\(\\widehat A\\), ta đã biết số đo của góc \\(\\widehat C\\). Bước tiếp theo là gì?",
+    "answer": "Bước tiếp theo là lập phương trình \\(\\widehat A + \\widehat C = 180^\\circ\\) và thay số đo đã biết của \\(\\widehat C\\) vào để tìm \\(\\widehat A\\).",
+    "explanation": "Vì \\(\\widehat A\\) và \\(\\widehat C\\) là hai góc đối diện trong một tứ giác nội tiếp, ta sử dụng ngay định lí về tổng hai góc đối để thiết lập mối quan hệ và tìm góc chưa biết.",
+    "hint": "Mối quan hệ giữa hai góc đối diện trong tứ giác nội tiếp là gì?"
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-04",
+    "level": "Thông hiểu",
+    "question": "Cho tứ giác \\(ABCD\\) nội tiếp đường tròn có \\(\\widehat A = 2\\widehat C\\). Tính số đo góc \\(\\widehat A\\) và \\(\\widehat C\\).",
+    "answer": "Vì \\(ABCD\\) là tứ giác nội tiếp nên ta có:\n\\(\\widehat A + \\widehat C = 180^\\circ\\)\nThay \\(\\widehat A = 2\\widehat C\\) vào phương trình:\n\\(2\\widehat C + \\widehat C = 180^\\circ\\)\n\\(3\\widehat C = 180^\\circ\\)\n\\(\\widehat C = 60^\\circ\\)\nDo đó, \\(\\widehat A = 2\\widehat C = 2 \\cdot 60^\\circ = 120^\\circ\\).",
+    "explanation": "Ta sử dụng đồng thời hai thông tin: giả thiết \\(\\widehat A = 2\\widehat C\\) và tính chất tổng hai góc đối của tứ giác nội tiếp bằng \\(180^\\circ\\) để lập một phương trình theo một ẩn (\\(\\widehat C\\)), từ đó giải ra số đo các góc.",
+    "hint": "Bạn có hai phương trình liên quan đến \\(\\widehat A\\) và \\(\\widehat C\\). Hãy giải hệ phương trình đó."
+  },
+  {
+    "flashcard_type": "Khái niệm/Định lý/Công thức",
+    "topic_id": 8,
+    "learning_object": "LO-C8-04",
+    "level": "Nhận biết",
+    "question": "Phát biểu tính chất về tổng số đo hai góc đối diện của một tứ giác nội tiếp.",
+    "answer": "Trong một tứ giác nội tiếp đường tròn, tổng số đo hai góc đối diện bằng \\(180^\\circ\\).",
+    "explanation": "Đây là tính chất cơ bản và quan trọng nhất của tứ giác nội tiếp. Ví dụ, nếu tứ giác ABCD nội tiếp thì \\(\\widehat{A} + \\widehat{C} = 180^\\circ\\) và \\(\\widehat{B} + \\widehat{D} = 180^\\circ\\).",
+    "hint": "Hai góc đối diện trong tứ giác nội tiếp có mối quan hệ gì về tổng số đo?"
+  },
+  {
+    "flashcard_type": "Điền vào chỗ trống",
+    "topic_id": 8,
+    "learning_object": "LO-C8-04",
+    "level": "Nhận biết",
+    "question": "Trong một tứ giác nội tiếp, tổng số đo hai góc đối diện bằng __________.",
+    "answer": "\\(180^\\circ\\)",
+    "explanation": "Theo tính chất của tứ giác nội tiếp được nêu trong Sách giáo khoa Toán 9 Tập 2, tổng số đo của hai góc đối diện luôn bằng \\(180^\\circ\\).",
+    "hint": "Tổng ba góc trong một tam giác là bao nhiêu độ?"
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-04",
+    "level": "Nhận biết",
+    "question": "Cho tứ giác ABCD nội tiếp đường tròn. Góc nào đối diện với góc \\(\\widehat{A}\\)?",
+    "answer": "Góc đối diện với góc \\(\\widehat{A}\\) là góc \\(\\widehat{C}\\).",
+    "explanation": "Trong tứ giác ABCD, các cặp đỉnh đối diện là A và C, B và D. Do đó, cặp góc đối diện là \\(\\widehat{A}\\) và \\(\\widehat{C}\\), \\(\\widehat{B}\\) và \\(\\widehat{D}\\).",
+    "hint": "Đỉnh nào không kề với đỉnh A trong tứ giác?"
+  },
+  {
+    "flashcard_type": "Bước tiếp theo là gì?",
+    "topic_id": 8,
+    "learning_object": "LO-C8-04",
+    "level": "Nhận biết",
+    "question": "Cho tứ giác ABCD nội tiếp đường tròn. Ta có hệ thức \\(\\widehat{B} + \\widehat{D} = 180^\\circ\\). Biết \\(\\widehat{B} = 95^\\circ\\), bước tiếp theo để tìm \\(\\widehat{D}\\) là gì?",
+    "answer": "Bước tiếp theo là thay số đo của \\(\\widehat{B}\\) vào hệ thức và giải tìm \\(\\widehat{D}\\). Cụ thể: \\(95^\\circ + \\widehat{D} = 180^\\circ\\).",
+    "explanation": "Sau khi có hệ thức liên hệ giữa hai góc đối, ta chỉ cần thay giá trị đã biết vào để tìm giá trị còn lại bằng cách thực hiện phép trừ.",
+    "hint": "Làm thế nào để tìm một số hạng khi biết tổng và số hạng còn lại?"
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-04",
+    "level": "Thông hiểu",
+    "question": "Cho tứ giác ABCD nội tiếp đường tròn có \\(\\widehat{A} = 60^\\circ\\). Tính số đo góc \\(\\widehat{C}\\).",
+    "answer": "Vì ABCD là tứ giác nội tiếp nên tổng hai góc đối bằng \\(180^\\circ\\).\nTa có:\n\\(\\widehat{A} + \\widehat{C} = 180^\\circ\\)\n\\(60^\\circ + \\widehat{C} = 180^\\circ\\)\n\\(\\widehat{C} = 180^\\circ - 60^\\circ\\)\n\\(\\widehat{C} = 120^\\circ\\).",
+    "explanation": "Áp dụng trực tiếp tính chất tổng hai góc đối của tứ giác nội tiếp bằng \\(180^\\circ\\) để tìm góc \\(\\widehat{C}\\) khi biết góc \\(\\widehat{A}\\).",
+    "hint": "Góc \\(\\widehat{A}\\) và \\(\\widehat{C}\\) có mối quan hệ gì?"
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-04",
+    "level": "Thông hiểu",
+    "question": "Cho tứ giác MNPQ nội tiếp đường tròn. Biết \\(\\widehat{M} = 95^\\circ\\) và \\(\\widehat{N} = 67^\\circ\\). Tính số đo góc \\(\\widehat{P}\\) và \\(\\widehat{Q}\\).",
+    "answer": "Vì MNPQ là tứ giác nội tiếp nên ta có:\n\\(\\widehat{M} + \\widehat{P} = 180^\\circ\\)\n\\(95^\\circ + \\widehat{P} = 180^\\circ\\)\n\\(\\widehat{P} = 180^\\circ - 95^\\circ = 85^\\circ\\)\n\n\\(\\widehat{N} + \\widehat{Q} = 180^\\circ\\)\n\\(67^\\circ + \\widehat{Q} = 180^\\circ\\)\n\\(\\widehat{Q} = 180^\\circ - 67^\\circ = 113^\\circ\\).",
+    "explanation": "Ta áp dụng tính chất tổng hai góc đối bằng \\(180^\\circ\\) cho cả hai cặp góc đối diện (M và P, N và Q) để tìm các góc còn lại.",
+    "hint": "Xác định đúng các cặp góc đối diện trong tứ giác MNPQ."
+  },
+  {
+    "flashcard_type": "Tìm lỗi sai",
+    "topic_id": 8,
+    "learning_object": "LO-C8-04",
+    "level": "Thông hiểu",
+    "question": "Cho tứ giác ABCD nội tiếp đường tròn. Một bạn học sinh kết luận: \\(\\widehat{A} + \\widehat{B} = 180^\\circ\\). Kết luận này đúng hay sai? Vì sao?",
+    "answer": "Kết luận này sai.",
+    "explanation": "Tính chất của tứ giác nội tiếp là tổng hai góc ĐỐI DIỆN bằng \\(180^\\circ\\). Góc \\(\\widehat{A}\\) và \\(\\widehat{B}\\) là hai góc kề nhau, không phải đối diện. Hệ thức đúng phải là \\(\\widehat{A} + \\widehat{C} = 180^\\circ\\) và \\(\\widehat{B} + \\widehat{D} = 180^\\circ\\).",
+    "hint": "Góc \\(\\widehat{A}\\) và \\(\\widehat{B}\\) có phải là hai góc đối diện không?"
+  },
+  {
+    "flashcard_type": "Tìm lỗi sai",
+    "topic_id": 8,
+    "learning_object": "LO-C8-04",
+    "level": "Thông hiểu",
+    "question": "Để tìm góc \\(\\widehat{D}\\) của tứ giác nội tiếp ABCD khi biết \\(\\widehat{B} = 103^\\circ\\), một bạn giải như sau:\n\\(\\widehat{B} + \\widehat{D} = 180^\\circ\\)\n\\(\\widehat{D} = 180^\\circ + 103^\\circ = 283^\\circ\\)\nLời giải trên sai ở đâu?",
+    "answer": "Lời giải sai ở phép tính cuối cùng.",
+    "explanation": "Từ \\(\\widehat{B} + \\widehat{D} = 180^\\circ\\), để tìm \\(\\widehat{D}\\) ta phải thực hiện phép trừ: \\(\\widehat{D} = 180^\\circ - \\widehat{B}\\). Phép tính đúng là \\(\\widehat{D} = 180^\\circ - 103^\\circ = 77^\\circ\\).",
+    "hint": "Hãy kiểm tra lại quy tắc chuyển vế đổi dấu trong một phương trình."
+  },
+  {
+    "flashcard_type": "Bước tiếp theo là gì?",
+    "topic_id": 8,
+    "learning_object": "LO-C8-04",
+    "level": "Thông hiểu",
+    "question": "Cho tứ giác ABCD nội tiếp đường tròn, biết \\(\\widehat{A} = 2\\widehat{C}\\). Để tìm số đo \\(\\widehat{A}\\) và \\(\\widehat{C}\\), ta đã viết được phương trình \\(\\widehat{A} + \\widehat{C} = 180^\\circ\\). Bước tiếp theo là gì?",
+    "answer": "Bước tiếp theo là thế \\(\\widehat{A} = 2\\widehat{C}\\) vào phương trình \\(\\widehat{A} + \\widehat{C} = 180^\\circ\\) để được phương trình mới chỉ có một ẩn \\(\\widehat{C}\\): \\(2\\widehat{C} + \\widehat{C} = 180^\\circ\\).",
+    "explanation": "Ta có một hệ gồm hai phương trình với hai ẩn. Bước tiếp theo là dùng phương pháp thế để đưa hệ về một phương trình bậc nhất một ẩn, từ đó giải tìm được số đo của góc.",
+    "hint": "Làm thế nào để giải một phương trình có hai ẩn khi biết mối liên hệ giữa chúng?"
+  },
+  {
+    "flashcard_type": "Sắp xếp các bước",
+    "topic_id": 8,
+    "learning_object": "LO-C8-04",
+    "level": "Thông hiểu",
+    "question": "Sắp xếp các bước để tính góc \\(\\widehat{D}\\) của tứ giác nội tiếp ABCD, biết \\(\\widehat{B} = 115^\\circ\\).",
+    "answer": "Thứ tự đúng đảm bảo quy trình áp dụng tính chất và tính toán một cách logic.",
+    "explanation": "Để giải bài toán, đầu tiên phải nhận biết được dạng toán và tính chất cần dùng. Sau đó viết hệ thức toán học tương ứng, thay số và cuối cùng là tính toán để ra kết quả.",
+    "hint": "Luôn bắt đầu bằng việc xác định tính chất hình học cần áp dụng.",
+    "ordering_steps_items": [
+      {
+        "step_content": "Thay số đo đã biết của \\(\\widehat{B}\\) vào hệ thức: \\(115^\\circ + \\widehat{D} = 180^\\circ\\).",
+        "correct_order": 3
+      },
+      {
+        "step_content": "Xác định rằng ABCD là tứ giác nội tiếp và cần áp dụng tính chất về tổng hai góc đối.",
+        "correct_order": 1
+      },
+      {
+        "step_content": "Viết hệ thức liên hệ giữa hai góc đối \\(\\widehat{B}\\) và \\(\\widehat{D}\\): \\(\\widehat{B} + \\widehat{D} = 180^\\circ\\).",
+        "correct_order": 2
+      },
+      {
+        "step_content": "Tính \\(\\widehat{D} = 180^\\circ - 115^\\circ = 65^\\circ\\).",
+        "correct_order": 4
+      }
+    ]
+  },
+  {
+    "flashcard_type": "Khái niệm/Định lý/Công thức",
+    "topic_id": 8,
+    "learning_object": "LO-C8-05",
+    "level": "Nhận biết",
+    "question": "Phát biểu định lí về tính chất của các góc trong một tứ giác nội tiếp.",
+    "answer": "Trong một tứ giác nội tiếp đường tròn, tổng số đo hai góc đối diện bằng \\(180^\\circ\\).",
+    "explanation": "Đây là định lí cơ bản về tứ giác nội tiếp. Nếu tứ giác ABCD nội tiếp, ta có \\(\\widehat{A} + \\widehat{C} = 180^\\circ\\) và \\(\\widehat{B} + \\widehat{D} = 180^\\circ\\). (SGK Toán 9 Tập 2, trang 76)",
+    "hint": "Mối quan hệ giữa hai góc đối diện của tứ giác nội tiếp là gì?"
+  },
+  {
+    "flashcard_type": "Điền vào chỗ trống",
+    "topic_id": 8,
+    "learning_object": "LO-C8-05",
+    "level": "Nhận biết",
+    "question": "Một tứ giác có bốn đỉnh cùng thuộc một đường tròn được gọi là __________.",
+    "answer": "tứ giác nội tiếp đường tròn",
+    "explanation": "Đây là định nghĩa về tứ giác nội tiếp được nêu trong Sách giáo khoa Toán 9 Tập 2, trang 75.",
+    "hint": "Tên gọi này thể hiện vị trí của tứ giác so với đường tròn."
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-05",
+    "level": "Nhận biết",
+    "question": "Đường tròn đi qua bốn đỉnh của một tứ giác nội tiếp được gọi là gì?",
+    "answer": "Đường tròn đi qua bốn đỉnh của một tứ giác nội tiếp được gọi là đường tròn ngoại tiếp tứ giác đó.",
+    "explanation": "Theo chú ý trong Sách giáo khoa Toán 9 Tập 2, trang 75, khi một tứ giác nội tiếp một đường tròn, thì đường tròn đó được gọi là đường tròn ngoại tiếp tứ giác.",
+    "hint": "Tên gọi này ngược lại với 'nội tiếp'."
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-05",
+    "level": "Nhận biết",
+    "question": "Hình chữ nhật có phải luôn là một tứ giác nội tiếp không?",
+    "answer": "Có. Mỗi hình chữ nhật là một tứ giác nội tiếp đường tròn.",
+    "explanation": "Sách giáo khoa Toán 9 Tập 2, trang 76 khẳng định rằng mọi hình chữ nhật đều là tứ giác nội tiếp. Tâm của đường tròn ngoại tiếp hình chữ nhật là giao điểm của hai đường chéo.",
+    "hint": "Giao điểm hai đường chéo của hình chữ nhật có cách đều bốn đỉnh không?"
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-05",
+    "level": "Thông hiểu",
+    "question": "Cho tứ giác ABCD nội tiếp một đường tròn. Nếu \\(\\widehat{B} = 125^\\circ\\), tính số đo của \\(\\widehat{D}\\).",
+    "answer": "Vì tứ giác ABCD nội tiếp nên tổng hai góc đối diện bằng \\(180^\\circ\\).\nTa có:\n\\(\\widehat{B} + \\widehat{D} = 180^\\circ\\)\n\\(125^\\circ + \\widehat{D} = 180^\\circ\\)\n\\(\\widehat{D} = 180^\\circ - 125^\\circ\\)\n\\(\\widehat{D} = 55^\\circ\\).",
+    "explanation": "Áp dụng định lí về tổng hai góc đối của tứ giác nội tiếp. Góc \\(\\widehat{D}\\) đối diện với góc \\(\\widehat{B}\\), do đó tổng của chúng bằng \\(180^\\circ\\).",
+    "hint": "Góc \\(\\widehat{B}\\) và \\(\\widehat{D}\\) có phải là hai góc đối diện không?"
+  },
+  {
+    "flashcard_type": "Tìm lỗi sai",
+    "topic_id": 8,
+    "learning_object": "LO-C8-05",
+    "level": "Thông hiểu",
+    "question": "Một bạn khẳng định rằng vì tứ giác ABCD nội tiếp nên \\(\\widehat{A} + \\widehat{B} = 180^\\circ\\). Khẳng định này sai ở đâu?",
+    "answer": "Khẳng định này sai vì đã áp dụng tính chất cho hai góc kề nhau thay vì hai góc đối diện.",
+    "explanation": "Định lí phát biểu rằng tổng hai góc ĐỐI DIỆN bằng \\(180^\\circ\\). Trong tứ giác ABCD, \\(\\widehat{A}\\) và \\(\\widehat{B}\\) là hai góc kề nhau. Hệ thức đúng phải là \\(\\widehat{A} + \\widehat{C} = 180^\\circ\\) hoặc \\(\\widehat{B} + \\widehat{D} = 180^\\circ\\).",
+    "hint": "Định lí về tứ giác nội tiếp áp dụng cho cặp góc nào?"
+  },
+  {
+    "flashcard_type": "Bước tiếp theo là gì?",
+    "topic_id": 8,
+    "learning_object": "LO-C8-05",
+    "level": "Thông hiểu",
+    "question": "Cho tứ giác nội tiếp ABCD có \\(\\widehat{A} = x\\) và \\(\\widehat{C} = 2x\\). Bước đầu tiên là lập phương trình \\(x + 2x = 180^\\circ\\). Bước tiếp theo là gì?",
+    "answer": "Bước tiếp theo là giải phương trình vừa lập để tìm \\(x\\).\n\\(3x = 180^\\circ\\)\n\\(x = 60^\\circ\\).",
+    "explanation": "Sau khi thiết lập được phương trình dựa trên tính chất của tứ giác nội tiếp, ta cần giải phương trình đó để tìm giá trị của ẩn, từ đó suy ra số đo các góc.",
+    "hint": "Đây là một phương trình bậc nhất một ẩn, hãy tìm cách giải nó."
+  },
+  {
+    "flashcard_type": "Sắp xếp các bước",
+    "topic_id": 8,
+    "learning_object": "LO-C8-05",
+    "level": "Thông hiểu",
+    "question": "Sắp xếp các luận điểm sau để giải thích tại sao tổng hai góc đối \\(\\widehat{A}\\) và \\(\\widehat{C}\\) của tứ giác nội tiếp ABCD bằng \\(180^\\circ\\).",
+    "answer": "Thứ tự đúng là B → A → D → C.",
+    "explanation": "Việc giải thích định lí dựa trên định lí về góc nội tiếp. Ta phải xác định các cung bị chắn bởi hai góc đối (B), nhận thấy hai cung này tạo thành cả đường tròn (A), sau đó áp dụng định lí góc nội tiếp cho từng góc (D) và cuối cùng cộng lại để ra kết quả (C).",
+    "hint": "Hãy bắt đầu bằng việc xác định các cung tròn liên quan đến góc \\(\\widehat{A}\\) và \\(\\widehat{C}\\).",
+    "ordering_steps_items": [
+      {
+        "step_content": "Hai cung BCD và DAB tạo thành cả đường tròn, nên tổng số đo của chúng là \\(360^\\circ\\).",
+        "correct_order": 2
+      },
+      {
+        "step_content": "Góc \\(\\widehat{A}\\) là góc nội tiếp chắn cung BCD, góc \\(\\widehat{C}\\) là góc nội tiếp chắn cung DAB.",
+        "correct_order": 1
+      },
+      {
+        "step_content": "Suy ra \\(\\widehat{A} + \\widehat{C} = \\frac{1}{2} \\text{sđ cung BCD} + \\frac{1}{2} \\text{sđ cung DAB} = \\frac{1}{2} (360^\\circ) = 180^\\circ\\).",
+        "correct_order": 4
+      },
+      {
+        "step_content": "Áp dụng định lí về góc nội tiếp: \\(\\widehat{A} = \\frac{1}{2}\\) sđ cung BCD và \\(\\widehat{C} = \\frac{1}{2}\\) sđ cung DAB.",
+        "correct_order": 3
+      }
+    ]
+  },
+  {
+    "flashcard_type": "Tìm lỗi sai",
+    "topic_id": 8,
+    "learning_object": "LO-C8-05",
+    "level": "Vận dụng",
+    "question": "Bạn Nam xác định tâm đường tròn ngoại tiếp hình vuông ABCD là trung điểm của cạnh AB. Bạn Nam đã sai ở đâu?",
+    "answer": "Bạn Nam đã xác định sai vị trí của tâm.",
+    "explanation": "Theo Sách giáo khoa Toán 9 Tập 2, trang 77, tâm của đường tròn ngoại tiếp hình vuông là giao điểm của hai đường chéo. Giao điểm này cách đều cả bốn đỉnh, trong khi trung điểm cạnh AB chỉ cách đều hai đỉnh A và B.",
+    "hint": "Tâm đường tròn ngoại tiếp một đa giác phải có tính chất gì?"
+  },
+  {
+    "flashcard_type": "Bước tiếp theo là gì?",
+    "topic_id": 8,
+    "learning_object": "LO-C8-05",
+    "level": "Vận dụng",
+    "question": "Cho tứ giác nội tiếp ABCD có \\(\\widehat{A} = 75^\\circ\\) và \\(\\widehat{B} = 95^\\circ\\). Ta đã tính được \\(\\widehat{C} = 180^\\circ - 75^\\circ = 105^\\circ\\). Bước tiếp theo để tìm góc cuối cùng, \\(\\widehat{D}\\), là gì?",
+    "answer": "Bước tiếp theo là áp dụng định lí tổng hai góc đối cho cặp góc còn lại (\\(\\widehat{B}\\) và \\(\\widehat{D}\\)) để tìm \\(\\widehat{D}\\).\n\\(\\widehat{B} + \\widehat{D} = 180^\\circ\\)\n\\(95^\\circ + \\widehat{D} = 180^\\circ\\)\n\\(\\widehat{D} = 85^\\circ\\).",
+    "explanation": "Một tứ giác nội tiếp có hai cặp góc đối diện. Sau khi sử dụng một cặp để tìm một góc, ta cần sử dụng cặp còn lại để tìm góc cuối cùng. Một cách khác là lấy \\(360^\\circ\\) trừ đi tổng ba góc đã biết.",
+    "hint": "Còn cặp góc đối diện nào trong tứ giác mà bạn chưa sử dụng?"
+  },
+  {
+    "flashcard_type": "Khái niệm/Định lý/Công thức",
+    "topic_id": 8,
+    "learning_object": "LO-C8-06",
+    "level": "Nhận biết",
+    "question": "Tâm và bán kính của đường tròn ngoại tiếp hình chữ nhật được xác định như thế nào?",
+    "answer": "Tâm của đường tròn ngoại tiếp hình chữ nhật là giao điểm của hai đường chéo. Bán kính bằng một nửa độ dài đường chéo.",
+    "explanation": "Vì hai đường chéo của hình chữ nhật bằng nhau và cắt nhau tại trung điểm của mỗi đường, nên giao điểm của chúng cách đều bốn đỉnh của hình chữ nhật. Khoảng cách này chính là bán kính.",
+    "hint": "Điểm nào trong hình chữ nhật cách đều bốn đỉnh của nó?"
+  },
+  {
+    "flashcard_type": "Điền vào chỗ trống",
+    "topic_id": 8,
+    "learning_object": "LO-C8-06",
+    "level": "Nhận biết",
+    "question": "Bán kính của đường tròn ngoại tiếp hình vuông cạnh \\(a\\) là \\(R = \\) __________.",
+    "answer": "\\(\\frac{{a\\sqrt 2 }}{2}\\)",
+    "explanation": "Đường chéo của hình vuông cạnh \\(a\\) có độ dài là \\(a\\sqrt 2\\). Bán kính đường tròn ngoại tiếp bằng một nửa đường chéo, do đó \\(R = \\frac{{a\\sqrt 2 }}{2}\\). (SGK Toán 9 Tập 2, trang 77)",
+    "hint": "Bán kính bằng một nửa đường chéo, và đường chéo của hình vuông được tính như thế nào?"
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-06",
+    "level": "Nhận biết",
+    "question": "Tâm của đường tròn ngoại tiếp hình vuông nằm ở đâu?",
+    "answer": "Tâm của đường tròn ngoại tiếp hình vuông là giao điểm của hai đường chéo.",
+    "explanation": "Tương tự hình chữ nhật, hai đường chéo của hình vuông bằng nhau và cắt nhau tại trung điểm mỗi đường, nên giao điểm của chúng cách đều bốn đỉnh. (SGK Toán 9 Tập 2, trang 77)",
+    "hint": "Vị trí này có giống với tâm đường tròn ngoại tiếp hình chữ nhật không?"
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-06",
+    "level": "Thông hiểu",
+    "question": "Một hình chữ nhật có độ dài đường chéo là 12 cm. Tính bán kính đường tròn ngoại tiếp hình chữ nhật đó.",
+    "answer": "Bán kính đường tròn ngoại tiếp hình chữ nhật bằng một nửa độ dài đường chéo.\n\\(R = \\frac{{12}}{2} = 6\\) (cm).",
+    "explanation": "Áp dụng trực tiếp tính chất: bán kính đường tròn ngoại tiếp hình chữ nhật bằng nửa đường chéo.",
+    "hint": "Mối quan hệ giữa bán kính và đường chéo của đường tròn ngoại tiếp hình chữ nhật là gì?"
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-06",
+    "level": "Thông hiểu",
+    "question": "Tính bán kính đường tròn ngoại tiếp một hình vuông có cạnh dài 8 cm.",
+    "answer": "Áp dụng công thức tính bán kính đường tròn ngoại tiếp hình vuông cạnh \\(a\\):\n\\(R = \\frac{{a\\sqrt 2 }}{2}\\)\nVới \\(a = 8\\) cm, ta có:\n\\(R = \\frac{{8\\sqrt 2 }}{2} = 4\\sqrt 2\\) (cm).",
+    "explanation": "Ta chỉ cần thay giá trị độ dài cạnh \\(a=8\\) vào công thức \\(R = \\frac{{a\\sqrt 2 }}{2}\\) và rút gọn.",
+    "hint": "Sử dụng công thức tính bán kính đường tròn ngoại tiếp hình vuông đã học."
+  },
+  {
+    "flashcard_type": "Bước tiếp theo là gì?",
+    "topic_id": 8,
+    "learning_object": "LO-C8-06",
+    "level": "Thông hiểu",
+    "question": "Để tính bán kính đường tròn ngoại tiếp hình chữ nhật có chiều dài 8 cm và chiều rộng 6 cm, ta đã dùng định lí Pythagore và tính được độ dài đường chéo là 10 cm. Bước tiếp theo là gì?",
+    "answer": "Bước tiếp theo là tính bán kính bằng cách lấy độ dài đường chéo chia cho 2.\n\\(R = \\frac{{10}}{2} = 5\\) (cm).",
+    "explanation": "Sau khi đã có độ dài đường chéo, ta áp dụng tính chất bán kính đường tròn ngoại tiếp hình chữ nhật bằng một nửa đường chéo để tìm kết quả.",
+    "hint": "Bán kính đường tròn ngoại tiếp hình chữ nhật bằng bao nhiêu phần của đường chéo?"
+  },
+  {
+    "flashcard_type": "Bước tiếp theo là gì?",
+    "topic_id": 8,
+    "learning_object": "LO-C8-06",
+    "level": "Thông hiểu",
+    "question": "Biết bán kính đường tròn ngoại tiếp một hình vuông là \\(R = 3\\sqrt{2}\\) cm. Để tìm cạnh hình vuông, ta lập phương trình \\(3\\sqrt{2} = \\frac{a\\sqrt{2}}{2}\\). Bước tiếp theo là gì?",
+    "answer": "Bước tiếp theo là giải phương trình để tìm \\(a\\).\n\\(3\\sqrt{2} \\cdot 2 = a\\sqrt{2}\\)\n\\(6\\sqrt{2} = a\\sqrt{2}\\)\n\\(a = 6\\) (cm).",
+    "explanation": "Sau khi thiết lập được phương trình từ công thức bán kính, ta thực hiện các phép biến đổi đại số để giải tìm ẩn \\(a\\), là độ dài cạnh hình vuông.",
+    "hint": "Làm thế nào để tìm \\(a\\) từ phương trình đã cho?"
+  },
+  {
+    "flashcard_type": "Tìm lỗi sai",
+    "topic_id": 8,
+    "learning_object": "LO-C8-06",
+    "level": "Vận dụng",
+    "question": "Để tính bán kính đường tròn ngoại tiếp hình vuông có cạnh 10 cm, một bạn học sinh đã làm như sau: \"Bán kính bằng một nửa cạnh, vậy \\(R = \\frac{10}{2} = 5\\) cm\". Lời giải này sai ở đâu?",
+    "answer": "Lời giải này sai vì bạn học sinh đã nhầm lẫn giữa \"một nửa cạnh\" và \"một nửa đường chéo\".",
+    "explanation": "Bán kính đường tròn ngoại tiếp hình vuông bằng một nửa đường chéo, không phải một nửa cạnh. Cách tính đúng là:\nĐường chéo \\(d = 10\\sqrt 2\\) cm.\nBán kính \\(R = \\frac{{10\\sqrt 2 }}{2} = 5\\sqrt 2\\) cm.",
+    "hint": "Hãy xem lại định nghĩa bán kính đường tròn ngoại tiếp hình vuông."
+  },
+  {
+    "flashcard_type": "Tìm lỗi sai",
+    "topic_id": 8,
+    "learning_object": "LO-C8-06",
+    "level": "Vận dụng",
+    "question": "Một cửa ra vào hình chữ nhật có chiều dài 2 m và chiều rộng 1,2 m. Để tính bán kính đường tròn ngoại tiếp, một bạn tính \\(d^2 = 2^2 - 1,2^2\\). Phép tính này sai ở đâu?",
+    "answer": "Phép tính sai ở việc sử dụng dấu trừ \"-\" thay vì dấu cộng \"+\" trong định lí Pythagore.",
+    "explanation": "Đường chéo của hình chữ nhật là cạnh huyền của tam giác vuông tạo bởi chiều dài và chiều rộng. Theo định lí Pythagore, bình phương cạnh huyền bằng tổng bình phương hai cạnh góc vuông. Phép tính đúng phải là \\(d^2 = 2^2 + 1,2^2\\).",
+    "hint": "Định lí Pythagore phát biểu như thế nào về mối quan hệ giữa cạnh huyền và hai cạnh góc vuông?"
+  },
+  {
+    "flashcard_type": "Sắp xếp các bước",
+    "topic_id": 8,
+    "learning_object": "LO-C8-06",
+    "level": "Vận dụng",
+    "question": "Sắp xếp các bước để tính bán kính đường tròn ngoại tiếp một hình chữ nhật có chiều dài 2 m và chiều rộng 1,2 m.",
+    "answer": "Thứ tự đúng đảm bảo quy trình tính toán logic từ các dữ kiện đã cho đến kết quả cuối cùng.",
+    "explanation": "Quy trình hợp lí để giải bài toán này là:\n1. Xác định chiều dài và chiều rộng là hai cạnh góc vuông của tam giác vuông có đường chéo là cạnh huyền.\n2. Áp dụng định lí Pythagore để tính bình phương đường chéo.\n3. Tính độ dài đường chéo bằng cách lấy căn bậc hai.\n4. Tính bán kính bằng cách chia đôi độ dài đường chéo.",
+    "hint": "Bạn cần tính độ dài của đoạn thẳng nào trước khi có thể tìm được bán kính?",
+    "ordering_steps_items": [
+      {
+        "step_content": "Tính độ dài đường chéo \\(d = \\sqrt{5,44} \\approx 2,33\\) m.",
+        "correct_order": 3
+      },
+      {
+        "step_content": "Áp dụng định lí Pythagore để tính bình phương độ dài đường chéo: \\(d^2 = 1,2^2 + 2^2 = 1,44 + 4 = 5,44\\).",
+        "correct_order": 2
+      },
+      {
+        "step_content": "Xác định chiều dài và chiều rộng của hình chữ nhật.",
+        "correct_order": 1
+      },
+      {
+        "step_content": "Tính bán kính đường tròn ngoại tiếp: \\(R = \\frac{d}{2} \\approx \\frac{2,33}{2} \\approx 1,165\\) m.",
+        "correct_order": 4
+      }
+    ]
+  },
+  {
+    "flashcard_type": "Khái niệm/Định lý/Công thức",
+    "topic_id": 8,
+    "learning_object": "LO-C8-07",
+    "level": "Nhận biết",
+    "question": "Diện tích hình viên phân được tính như thế nào?",
+    "answer": "Diện tích hình viên phân bằng hiệu giữa diện tích của hình quạt tròn và diện tích của tam giác có hai cạnh là hai bán kính và cạnh còn lại là dây cung của hình viên phân đó.",
+    "explanation": "Hình viên phân là phần hình tròn bị cắt ra bởi một dây cung. Để tính diện tích của nó, ta lấy diện tích của hình quạt tròn chứa nó rồi trừ đi phần diện tích tam giác không thuộc nó. Ví dụ, diện tích viên phân cung AB là \\(S_{viên phân} = S_{quạt OAB} - S_{\\triangle OAB}\\).",
+    "hint": "Làm thế nào để có được hình viên phân từ một hình quạt tròn?"
+  },
+  {
+    "flashcard_type": "Điền vào chỗ trống",
+    "topic_id": 8,
+    "learning_object": "LO-C8-07",
+    "level": "Nhận biết",
+    "question": "Hình vành khuyên là phần hình tròn giới hạn bởi hai đường tròn __________.",
+    "answer": "cùng tâm",
+    "explanation": "Theo định nghĩa trong Sách giáo khoa Toán 9 Tập 2, trang 122, hình vành khuyên là phần hình phẳng được giới hạn bởi hai đường tròn cùng tâm \\((O; R)\\) và \\((O; r)\\) với \\(R > r\\).",
+    "hint": "Hai đường tròn tạo nên hình vành khuyên có đặc điểm gì chung về vị trí?"
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-07",
+    "level": "Nhận biết",
+    "question": "Một chiếc gương có dạng hình tròn được treo bởi hai sợi dây không dãn \\(MA, MB\\) sao cho \\(MA, MB\\) là hai tiếp tuyến cắt nhau tại \\(M\\). Góc tạo bởi hai sợi dây là \\(\\widehat{AMB} = 60^\\circ\\). Tính góc tạo bởi hai bán kính \\(OA\\) và \\(OB\\).",
+    "answer": "Góc tạo bởi hai bán kính \\(OA\\) và \\(OB\\) là \\(\\widehat{AOB} = 120^\\circ\\).",
+    "explanation": "Xét tứ giác \\(OAMB\\), ta có \\(\\widehat{OAM} = \\widehat{OBM} = 90^\\circ\\) (tính chất tiếp tuyến). Tổng các góc trong một tứ giác bằng \\(360^\\circ\\), nên \\(\\widehat{AOB} = 360^\\circ - 90^\\circ - 90^\\circ - 60^\\circ = 120^\\circ\\).",
+    "hint": "Tổng các góc trong tứ giác OAMB là bao nhiêu?"
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-07",
+    "level": "Nhận biết",
+    "question": "Một chiếc bánh pizza hình tròn được cắt thành 8 miếng bằng nhau. Mỗi miếng bánh có dạng hình học phẳng nào?",
+    "answer": "Mỗi miếng bánh có dạng một hình quạt tròn.",
+    "explanation": "Khi cắt một hình tròn từ tâm ra các phần bằng nhau, mỗi phần được giới hạn bởi hai bán kính và một cung tròn, đó chính là định nghĩa của hình quạt tròn.",
+    "hint": "Hình được giới hạn bởi hai bán kính và một cung tròn gọi là gì?"
+  },
+  {
+    "flashcard_type": "Trả lời ngắn",
+    "topic_id": 8,
+    "learning_object": "LO-C8-07",
+    "level": "Thông hiểu",
+    "question": "Một cửa sổ có phần phía trên dạng nửa hình tròn đường kính 1,2 m, phần phía dưới là hình chữ nhật có chiều cao 2 m. Tính bán kính của nửa hình tròn đó.",
+    "answer": "Đường kính của nửa hình tròn là 1,2 m.\nBán kính của nửa hình tròn là:\n\\(R = \\frac{{1,2}}{2} = 0,6\\) (m).",
+    "explanation": "Bán kính của một hình tròn (hoặc nửa hình tròn) bằng một nửa đường kính của nó.",
+    "hint": "Mối quan hệ giữa bán kính và đường kính là gì?"
+  },
+  {
+    "flashcard_type": "Bước tiếp theo là gì?",
+    "topic_id": 8,
+    "learning_object": "LO-C8-07",
+    "level": "Thông hiểu",
+    "question": "Để tính diện tích một hình vành khuyên giới hạn bởi hai đường tròn cùng tâm có bán kính lần lượt là \\(R=4\\) cm và \\(r=3\\) cm, ta đã viết công thức \\(S = \\pi(R^2 - r^2)\\). Bước tiếp theo là gì?",
+    "answer": "Bước tiếp theo là thay các giá trị \\(R=4\\) và \\(r=3\\) vào công thức: \\(S = \\pi(4^2 - 3^2)\\).",
+    "explanation": "Sau khi đã có công thức tổng quát và các giá trị cụ thể, bước logic tiếp theo là thay số vào công thức để chuẩn bị tính toán.",
+    "hint": "Bạn đã có công thức và các số liệu, cần làm gì để tìm ra đáp án?"
+  },
+  {
+    "flashcard_type": "Bước tiếp theo là gì?",
+    "topic_id": 8,
+    "learning_object": "LO-C8-07",
+    "level": "Thông hiểu",
+    "question": "Một sân khấu hình tròn có bán kính 8 m. Để tính độ dài của dây căng ngang qua sân khấu và cách tâm 5 m, ta đã vẽ tam giác vuông OAB với O là tâm, A là một đầu dây, B là trung điểm của dây. Biết OA = 8 m, OB = 5 m. Bước tiếp theo là gì?",
+    "answer": "Bước tiếp theo là dùng định lí Pythagore trong tam giác vuông OAB để tính nửa độ dài dây AB: \\(AB^2 = OA^2 - OB^2\\).",
+    "explanation": "Trong một đường tròn, đường kính vuông góc với một dây cung thì đi qua trung điểm của dây cung đó. Bằng cách tạo ra một tam giác vuông với các cạnh là bán kính, khoảng cách từ tâm và nửa dây cung, ta có thể dùng định lí Pythagore để tìm độ dài nửa dây cung.",
+    "hint": "Trong tam giác vuông OAB, bạn đã biết cạnh huyền và một cạnh góc vuông, làm sao để tìm cạnh góc vuông còn lại?"
+  },
+  {
+    "flashcard_type": "Tìm lỗi sai",
+    "topic_id": 8,
+    "learning_object": "LO-C8-07",
+    "level": "Vận dụng",
+    "question": "Một cái ao hình tròn bán kính 10 m. Người ta làm một con đường rộng 2 m bao quanh mép ao. Để tính diện tích con đường, một bạn làm như sau:\nBán kính ao \\(r = 10\\) m.\nBán kính cả ao và đường \\(R = 10 + 2 = 12\\) m.\nDiện tích con đường \\(S = \\pi R^2 + \\pi r^2 = \\pi (12^2 + 10^2) = 244\\pi\\) m².\nLỗi sai ở đâu?",
+    "answer": "Lỗi sai ở công thức tính diện tích con đường.",
+    "explanation": "Diện tích con đường là diện tích hình vành khuyên, phải bằng diện tích hình tròn lớn TRỪ đi diện tích hình tròn nhỏ. Công thức đúng là \\(S = \\pi R^2 - \\pi r^2\\).\nTính đúng:\n\\(S = \\pi (12^2 - 10^2) = \\pi (144 - 100) = 44\\pi\\) m².",
+    "hint": "Diện tích con đường là phần nằm giữa hai hình tròn, vậy phải dùng phép tính gì?"
+  },
+  {
+    "flashcard_type": "Tìm lỗi sai",
+    "topic_id": 8,
+    "learning_object": "LO-C8-07",
+    "level": "Vận dụng",
+    "question": "Để tính diện tích mặt bàn hình viên phân được cắt từ một mặt bàn tròn bán kính 2 dm bởi một dây cung, biết góc ở tâm tương ứng là \\(90^\\circ\\), một bạn chỉ tính diện tích hình quạt tròn: \\(S = \\frac{{\\pi R^2 n}}{{360}} = \\frac{{\\pi \\cdot 2^2 \\cdot 90}}{{360}} = \\pi\\) dm². Lời giải này thiếu bước nào?",
+    "answer": "Lời giải này thiếu bước trừ đi diện tích phần tam giác vuông OAB.",
+    "explanation": "Diện tích hình viên phân bằng diện tích hình quạt trừ đi diện tích tam giác tạo bởi hai bán kính và dây cung. Bạn mới chỉ tính diện tích hình quạt. Cần tính thêm diện tích tam giác vuông OAB là \\(S_{\\triangle OAB} = \\frac{1}{2} \\cdot 2 \\cdot 2 = 2\\) dm² và lấy hiệu: \\(S_{viên phân} = (\\pi - 2)\\) dm².",
+    "hint": "Diện tích hình quạt có bằng diện tích hình viên phân không?"
+  },
+  {
+    "flashcard_type": "Sắp xếp các bước",
+    "topic_id": 8,
+    "learning_object": "LO-C8-07",
+    "level": "Vận dụng",
+    "question": "Sắp xếp các bước để tính bán kính \\(R\\) của đường tròn ngoại tiếp một sân khấu hình chữ nhật có chiều dài 8 m và chiều rộng 6 m.",
+    "answer": "Thứ tự đúng đảm bảo quy trình tính toán logic từ các dữ kiện đã cho đến kết quả cuối cùng.",
+    "explanation": "Để tìm bán kính đường tròn ngoại tiếp hình chữ nhật, ta cần biết độ dài đường chéo của nó. Đường chéo này có thể được tìm thấy bằng định lí Pythagore vì nó là cạnh huyền của tam giác vuông tạo bởi chiều dài và chiều rộng.",
+    "hint": "Bán kính đường tròn ngoại tiếp hình chữ nhật liên quan đến đại lượng nào của hình chữ nhật?",
+    "ordering_steps_items": [
+      {
+        "step_content": "Tính độ dài đường chéo \\(d = \\sqrt{100} = 10\\) m.",
+        "correct_order": 2
+      },
+      {
+        "step_content": "Áp dụng định lí Pythagore để tính bình phương đường chéo: \\(d^2 = 8^2 + 6^2 = 64 + 36 = 100\\).",
+        "correct_order": 1
+      },
+      {
+        "step_content": "Tính bán kính bằng một nửa đường chéo: \\(R = \\frac{d}{2} = \\frac{10}{2} = 5\\) m.",
+        "correct_order": 3
+      }
+    ]
+  }
+]
